@@ -44,8 +44,8 @@ def add_dates_to_data(input_csv, output_csv):
     expanded_df.to_csv(output_csv, index=False)
 
 # Specify file paths
-input_csv = "output_with_crew_demand.csv"  # Replace with your input CSV file path
-output_csv = "output_with_dates1.csv"  # Output file path
+input_csv = "../dataset/HT1/output_with_crew_demandHT1.csv"  # Replace with your input CSV file path
+output_csv = "../dataset/HT1/output_with_datesHT1.csv"  # Output file path
 
 # Add dates to the data and save the updated CSV
 add_dates_to_data(input_csv, output_csv)

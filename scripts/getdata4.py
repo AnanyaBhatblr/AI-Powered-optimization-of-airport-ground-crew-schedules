@@ -29,8 +29,8 @@ def add_crew_demand(input_csv, output_csv):
     expanded_df.to_csv(output_csv, index=False)
 
 # Specify file paths
-input_csv = "../data/task_priority_assignment.csv"  # Replace with your input CSV file path
-output_csv = "output_with_crew_demand.csv"  # Output file path
+input_csv = "../dataset/HT1/task_personnel_summaryHT1.csv"  # Replace with your input CSV file path
+output_csv = "../dataset/HT1/output_with_crew_demandHT1.csv"  # Output file path
 
 # Add crew demand and save the updated CSV
 add_crew_demand(input_csv, output_csv)

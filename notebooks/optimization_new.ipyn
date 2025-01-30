@@ -1,0 +1,100 @@
+# optimization.new.ipynb
+
+import pandas as pd
+import numpy as np
+from pulp import *
+import matplotlib.pyplot as plt
+import seaborn as sns
+from datetime import datetime
+
+# Load data
+predictions_df = pd.read_csv('predictions_output.csv')
+task_priorities_df = pd.read_csv('data/task_priority_assignment.csv')
+
+# Data preparation
+def prepare_data(predictions, priorities):
+    # Clean and merge data
+    merged_data = predictions.merge(
+        priorities[['task_ID', 'priority', 'crew_required']].drop_duplicates(),
+        left_on='Task_ID',
+        right_on='task_ID'
+    )
+    return merged_data
+
+# Optimization function
+def optimize_assignments(data):
+    # Create optimization model
+    prob = LpProblem("Task_Reallocation", LpMinimize)
+    
+    # Get unique values
+    tasks = data['Task_ID'].unique()
+    gates = data['Gate_number'].unique()
+    shifts = data['Shift_no'].unique()
+    
+    # Decision variables
+    x = LpVariable.dicts("assign", 
+                        ((t, g, s) for t in tasks for g in gates for s in shifts),
+                        cat='Binary')
+    
+    # Objective function
+    prob += lpSum(x[t, g, s] * abs(data.loc[
+        (data['Task_ID'] == t) & 
+        (data['Gate_number'] == g) & 
+        (data['Shift_no'] == s), 'Predicted'].values[0])
+        for t in tasks for g in gates for s in shifts)
+    
+    # Add constraints
+    for t in tasks:
+        prob += lpSum(x[t, g, s] for g in gates for s in shifts) <= data[
+            data['Task_ID'] == t]['crew_required'].iloc[0]
+    
+    for g in gates:
+        for s in shifts:
+            prob += lpSum(x[t, g, s] for t in tasks) <= 1
+            
+    # Solve
+    prob.solve()
+    return prob, x
+
+# Visualization function
+def plot_assignments(results_df):
+    plt.figure(figsize=(12, 6))
+    sns.heatmap(
+        results_df.pivot(
+            index='Task_ID', 
+            columns='Shift_no', 
+            values='Assigned_Value'
+        ),
+        cmap='YlOrRd',
+        annot=True
+    )
+    plt.title('Task Assignments by Shift')
+    plt.tight_layout()
+    return plt
+
+# Run optimization
+merged_data = prepare_data(predictions_df, task_priorities_df)
+optimization_model, assignments = optimize_assignments(merged_data)
+
+# Extract results
+results = []
+for t in merged_data['Task_ID'].unique():
+    for g in merged_data['Gate_number'].unique():
+        for s in merged_data['Shift_no'].unique():
+            if value(assignments[t, g, s]) > 0:
+                results.append({
+                    'Task_ID': t,
+                    'Gate_number': g,
+                    'Shift_no': s,
+                    'Assigned_Value': value(assignments[t, g, s])
+                })
+
+results_df = pd.DataFrame(results)
+
+# Visualize results
+plot_assignments(results_df)
+plt.show()
+
+# Save results
+results_df.to_csv('optimized_schedule.csv', index=False)
+print("Optimization complete! Schedule saved to optimized_schedule.csv")

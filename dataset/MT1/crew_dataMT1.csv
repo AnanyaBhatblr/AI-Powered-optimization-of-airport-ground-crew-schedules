@@ -1,0 +1,2634 @@
+Crew_ID,task_ID,task_Name,Floor_No,Gate_number,Shift_No
+C-001,T-001,Aircraft Marshalling,0,0,1
+C-002,T-001,Aircraft Marshalling,0,0,1
+C-003,T-001,Aircraft Marshalling,0,0,1
+C-004,T-001,Aircraft Marshalling,0,0,1
+C-005,T-001,Aircraft Marshalling,0,0,1
+C-006,T-001,Aircraft Marshalling,0,0,1
+C-007,T-001,Aircraft Marshalling,0,0,1
+C-008,T-001,Aircraft Marshalling,0,0,1
+C-009,T-001,Aircraft Marshalling,0,0,1
+C-010,T-001,Aircraft Marshalling,0,0,1
+C-011,T-001,Aircraft Marshalling,0,0,1
+C-012,T-002,Passenger Assistance,0,0,1
+C-013,T-002,Passenger Assistance,0,0,1
+C-014,T-002,Passenger Assistance,0,0,1
+C-015,T-002,Passenger Assistance,0,0,1
+C-016,T-002,Passenger Assistance,0,0,1
+C-017,T-002,Passenger Assistance,0,0,1
+C-018,T-002,Passenger Assistance,0,0,1
+C-019,T-002,Passenger Assistance,0,0,1
+C-020,T-002,Passenger Assistance,0,0,1
+C-021,T-002,Passenger Assistance,0,0,1
+C-022,T-002,Passenger Assistance,0,0,1
+C-023,T-002,Passenger Assistance,0,0,1
+C-024,T-002,Passenger Assistance,0,0,1
+C-025,T-002,Passenger Assistance,0,0,1
+C-026,T-003,Loading and Unloading Baggage,0,0,1
+C-027,T-003,Loading and Unloading Baggage,0,0,1
+C-028,T-003,Loading and Unloading Baggage,0,0,1
+C-029,T-003,Loading and Unloading Baggage,0,0,1
+C-030,T-003,Loading and Unloading Baggage,0,0,1
+C-031,T-003,Loading and Unloading Baggage,0,0,1
+C-032,T-003,Loading and Unloading Baggage,0,0,1
+C-033,T-003,Loading and Unloading Baggage,0,0,1
+C-034,T-003,Loading and Unloading Baggage,0,0,1
+C-035,T-003,Loading and Unloading Baggage,0,0,1
+C-036,T-003,Loading and Unloading Baggage,0,0,1
+C-037,T-003,Loading and Unloading Baggage,0,0,1
+C-038,T-003,Loading and Unloading Baggage,0,0,1
+C-039,T-003,Loading and Unloading Baggage,0,0,1
+C-040,T-003,Loading and Unloading Baggage,0,0,1
+C-041,T-004,Baggage Sorting,0,0,1
+C-042,T-004,Baggage Sorting,0,0,1
+C-043,T-004,Baggage Sorting,0,0,1
+C-044,T-004,Baggage Sorting,0,0,1
+C-045,T-004,Baggage Sorting,0,0,1
+C-046,T-004,Baggage Sorting,0,0,1
+C-047,T-004,Baggage Sorting,0,0,1
+C-048,T-004,Baggage Sorting,0,0,1
+C-049,T-004,Baggage Sorting,0,0,1
+C-050,T-004,Baggage Sorting,0,0,1
+C-051,T-004,Baggage Sorting,0,0,1
+C-052,T-004,Baggage Sorting,0,0,1
+C-053,T-005,Cargo Management,0,0,1
+C-054,T-005,Cargo Management,0,0,1
+C-055,T-005,Cargo Management,0,0,1
+C-056,T-005,Cargo Management,0,0,1
+C-057,T-005,Cargo Management,0,0,1
+C-058,T-005,Cargo Management,0,0,1
+C-059,T-005,Cargo Management,0,0,1
+C-060,T-005,Cargo Management,0,0,1
+C-061,T-005,Cargo Management,0,0,1
+C-062,T-005,Cargo Management,0,0,1
+C-063,T-005,Cargo Management,0,0,1
+C-064,T-005,Cargo Management,0,0,1
+C-065,T-005,Cargo Management,0,0,1
+C-066,T-006,Refueling,0,0,1
+C-067,T-006,Refueling,0,0,1
+C-068,T-006,Refueling,0,0,1
+C-069,T-006,Refueling,0,0,1
+C-070,T-006,Refueling,0,0,1
+C-071,T-006,Refueling,0,0,1
+C-072,T-006,Refueling,0,0,1
+C-073,T-006,Refueling,0,0,1
+C-074,T-006,Refueling,0,0,1
+C-075,T-006,Refueling,0,0,1
+C-076,T-006,Refueling,0,0,1
+C-077,T-006,Refueling,0,0,1
+C-078,T-006,Refueling,0,0,1
+C-079,T-007,Cleaning,0,0,1
+C-080,T-007,Cleaning,0,0,1
+C-081,T-007,Cleaning,0,0,1
+C-082,T-007,Cleaning,0,0,1
+C-083,T-007,Cleaning,0,0,1
+C-084,T-007,Cleaning,0,0,1
+C-085,T-007,Cleaning,0,0,1
+C-086,T-007,Cleaning,0,0,1
+C-087,T-007,Cleaning,0,0,1
+C-088,T-007,Cleaning,0,0,1
+C-089,T-007,Cleaning,0,0,1
+C-090,T-007,Cleaning,0,0,1
+C-091,T-008,De-icing,0,0,1
+C-092,T-008,De-icing,0,0,1
+C-093,T-008,De-icing,0,0,1
+C-094,T-008,De-icing,0,0,1
+C-095,T-008,De-icing,0,0,1
+C-096,T-008,De-icing,0,0,1
+C-097,T-008,De-icing,0,0,1
+C-098,T-008,De-icing,0,0,1
+C-099,T-008,De-icing,0,0,1
+C-100,T-008,De-icing,0,0,1
+C-101,T-008,De-icing,0,0,1
+C-102,T-008,De-icing,0,0,1
+C-103,T-008,De-icing,0,0,1
+C-104,T-008,De-icing,0,0,1
+C-105,T-009,Water and Waste Services,0,0,1
+C-106,T-009,Water and Waste Services,0,0,1
+C-107,T-009,Water and Waste Services,0,0,1
+C-108,T-009,Water and Waste Services,0,0,1
+C-109,T-009,Water and Waste Services,0,0,1
+C-110,T-009,Water and Waste Services,0,0,1
+C-111,T-009,Water and Waste Services,0,0,1
+C-112,T-009,Water and Waste Services,0,0,1
+C-113,T-009,Water and Waste Services,0,0,1
+C-114,T-009,Water and Waste Services,0,0,1
+C-115,T-009,Water and Waste Services,0,0,1
+C-116,T-009,Water and Waste Services,0,0,1
+C-117,T-010,Aircraft Inspections,0,0,1
+C-118,T-010,Aircraft Inspections,0,0,1
+C-119,T-010,Aircraft Inspections,0,0,1
+C-120,T-010,Aircraft Inspections,0,0,1
+C-121,T-010,Aircraft Inspections,0,0,1
+C-122,T-010,Aircraft Inspections,0,0,1
+C-123,T-010,Aircraft Inspections,0,0,1
+C-124,T-010,Aircraft Inspections,0,0,1
+C-125,T-010,Aircraft Inspections,0,0,1
+C-126,T-010,Aircraft Inspections,0,0,1
+C-127,T-010,Aircraft Inspections,0,0,1
+C-128,T-011,Ground Power Unit Operations,0,0,1
+C-129,T-011,Ground Power Unit Operations,0,0,1
+C-130,T-011,Ground Power Unit Operations,0,0,1
+C-131,T-011,Ground Power Unit Operations,0,0,1
+C-132,T-011,Ground Power Unit Operations,0,0,1
+C-133,T-011,Ground Power Unit Operations,0,0,1
+C-134,T-011,Ground Power Unit Operations,0,0,1
+C-135,T-011,Ground Power Unit Operations,0,0,1
+C-136,T-011,Ground Power Unit Operations,0,0,1
+C-137,T-011,Ground Power Unit Operations,0,0,1
+C-138,T-011,Ground Power Unit Operations,0,0,1
+C-139,T-011,Ground Power Unit Operations,0,0,1
+C-140,T-011,Ground Power Unit Operations,0,0,1
+C-141,T-012,Safety Zone Maintenance,0,0,1
+C-142,T-012,Safety Zone Maintenance,0,0,1
+C-143,T-012,Safety Zone Maintenance,0,0,1
+C-144,T-012,Safety Zone Maintenance,0,0,1
+C-145,T-012,Safety Zone Maintenance,0,0,1
+C-146,T-012,Safety Zone Maintenance,0,0,1
+C-147,T-012,Safety Zone Maintenance,0,0,1
+C-148,T-012,Safety Zone Maintenance,0,0,1
+C-149,T-012,Safety Zone Maintenance,0,0,1
+C-150,T-012,Safety Zone Maintenance,0,0,1
+C-151,T-012,Safety Zone Maintenance,0,0,1
+C-152,T-012,Safety Zone Maintenance,0,0,1
+C-153,T-013,Pushback and Towing,0,0,1
+C-154,T-013,Pushback and Towing,0,0,1
+C-155,T-013,Pushback and Towing,0,0,1
+C-156,T-013,Pushback and Towing,0,0,1
+C-157,T-013,Pushback and Towing,0,0,1
+C-158,T-013,Pushback and Towing,0,0,1
+C-159,T-013,Pushback and Towing,0,0,1
+C-160,T-013,Pushback and Towing,0,0,1
+C-161,T-013,Pushback and Towing,0,0,1
+C-162,T-013,Pushback and Towing,0,0,1
+C-163,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-164,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-165,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-166,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-167,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-168,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-169,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-170,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-171,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-172,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-173,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-174,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-175,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-176,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-177,T-014,Conveyor Belts and Baggage Carts,0,0,1
+C-178,T-015,Ramp Equipment Management,0,0,1
+C-179,T-015,Ramp Equipment Management,0,0,1
+C-180,T-015,Ramp Equipment Management,0,0,1
+C-181,T-015,Ramp Equipment Management,0,0,1
+C-182,T-015,Ramp Equipment Management,0,0,1
+C-183,T-015,Ramp Equipment Management,0,0,1
+C-184,T-015,Ramp Equipment Management,0,0,1
+C-185,T-015,Ramp Equipment Management,0,0,1
+C-186,T-015,Ramp Equipment Management,0,0,1
+C-187,T-015,Ramp Equipment Management,0,0,1
+C-188,T-015,Ramp Equipment Management,0,0,1
+C-189,T-015,Ramp Equipment Management,0,0,1
+C-190,T-015,Ramp Equipment Management,0,0,1
+C-191,T-015,Ramp Equipment Management,0,0,1
+C-192,T-015,Ramp Equipment Management,0,0,1
+C-193,T-016,Liaison with ATC,0,0,1
+C-194,T-016,Liaison with ATC,0,0,1
+C-195,T-016,Liaison with ATC,0,0,1
+C-196,T-016,Liaison with ATC,0,0,1
+C-197,T-016,Liaison with ATC,0,0,1
+C-198,T-016,Liaison with ATC,0,0,1
+C-199,T-016,Liaison with ATC,0,0,1
+C-200,T-016,Liaison with ATC,0,0,1
+C-201,T-016,Liaison with ATC,0,0,1
+C-202,T-016,Liaison with ATC,0,0,1
+C-203,T-016,Liaison with ATC,0,0,1
+C-204,T-016,Liaison with ATC,0,0,1
+C-205,T-016,Liaison with ATC,0,0,1
+C-206,T-016,Liaison with ATC,0,0,1
+C-207,T-016,Liaison with ATC,0,0,1
+C-208,T-017,Coordination with Airlines,0,0,1
+C-209,T-017,Coordination with Airlines,0,0,1
+C-210,T-017,Coordination with Airlines,0,0,1
+C-211,T-017,Coordination with Airlines,0,0,1
+C-212,T-017,Coordination with Airlines,0,0,1
+C-213,T-017,Coordination with Airlines,0,0,1
+C-214,T-017,Coordination with Airlines,0,0,1
+C-215,T-017,Coordination with Airlines,0,0,1
+C-216,T-017,Coordination with Airlines,0,0,1
+C-217,T-017,Coordination with Airlines,0,0,1
+C-218,T-017,Coordination with Airlines,0,0,1
+C-219,T-018,Emergency Response,0,0,1
+C-220,T-018,Emergency Response,0,0,1
+C-221,T-018,Emergency Response,0,0,1
+C-222,T-018,Emergency Response,0,0,1
+C-223,T-018,Emergency Response,0,0,1
+C-224,T-018,Emergency Response,0,0,1
+C-225,T-018,Emergency Response,0,0,1
+C-226,T-018,Emergency Response,0,0,1
+C-227,T-018,Emergency Response,0,0,1
+C-228,T-018,Emergency Response,0,0,1
+C-229,T-018,Emergency Response,0,0,1
+C-230,T-018,Emergency Response,0,0,1
+C-231,T-019,Weather Adaptations,0,0,1
+C-232,T-019,Weather Adaptations,0,0,1
+C-233,T-019,Weather Adaptations,0,0,1
+C-234,T-019,Weather Adaptations,0,0,1
+C-235,T-019,Weather Adaptations,0,0,1
+C-236,T-019,Weather Adaptations,0,0,1
+C-237,T-019,Weather Adaptations,0,0,1
+C-238,T-019,Weather Adaptations,0,0,1
+C-239,T-019,Weather Adaptations,0,0,1
+C-240,T-019,Weather Adaptations,0,0,1
+C-241,T-001,Aircraft Marshalling,0,0,2
+C-242,T-001,Aircraft Marshalling,0,0,2
+C-243,T-001,Aircraft Marshalling,0,0,2
+C-244,T-001,Aircraft Marshalling,0,0,2
+C-245,T-001,Aircraft Marshalling,0,0,2
+C-246,T-001,Aircraft Marshalling,0,0,2
+C-247,T-001,Aircraft Marshalling,0,0,2
+C-248,T-001,Aircraft Marshalling,0,0,2
+C-249,T-001,Aircraft Marshalling,0,0,2
+C-250,T-001,Aircraft Marshalling,0,0,2
+C-251,T-002,Passenger Assistance,0,0,2
+C-252,T-002,Passenger Assistance,0,0,2
+C-253,T-002,Passenger Assistance,0,0,2
+C-254,T-002,Passenger Assistance,0,0,2
+C-255,T-002,Passenger Assistance,0,0,2
+C-256,T-002,Passenger Assistance,0,0,2
+C-257,T-002,Passenger Assistance,0,0,2
+C-258,T-002,Passenger Assistance,0,0,2
+C-259,T-002,Passenger Assistance,0,0,2
+C-260,T-002,Passenger Assistance,0,0,2
+C-261,T-002,Passenger Assistance,0,0,2
+C-262,T-002,Passenger Assistance,0,0,2
+C-263,T-002,Passenger Assistance,0,0,2
+C-264,T-002,Passenger Assistance,0,0,2
+C-265,T-002,Passenger Assistance,0,0,2
+C-266,T-003,Loading and Unloading Baggage,0,0,2
+C-267,T-003,Loading and Unloading Baggage,0,0,2
+C-268,T-003,Loading and Unloading Baggage,0,0,2
+C-269,T-003,Loading and Unloading Baggage,0,0,2
+C-270,T-003,Loading and Unloading Baggage,0,0,2
+C-271,T-003,Loading and Unloading Baggage,0,0,2
+C-272,T-003,Loading and Unloading Baggage,0,0,2
+C-273,T-003,Loading and Unloading Baggage,0,0,2
+C-274,T-003,Loading and Unloading Baggage,0,0,2
+C-275,T-003,Loading and Unloading Baggage,0,0,2
+C-276,T-003,Loading and Unloading Baggage,0,0,2
+C-277,T-003,Loading and Unloading Baggage,0,0,2
+C-278,T-003,Loading and Unloading Baggage,0,0,2
+C-279,T-004,Baggage Sorting,0,0,2
+C-280,T-004,Baggage Sorting,0,0,2
+C-281,T-004,Baggage Sorting,0,0,2
+C-282,T-004,Baggage Sorting,0,0,2
+C-283,T-004,Baggage Sorting,0,0,2
+C-284,T-004,Baggage Sorting,0,0,2
+C-285,T-004,Baggage Sorting,0,0,2
+C-286,T-004,Baggage Sorting,0,0,2
+C-287,T-004,Baggage Sorting,0,0,2
+C-288,T-004,Baggage Sorting,0,0,2
+C-289,T-005,Cargo Management,0,0,2
+C-290,T-005,Cargo Management,0,0,2
+C-291,T-005,Cargo Management,0,0,2
+C-292,T-005,Cargo Management,0,0,2
+C-293,T-005,Cargo Management,0,0,2
+C-294,T-005,Cargo Management,0,0,2
+C-295,T-005,Cargo Management,0,0,2
+C-296,T-005,Cargo Management,0,0,2
+C-297,T-005,Cargo Management,0,0,2
+C-298,T-005,Cargo Management,0,0,2
+C-299,T-005,Cargo Management,0,0,2
+C-300,T-005,Cargo Management,0,0,2
+C-301,T-005,Cargo Management,0,0,2
+C-302,T-005,Cargo Management,0,0,2
+C-303,T-006,Refueling,0,0,2
+C-304,T-006,Refueling,0,0,2
+C-305,T-006,Refueling,0,0,2
+C-306,T-006,Refueling,0,0,2
+C-307,T-006,Refueling,0,0,2
+C-308,T-006,Refueling,0,0,2
+C-309,T-006,Refueling,0,0,2
+C-310,T-006,Refueling,0,0,2
+C-311,T-006,Refueling,0,0,2
+C-312,T-006,Refueling,0,0,2
+C-313,T-006,Refueling,0,0,2
+C-314,T-007,Cleaning,0,0,2
+C-315,T-007,Cleaning,0,0,2
+C-316,T-007,Cleaning,0,0,2
+C-317,T-007,Cleaning,0,0,2
+C-318,T-007,Cleaning,0,0,2
+C-319,T-007,Cleaning,0,0,2
+C-320,T-007,Cleaning,0,0,2
+C-321,T-007,Cleaning,0,0,2
+C-322,T-007,Cleaning,0,0,2
+C-323,T-007,Cleaning,0,0,2
+C-324,T-007,Cleaning,0,0,2
+C-325,T-008,De-icing,0,0,2
+C-326,T-008,De-icing,0,0,2
+C-327,T-008,De-icing,0,0,2
+C-328,T-008,De-icing,0,0,2
+C-329,T-008,De-icing,0,0,2
+C-330,T-008,De-icing,0,0,2
+C-331,T-008,De-icing,0,0,2
+C-332,T-008,De-icing,0,0,2
+C-333,T-008,De-icing,0,0,2
+C-334,T-008,De-icing,0,0,2
+C-335,T-008,De-icing,0,0,2
+C-336,T-008,De-icing,0,0,2
+C-337,T-008,De-icing,0,0,2
+C-338,T-009,Water and Waste Services,0,0,2
+C-339,T-009,Water and Waste Services,0,0,2
+C-340,T-009,Water and Waste Services,0,0,2
+C-341,T-009,Water and Waste Services,0,0,2
+C-342,T-009,Water and Waste Services,0,0,2
+C-343,T-009,Water and Waste Services,0,0,2
+C-344,T-009,Water and Waste Services,0,0,2
+C-345,T-009,Water and Waste Services,0,0,2
+C-346,T-009,Water and Waste Services,0,0,2
+C-347,T-009,Water and Waste Services,0,0,2
+C-348,T-009,Water and Waste Services,0,0,2
+C-349,T-009,Water and Waste Services,0,0,2
+C-350,T-009,Water and Waste Services,0,0,2
+C-351,T-010,Aircraft Inspections,0,0,2
+C-352,T-010,Aircraft Inspections,0,0,2
+C-353,T-010,Aircraft Inspections,0,0,2
+C-354,T-010,Aircraft Inspections,0,0,2
+C-355,T-010,Aircraft Inspections,0,0,2
+C-356,T-010,Aircraft Inspections,0,0,2
+C-357,T-010,Aircraft Inspections,0,0,2
+C-358,T-010,Aircraft Inspections,0,0,2
+C-359,T-010,Aircraft Inspections,0,0,2
+C-360,T-010,Aircraft Inspections,0,0,2
+C-361,T-011,Ground Power Unit Operations,0,0,2
+C-362,T-011,Ground Power Unit Operations,0,0,2
+C-363,T-011,Ground Power Unit Operations,0,0,2
+C-364,T-011,Ground Power Unit Operations,0,0,2
+C-365,T-011,Ground Power Unit Operations,0,0,2
+C-366,T-011,Ground Power Unit Operations,0,0,2
+C-367,T-011,Ground Power Unit Operations,0,0,2
+C-368,T-011,Ground Power Unit Operations,0,0,2
+C-369,T-011,Ground Power Unit Operations,0,0,2
+C-370,T-011,Ground Power Unit Operations,0,0,2
+C-371,T-011,Ground Power Unit Operations,0,0,2
+C-372,T-011,Ground Power Unit Operations,0,0,2
+C-373,T-011,Ground Power Unit Operations,0,0,2
+C-374,T-011,Ground Power Unit Operations,0,0,2
+C-375,T-012,Safety Zone Maintenance,0,0,2
+C-376,T-012,Safety Zone Maintenance,0,0,2
+C-377,T-012,Safety Zone Maintenance,0,0,2
+C-378,T-012,Safety Zone Maintenance,0,0,2
+C-379,T-012,Safety Zone Maintenance,0,0,2
+C-380,T-012,Safety Zone Maintenance,0,0,2
+C-381,T-012,Safety Zone Maintenance,0,0,2
+C-382,T-012,Safety Zone Maintenance,0,0,2
+C-383,T-012,Safety Zone Maintenance,0,0,2
+C-384,T-012,Safety Zone Maintenance,0,0,2
+C-385,T-012,Safety Zone Maintenance,0,0,2
+C-386,T-013,Pushback and Towing,0,0,2
+C-387,T-013,Pushback and Towing,0,0,2
+C-388,T-013,Pushback and Towing,0,0,2
+C-389,T-013,Pushback and Towing,0,0,2
+C-390,T-013,Pushback and Towing,0,0,2
+C-391,T-013,Pushback and Towing,0,0,2
+C-392,T-013,Pushback and Towing,0,0,2
+C-393,T-013,Pushback and Towing,0,0,2
+C-394,T-013,Pushback and Towing,0,0,2
+C-395,T-013,Pushback and Towing,0,0,2
+C-396,T-013,Pushback and Towing,0,0,2
+C-397,T-013,Pushback and Towing,0,0,2
+C-398,T-013,Pushback and Towing,0,0,2
+C-399,T-013,Pushback and Towing,0,0,2
+C-400,T-013,Pushback and Towing,0,0,2
+C-401,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-402,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-403,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-404,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-405,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-406,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-407,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-408,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-409,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-410,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-411,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-412,T-014,Conveyor Belts and Baggage Carts,0,0,2
+C-413,T-015,Ramp Equipment Management,0,0,2
+C-414,T-015,Ramp Equipment Management,0,0,2
+C-415,T-015,Ramp Equipment Management,0,0,2
+C-416,T-015,Ramp Equipment Management,0,0,2
+C-417,T-015,Ramp Equipment Management,0,0,2
+C-418,T-015,Ramp Equipment Management,0,0,2
+C-419,T-015,Ramp Equipment Management,0,0,2
+C-420,T-015,Ramp Equipment Management,0,0,2
+C-421,T-015,Ramp Equipment Management,0,0,2
+C-422,T-015,Ramp Equipment Management,0,0,2
+C-423,T-016,Liaison with ATC,0,0,2
+C-424,T-016,Liaison with ATC,0,0,2
+C-425,T-016,Liaison with ATC,0,0,2
+C-426,T-016,Liaison with ATC,0,0,2
+C-427,T-016,Liaison with ATC,0,0,2
+C-428,T-016,Liaison with ATC,0,0,2
+C-429,T-016,Liaison with ATC,0,0,2
+C-430,T-016,Liaison with ATC,0,0,2
+C-431,T-016,Liaison with ATC,0,0,2
+C-432,T-016,Liaison with ATC,0,0,2
+C-433,T-016,Liaison with ATC,0,0,2
+C-434,T-016,Liaison with ATC,0,0,2
+C-435,T-017,Coordination with Airlines,0,0,2
+C-436,T-017,Coordination with Airlines,0,0,2
+C-437,T-017,Coordination with Airlines,0,0,2
+C-438,T-017,Coordination with Airlines,0,0,2
+C-439,T-017,Coordination with Airlines,0,0,2
+C-440,T-017,Coordination with Airlines,0,0,2
+C-441,T-017,Coordination with Airlines,0,0,2
+C-442,T-017,Coordination with Airlines,0,0,2
+C-443,T-017,Coordination with Airlines,0,0,2
+C-444,T-017,Coordination with Airlines,0,0,2
+C-445,T-017,Coordination with Airlines,0,0,2
+C-446,T-017,Coordination with Airlines,0,0,2
+C-447,T-017,Coordination with Airlines,0,0,2
+C-448,T-017,Coordination with Airlines,0,0,2
+C-449,T-018,Emergency Response,0,0,2
+C-450,T-018,Emergency Response,0,0,2
+C-451,T-018,Emergency Response,0,0,2
+C-452,T-018,Emergency Response,0,0,2
+C-453,T-018,Emergency Response,0,0,2
+C-454,T-018,Emergency Response,0,0,2
+C-455,T-018,Emergency Response,0,0,2
+C-456,T-018,Emergency Response,0,0,2
+C-457,T-018,Emergency Response,0,0,2
+C-458,T-018,Emergency Response,0,0,2
+C-459,T-018,Emergency Response,0,0,2
+C-460,T-018,Emergency Response,0,0,2
+C-461,T-018,Emergency Response,0,0,2
+C-462,T-018,Emergency Response,0,0,2
+C-463,T-018,Emergency Response,0,0,2
+C-464,T-019,Weather Adaptations,0,0,2
+C-465,T-019,Weather Adaptations,0,0,2
+C-466,T-019,Weather Adaptations,0,0,2
+C-467,T-019,Weather Adaptations,0,0,2
+C-468,T-019,Weather Adaptations,0,0,2
+C-469,T-019,Weather Adaptations,0,0,2
+C-470,T-019,Weather Adaptations,0,0,2
+C-471,T-019,Weather Adaptations,0,0,2
+C-472,T-019,Weather Adaptations,0,0,2
+C-473,T-019,Weather Adaptations,0,0,2
+C-474,T-019,Weather Adaptations,0,0,2
+C-475,T-019,Weather Adaptations,0,0,2
+C-476,T-019,Weather Adaptations,0,0,2
+C-477,T-001,Aircraft Marshalling,0,0,3
+C-478,T-001,Aircraft Marshalling,0,0,3
+C-479,T-001,Aircraft Marshalling,0,0,3
+C-480,T-001,Aircraft Marshalling,0,0,3
+C-481,T-001,Aircraft Marshalling,0,0,3
+C-482,T-001,Aircraft Marshalling,0,0,3
+C-483,T-001,Aircraft Marshalling,0,0,3
+C-484,T-001,Aircraft Marshalling,0,0,3
+C-485,T-001,Aircraft Marshalling,0,0,3
+C-486,T-001,Aircraft Marshalling,0,0,3
+C-487,T-001,Aircraft Marshalling,0,0,3
+C-488,T-001,Aircraft Marshalling,0,0,3
+C-489,T-001,Aircraft Marshalling,0,0,3
+C-490,T-001,Aircraft Marshalling,0,0,3
+C-491,T-002,Passenger Assistance,0,0,3
+C-492,T-002,Passenger Assistance,0,0,3
+C-493,T-002,Passenger Assistance,0,0,3
+C-494,T-002,Passenger Assistance,0,0,3
+C-495,T-002,Passenger Assistance,0,0,3
+C-496,T-002,Passenger Assistance,0,0,3
+C-497,T-002,Passenger Assistance,0,0,3
+C-498,T-002,Passenger Assistance,0,0,3
+C-499,T-002,Passenger Assistance,0,0,3
+C-500,T-002,Passenger Assistance,0,0,3
+C-501,T-002,Passenger Assistance,0,0,3
+C-502,T-003,Loading and Unloading Baggage,0,0,3
+C-503,T-003,Loading and Unloading Baggage,0,0,3
+C-504,T-003,Loading and Unloading Baggage,0,0,3
+C-505,T-003,Loading and Unloading Baggage,0,0,3
+C-506,T-003,Loading and Unloading Baggage,0,0,3
+C-507,T-003,Loading and Unloading Baggage,0,0,3
+C-508,T-003,Loading and Unloading Baggage,0,0,3
+C-509,T-003,Loading and Unloading Baggage,0,0,3
+C-510,T-003,Loading and Unloading Baggage,0,0,3
+C-511,T-003,Loading and Unloading Baggage,0,0,3
+C-512,T-003,Loading and Unloading Baggage,0,0,3
+C-513,T-003,Loading and Unloading Baggage,0,0,3
+C-514,T-003,Loading and Unloading Baggage,0,0,3
+C-515,T-003,Loading and Unloading Baggage,0,0,3
+C-516,T-003,Loading and Unloading Baggage,0,0,3
+C-517,T-004,Baggage Sorting,0,0,3
+C-518,T-004,Baggage Sorting,0,0,3
+C-519,T-004,Baggage Sorting,0,0,3
+C-520,T-004,Baggage Sorting,0,0,3
+C-521,T-004,Baggage Sorting,0,0,3
+C-522,T-004,Baggage Sorting,0,0,3
+C-523,T-004,Baggage Sorting,0,0,3
+C-524,T-004,Baggage Sorting,0,0,3
+C-525,T-004,Baggage Sorting,0,0,3
+C-526,T-004,Baggage Sorting,0,0,3
+C-527,T-004,Baggage Sorting,0,0,3
+C-528,T-004,Baggage Sorting,0,0,3
+C-529,T-004,Baggage Sorting,0,0,3
+C-530,T-004,Baggage Sorting,0,0,3
+C-531,T-005,Cargo Management,0,0,3
+C-532,T-005,Cargo Management,0,0,3
+C-533,T-005,Cargo Management,0,0,3
+C-534,T-005,Cargo Management,0,0,3
+C-535,T-005,Cargo Management,0,0,3
+C-536,T-005,Cargo Management,0,0,3
+C-537,T-005,Cargo Management,0,0,3
+C-538,T-005,Cargo Management,0,0,3
+C-539,T-005,Cargo Management,0,0,3
+C-540,T-005,Cargo Management,0,0,3
+C-541,T-005,Cargo Management,0,0,3
+C-542,T-006,Refueling,0,0,3
+C-543,T-006,Refueling,0,0,3
+C-544,T-006,Refueling,0,0,3
+C-545,T-006,Refueling,0,0,3
+C-546,T-006,Refueling,0,0,3
+C-547,T-006,Refueling,0,0,3
+C-548,T-006,Refueling,0,0,3
+C-549,T-006,Refueling,0,0,3
+C-550,T-006,Refueling,0,0,3
+C-551,T-006,Refueling,0,0,3
+C-552,T-006,Refueling,0,0,3
+C-553,T-006,Refueling,0,0,3
+C-554,T-006,Refueling,0,0,3
+C-555,T-006,Refueling,0,0,3
+C-556,T-006,Refueling,0,0,3
+C-557,T-007,Cleaning,0,0,3
+C-558,T-007,Cleaning,0,0,3
+C-559,T-007,Cleaning,0,0,3
+C-560,T-007,Cleaning,0,0,3
+C-561,T-007,Cleaning,0,0,3
+C-562,T-007,Cleaning,0,0,3
+C-563,T-007,Cleaning,0,0,3
+C-564,T-007,Cleaning,0,0,3
+C-565,T-007,Cleaning,0,0,3
+C-566,T-007,Cleaning,0,0,3
+C-567,T-007,Cleaning,0,0,3
+C-568,T-007,Cleaning,0,0,3
+C-569,T-008,De-icing,0,0,3
+C-570,T-008,De-icing,0,0,3
+C-571,T-008,De-icing,0,0,3
+C-572,T-008,De-icing,0,0,3
+C-573,T-008,De-icing,0,0,3
+C-574,T-008,De-icing,0,0,3
+C-575,T-008,De-icing,0,0,3
+C-576,T-008,De-icing,0,0,3
+C-577,T-008,De-icing,0,0,3
+C-578,T-008,De-icing,0,0,3
+C-579,T-008,De-icing,0,0,3
+C-580,T-009,Water and Waste Services,0,0,3
+C-581,T-009,Water and Waste Services,0,0,3
+C-582,T-009,Water and Waste Services,0,0,3
+C-583,T-009,Water and Waste Services,0,0,3
+C-584,T-009,Water and Waste Services,0,0,3
+C-585,T-009,Water and Waste Services,0,0,3
+C-586,T-009,Water and Waste Services,0,0,3
+C-587,T-009,Water and Waste Services,0,0,3
+C-588,T-009,Water and Waste Services,0,0,3
+C-589,T-009,Water and Waste Services,0,0,3
+C-590,T-009,Water and Waste Services,0,0,3
+C-591,T-009,Water and Waste Services,0,0,3
+C-592,T-009,Water and Waste Services,0,0,3
+C-593,T-009,Water and Waste Services,0,0,3
+C-594,T-010,Aircraft Inspections,0,0,3
+C-595,T-010,Aircraft Inspections,0,0,3
+C-596,T-010,Aircraft Inspections,0,0,3
+C-597,T-010,Aircraft Inspections,0,0,3
+C-598,T-010,Aircraft Inspections,0,0,3
+C-599,T-010,Aircraft Inspections,0,0,3
+C-600,T-010,Aircraft Inspections,0,0,3
+C-601,T-010,Aircraft Inspections,0,0,3
+C-602,T-010,Aircraft Inspections,0,0,3
+C-603,T-010,Aircraft Inspections,0,0,3
+C-604,T-010,Aircraft Inspections,0,0,3
+C-605,T-010,Aircraft Inspections,0,0,3
+C-606,T-010,Aircraft Inspections,0,0,3
+C-607,T-011,Ground Power Unit Operations,0,0,3
+C-608,T-011,Ground Power Unit Operations,0,0,3
+C-609,T-011,Ground Power Unit Operations,0,0,3
+C-610,T-011,Ground Power Unit Operations,0,0,3
+C-611,T-011,Ground Power Unit Operations,0,0,3
+C-612,T-011,Ground Power Unit Operations,0,0,3
+C-613,T-011,Ground Power Unit Operations,0,0,3
+C-614,T-011,Ground Power Unit Operations,0,0,3
+C-615,T-011,Ground Power Unit Operations,0,0,3
+C-616,T-011,Ground Power Unit Operations,0,0,3
+C-617,T-011,Ground Power Unit Operations,0,0,3
+C-618,T-011,Ground Power Unit Operations,0,0,3
+C-619,T-011,Ground Power Unit Operations,0,0,3
+C-620,T-011,Ground Power Unit Operations,0,0,3
+C-621,T-012,Safety Zone Maintenance,0,0,3
+C-622,T-012,Safety Zone Maintenance,0,0,3
+C-623,T-012,Safety Zone Maintenance,0,0,3
+C-624,T-012,Safety Zone Maintenance,0,0,3
+C-625,T-012,Safety Zone Maintenance,0,0,3
+C-626,T-012,Safety Zone Maintenance,0,0,3
+C-627,T-012,Safety Zone Maintenance,0,0,3
+C-628,T-012,Safety Zone Maintenance,0,0,3
+C-629,T-012,Safety Zone Maintenance,0,0,3
+C-630,T-012,Safety Zone Maintenance,0,0,3
+C-631,T-012,Safety Zone Maintenance,0,0,3
+C-632,T-012,Safety Zone Maintenance,0,0,3
+C-633,T-013,Pushback and Towing,0,0,3
+C-634,T-013,Pushback and Towing,0,0,3
+C-635,T-013,Pushback and Towing,0,0,3
+C-636,T-013,Pushback and Towing,0,0,3
+C-637,T-013,Pushback and Towing,0,0,3
+C-638,T-013,Pushback and Towing,0,0,3
+C-639,T-013,Pushback and Towing,0,0,3
+C-640,T-013,Pushback and Towing,0,0,3
+C-641,T-013,Pushback and Towing,0,0,3
+C-642,T-013,Pushback and Towing,0,0,3
+C-643,T-013,Pushback and Towing,0,0,3
+C-644,T-013,Pushback and Towing,0,0,3
+C-645,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-646,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-647,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-648,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-649,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-650,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-651,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-652,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-653,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-654,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-655,T-014,Conveyor Belts and Baggage Carts,0,0,3
+C-656,T-015,Ramp Equipment Management,0,0,3
+C-657,T-015,Ramp Equipment Management,0,0,3
+C-658,T-015,Ramp Equipment Management,0,0,3
+C-659,T-015,Ramp Equipment Management,0,0,3
+C-660,T-015,Ramp Equipment Management,0,0,3
+C-661,T-015,Ramp Equipment Management,0,0,3
+C-662,T-015,Ramp Equipment Management,0,0,3
+C-663,T-015,Ramp Equipment Management,0,0,3
+C-664,T-015,Ramp Equipment Management,0,0,3
+C-665,T-015,Ramp Equipment Management,0,0,3
+C-666,T-015,Ramp Equipment Management,0,0,3
+C-667,T-015,Ramp Equipment Management,0,0,3
+C-668,T-015,Ramp Equipment Management,0,0,3
+C-669,T-015,Ramp Equipment Management,0,0,3
+C-670,T-016,Liaison with ATC,0,0,3
+C-671,T-016,Liaison with ATC,0,0,3
+C-672,T-016,Liaison with ATC,0,0,3
+C-673,T-016,Liaison with ATC,0,0,3
+C-674,T-016,Liaison with ATC,0,0,3
+C-675,T-016,Liaison with ATC,0,0,3
+C-676,T-016,Liaison with ATC,0,0,3
+C-677,T-016,Liaison with ATC,0,0,3
+C-678,T-016,Liaison with ATC,0,0,3
+C-679,T-016,Liaison with ATC,0,0,3
+C-680,T-016,Liaison with ATC,0,0,3
+C-681,T-017,Coordination with Airlines,0,0,3
+C-682,T-017,Coordination with Airlines,0,0,3
+C-683,T-017,Coordination with Airlines,0,0,3
+C-684,T-017,Coordination with Airlines,0,0,3
+C-685,T-017,Coordination with Airlines,0,0,3
+C-686,T-017,Coordination with Airlines,0,0,3
+C-687,T-017,Coordination with Airlines,0,0,3
+C-688,T-017,Coordination with Airlines,0,0,3
+C-689,T-017,Coordination with Airlines,0,0,3
+C-690,T-017,Coordination with Airlines,0,0,3
+C-691,T-017,Coordination with Airlines,0,0,3
+C-692,T-017,Coordination with Airlines,0,0,3
+C-693,T-018,Emergency Response,0,0,3
+C-694,T-018,Emergency Response,0,0,3
+C-695,T-018,Emergency Response,0,0,3
+C-696,T-018,Emergency Response,0,0,3
+C-697,T-018,Emergency Response,0,0,3
+C-698,T-018,Emergency Response,0,0,3
+C-699,T-018,Emergency Response,0,0,3
+C-700,T-018,Emergency Response,0,0,3
+C-701,T-018,Emergency Response,0,0,3
+C-702,T-018,Emergency Response,0,0,3
+C-703,T-018,Emergency Response,0,0,3
+C-704,T-018,Emergency Response,0,0,3
+C-705,T-018,Emergency Response,0,0,3
+C-706,T-018,Emergency Response,0,0,3
+C-707,T-018,Emergency Response,0,0,3
+C-708,T-019,Weather Adaptations,0,0,3
+C-709,T-019,Weather Adaptations,0,0,3
+C-710,T-019,Weather Adaptations,0,0,3
+C-711,T-019,Weather Adaptations,0,0,3
+C-712,T-019,Weather Adaptations,0,0,3
+C-713,T-019,Weather Adaptations,0,0,3
+C-714,T-019,Weather Adaptations,0,0,3
+C-715,T-019,Weather Adaptations,0,0,3
+C-716,T-019,Weather Adaptations,0,0,3
+C-717,T-019,Weather Adaptations,0,0,3
+C-718,T-019,Weather Adaptations,0,0,3
+C-719,T-019,Weather Adaptations,0,0,3
+C-720,T-019,Weather Adaptations,0,0,3
+C-721,T-019,Weather Adaptations,0,0,3
+C-722,T-019,Weather Adaptations,0,0,3
+C-723,T-001,Aircraft Marshalling,0,0,4
+C-724,T-001,Aircraft Marshalling,0,0,4
+C-725,T-001,Aircraft Marshalling,0,0,4
+C-726,T-001,Aircraft Marshalling,0,0,4
+C-727,T-001,Aircraft Marshalling,0,0,4
+C-728,T-001,Aircraft Marshalling,0,0,4
+C-729,T-001,Aircraft Marshalling,0,0,4
+C-730,T-001,Aircraft Marshalling,0,0,4
+C-731,T-001,Aircraft Marshalling,0,0,4
+C-732,T-001,Aircraft Marshalling,0,0,4
+C-733,T-001,Aircraft Marshalling,0,0,4
+C-734,T-001,Aircraft Marshalling,0,0,4
+C-735,T-001,Aircraft Marshalling,0,0,4
+C-736,T-002,Passenger Assistance,0,0,4
+C-737,T-002,Passenger Assistance,0,0,4
+C-738,T-002,Passenger Assistance,0,0,4
+C-739,T-002,Passenger Assistance,0,0,4
+C-740,T-002,Passenger Assistance,0,0,4
+C-741,T-002,Passenger Assistance,0,0,4
+C-742,T-002,Passenger Assistance,0,0,4
+C-743,T-002,Passenger Assistance,0,0,4
+C-744,T-002,Passenger Assistance,0,0,4
+C-745,T-002,Passenger Assistance,0,0,4
+C-746,T-003,Loading and Unloading Baggage,0,0,4
+C-747,T-003,Loading and Unloading Baggage,0,0,4
+C-748,T-003,Loading and Unloading Baggage,0,0,4
+C-749,T-003,Loading and Unloading Baggage,0,0,4
+C-750,T-003,Loading and Unloading Baggage,0,0,4
+C-751,T-003,Loading and Unloading Baggage,0,0,4
+C-752,T-003,Loading and Unloading Baggage,0,0,4
+C-753,T-003,Loading and Unloading Baggage,0,0,4
+C-754,T-003,Loading and Unloading Baggage,0,0,4
+C-755,T-003,Loading and Unloading Baggage,0,0,4
+C-756,T-003,Loading and Unloading Baggage,0,0,4
+C-757,T-003,Loading and Unloading Baggage,0,0,4
+C-758,T-003,Loading and Unloading Baggage,0,0,4
+C-759,T-004,Baggage Sorting,0,0,4
+C-760,T-004,Baggage Sorting,0,0,4
+C-761,T-004,Baggage Sorting,0,0,4
+C-762,T-004,Baggage Sorting,0,0,4
+C-763,T-004,Baggage Sorting,0,0,4
+C-764,T-004,Baggage Sorting,0,0,4
+C-765,T-004,Baggage Sorting,0,0,4
+C-766,T-004,Baggage Sorting,0,0,4
+C-767,T-004,Baggage Sorting,0,0,4
+C-768,T-004,Baggage Sorting,0,0,4
+C-769,T-004,Baggage Sorting,0,0,4
+C-770,T-004,Baggage Sorting,0,0,4
+C-771,T-004,Baggage Sorting,0,0,4
+C-772,T-004,Baggage Sorting,0,0,4
+C-773,T-004,Baggage Sorting,0,0,4
+C-774,T-005,Cargo Management,0,0,4
+C-775,T-005,Cargo Management,0,0,4
+C-776,T-005,Cargo Management,0,0,4
+C-777,T-005,Cargo Management,0,0,4
+C-778,T-005,Cargo Management,0,0,4
+C-779,T-005,Cargo Management,0,0,4
+C-780,T-005,Cargo Management,0,0,4
+C-781,T-005,Cargo Management,0,0,4
+C-782,T-005,Cargo Management,0,0,4
+C-783,T-005,Cargo Management,0,0,4
+C-784,T-005,Cargo Management,0,0,4
+C-785,T-005,Cargo Management,0,0,4
+C-786,T-005,Cargo Management,0,0,4
+C-787,T-005,Cargo Management,0,0,4
+C-788,T-005,Cargo Management,0,0,4
+C-789,T-006,Refueling,0,0,4
+C-790,T-006,Refueling,0,0,4
+C-791,T-006,Refueling,0,0,4
+C-792,T-006,Refueling,0,0,4
+C-793,T-006,Refueling,0,0,4
+C-794,T-006,Refueling,0,0,4
+C-795,T-006,Refueling,0,0,4
+C-796,T-006,Refueling,0,0,4
+C-797,T-006,Refueling,0,0,4
+C-798,T-006,Refueling,0,0,4
+C-799,T-006,Refueling,0,0,4
+C-800,T-006,Refueling,0,0,4
+C-801,T-006,Refueling,0,0,4
+C-802,T-006,Refueling,0,0,4
+C-803,T-007,Cleaning,0,0,4
+C-804,T-007,Cleaning,0,0,4
+C-805,T-007,Cleaning,0,0,4
+C-806,T-007,Cleaning,0,0,4
+C-807,T-007,Cleaning,0,0,4
+C-808,T-007,Cleaning,0,0,4
+C-809,T-007,Cleaning,0,0,4
+C-810,T-007,Cleaning,0,0,4
+C-811,T-007,Cleaning,0,0,4
+C-812,T-007,Cleaning,0,0,4
+C-813,T-008,De-icing,0,0,4
+C-814,T-008,De-icing,0,0,4
+C-815,T-008,De-icing,0,0,4
+C-816,T-008,De-icing,0,0,4
+C-817,T-008,De-icing,0,0,4
+C-818,T-008,De-icing,0,0,4
+C-819,T-008,De-icing,0,0,4
+C-820,T-008,De-icing,0,0,4
+C-821,T-008,De-icing,0,0,4
+C-822,T-008,De-icing,0,0,4
+C-823,T-008,De-icing,0,0,4
+C-824,T-009,Water and Waste Services,0,0,4
+C-825,T-009,Water and Waste Services,0,0,4
+C-826,T-009,Water and Waste Services,0,0,4
+C-827,T-009,Water and Waste Services,0,0,4
+C-828,T-009,Water and Waste Services,0,0,4
+C-829,T-009,Water and Waste Services,0,0,4
+C-830,T-009,Water and Waste Services,0,0,4
+C-831,T-009,Water and Waste Services,0,0,4
+C-832,T-009,Water and Waste Services,0,0,4
+C-833,T-009,Water and Waste Services,0,0,4
+C-834,T-009,Water and Waste Services,0,0,4
+C-835,T-009,Water and Waste Services,0,0,4
+C-836,T-009,Water and Waste Services,0,0,4
+C-837,T-010,Aircraft Inspections,0,0,4
+C-838,T-010,Aircraft Inspections,0,0,4
+C-839,T-010,Aircraft Inspections,0,0,4
+C-840,T-010,Aircraft Inspections,0,0,4
+C-841,T-010,Aircraft Inspections,0,0,4
+C-842,T-010,Aircraft Inspections,0,0,4
+C-843,T-010,Aircraft Inspections,0,0,4
+C-844,T-010,Aircraft Inspections,0,0,4
+C-845,T-010,Aircraft Inspections,0,0,4
+C-846,T-010,Aircraft Inspections,0,0,4
+C-847,T-011,Ground Power Unit Operations,0,0,4
+C-848,T-011,Ground Power Unit Operations,0,0,4
+C-849,T-011,Ground Power Unit Operations,0,0,4
+C-850,T-011,Ground Power Unit Operations,0,0,4
+C-851,T-011,Ground Power Unit Operations,0,0,4
+C-852,T-011,Ground Power Unit Operations,0,0,4
+C-853,T-011,Ground Power Unit Operations,0,0,4
+C-854,T-011,Ground Power Unit Operations,0,0,4
+C-855,T-011,Ground Power Unit Operations,0,0,4
+C-856,T-011,Ground Power Unit Operations,0,0,4
+C-857,T-011,Ground Power Unit Operations,0,0,4
+C-858,T-011,Ground Power Unit Operations,0,0,4
+C-859,T-012,Safety Zone Maintenance,0,0,4
+C-860,T-012,Safety Zone Maintenance,0,0,4
+C-861,T-012,Safety Zone Maintenance,0,0,4
+C-862,T-012,Safety Zone Maintenance,0,0,4
+C-863,T-012,Safety Zone Maintenance,0,0,4
+C-864,T-012,Safety Zone Maintenance,0,0,4
+C-865,T-012,Safety Zone Maintenance,0,0,4
+C-866,T-012,Safety Zone Maintenance,0,0,4
+C-867,T-012,Safety Zone Maintenance,0,0,4
+C-868,T-012,Safety Zone Maintenance,0,0,4
+C-869,T-013,Pushback and Towing,0,0,4
+C-870,T-013,Pushback and Towing,0,0,4
+C-871,T-013,Pushback and Towing,0,0,4
+C-872,T-013,Pushback and Towing,0,0,4
+C-873,T-013,Pushback and Towing,0,0,4
+C-874,T-013,Pushback and Towing,0,0,4
+C-875,T-013,Pushback and Towing,0,0,4
+C-876,T-013,Pushback and Towing,0,0,4
+C-877,T-013,Pushback and Towing,0,0,4
+C-878,T-013,Pushback and Towing,0,0,4
+C-879,T-013,Pushback and Towing,0,0,4
+C-880,T-013,Pushback and Towing,0,0,4
+C-881,T-013,Pushback and Towing,0,0,4
+C-882,T-013,Pushback and Towing,0,0,4
+C-883,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-884,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-885,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-886,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-887,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-888,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-889,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-890,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-891,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-892,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-893,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-894,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-895,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-896,T-014,Conveyor Belts and Baggage Carts,0,0,4
+C-897,T-015,Ramp Equipment Management,0,0,4
+C-898,T-015,Ramp Equipment Management,0,0,4
+C-899,T-015,Ramp Equipment Management,0,0,4
+C-900,T-015,Ramp Equipment Management,0,0,4
+C-901,T-015,Ramp Equipment Management,0,0,4
+C-902,T-015,Ramp Equipment Management,0,0,4
+C-903,T-015,Ramp Equipment Management,0,0,4
+C-904,T-015,Ramp Equipment Management,0,0,4
+C-905,T-015,Ramp Equipment Management,0,0,4
+C-906,T-015,Ramp Equipment Management,0,0,4
+C-907,T-016,Liaison with ATC,0,0,4
+C-908,T-016,Liaison with ATC,0,0,4
+C-909,T-016,Liaison with ATC,0,0,4
+C-910,T-016,Liaison with ATC,0,0,4
+C-911,T-016,Liaison with ATC,0,0,4
+C-912,T-016,Liaison with ATC,0,0,4
+C-913,T-016,Liaison with ATC,0,0,4
+C-914,T-016,Liaison with ATC,0,0,4
+C-915,T-016,Liaison with ATC,0,0,4
+C-916,T-016,Liaison with ATC,0,0,4
+C-917,T-016,Liaison with ATC,0,0,4
+C-918,T-016,Liaison with ATC,0,0,4
+C-919,T-017,Coordination with Airlines,0,0,4
+C-920,T-017,Coordination with Airlines,0,0,4
+C-921,T-017,Coordination with Airlines,0,0,4
+C-922,T-017,Coordination with Airlines,0,0,4
+C-923,T-017,Coordination with Airlines,0,0,4
+C-924,T-017,Coordination with Airlines,0,0,4
+C-925,T-017,Coordination with Airlines,0,0,4
+C-926,T-017,Coordination with Airlines,0,0,4
+C-927,T-017,Coordination with Airlines,0,0,4
+C-928,T-017,Coordination with Airlines,0,0,4
+C-929,T-018,Emergency Response,0,0,4
+C-930,T-018,Emergency Response,0,0,4
+C-931,T-018,Emergency Response,0,0,4
+C-932,T-018,Emergency Response,0,0,4
+C-933,T-018,Emergency Response,0,0,4
+C-934,T-018,Emergency Response,0,0,4
+C-935,T-018,Emergency Response,0,0,4
+C-936,T-018,Emergency Response,0,0,4
+C-937,T-018,Emergency Response,0,0,4
+C-938,T-018,Emergency Response,0,0,4
+C-939,T-018,Emergency Response,0,0,4
+C-940,T-018,Emergency Response,0,0,4
+C-941,T-018,Emergency Response,0,0,4
+C-942,T-018,Emergency Response,0,0,4
+C-943,T-019,Weather Adaptations,0,0,4
+C-944,T-019,Weather Adaptations,0,0,4
+C-945,T-019,Weather Adaptations,0,0,4
+C-946,T-019,Weather Adaptations,0,0,4
+C-947,T-019,Weather Adaptations,0,0,4
+C-948,T-019,Weather Adaptations,0,0,4
+C-949,T-019,Weather Adaptations,0,0,4
+C-950,T-019,Weather Adaptations,0,0,4
+C-951,T-019,Weather Adaptations,0,0,4
+C-952,T-019,Weather Adaptations,0,0,4
+C-953,T-019,Weather Adaptations,0,0,4
+C-954,T-001,Aircraft Marshalling,1,1,1
+C-955,T-002,Passenger Assistance,1,1,1
+C-956,T-002,Passenger Assistance,1,1,1
+C-957,T-003,Loading and Unloading Baggage,1,1,1
+C-958,T-003,Loading and Unloading Baggage,1,1,1
+C-959,T-004,Baggage Sorting,1,1,1
+C-960,T-004,Baggage Sorting,1,1,1
+C-961,T-004,Baggage Sorting,1,1,1
+C-962,T-005,Cargo Management,1,1,1
+C-963,T-005,Cargo Management,1,1,1
+C-964,T-006,Refueling,1,1,1
+C-965,T-006,Refueling,1,1,1
+C-966,T-007,Cleaning,1,1,1
+C-967,T-007,Cleaning,1,1,1
+C-968,T-008,De-icing,1,1,1
+C-969,T-009,Water and Waste Services,1,1,1
+C-970,T-009,Water and Waste Services,1,1,1
+C-971,T-010,Aircraft Inspections,1,1,1
+C-972,T-010,Aircraft Inspections,1,1,1
+C-973,T-011,Ground Power Unit Operations,1,1,1
+C-974,T-012,Safety Zone Maintenance,1,1,1
+C-975,T-012,Safety Zone Maintenance,1,1,1
+C-976,T-013,Pushback and Towing,1,1,1
+C-977,T-013,Pushback and Towing,1,1,1
+C-978,T-013,Pushback and Towing,1,1,1
+C-979,T-014,Conveyor Belts and Baggage Carts,1,1,1
+C-980,T-014,Conveyor Belts and Baggage Carts,1,1,1
+C-981,T-014,Conveyor Belts and Baggage Carts,1,1,1
+C-982,T-014,Conveyor Belts and Baggage Carts,1,1,1
+C-983,T-015,Ramp Equipment Management,1,1,1
+C-984,T-016,Liaison with ATC,1,1,1
+C-985,T-017,Coordination with Airlines,1,1,1
+C-986,T-017,Coordination with Airlines,1,1,1
+C-987,T-018,Emergency Response,1,1,1
+C-988,T-019,Weather Adaptations,1,1,1
+C-989,T-001,Aircraft Marshalling,1,2,1
+C-990,T-002,Passenger Assistance,1,2,1
+C-991,T-002,Passenger Assistance,1,2,1
+C-992,T-003,Loading and Unloading Baggage,1,2,1
+C-993,T-003,Loading and Unloading Baggage,1,2,1
+C-994,T-004,Baggage Sorting,1,2,1
+C-995,T-004,Baggage Sorting,1,2,1
+C-996,T-004,Baggage Sorting,1,2,1
+C-997,T-005,Cargo Management,1,2,1
+C-998,T-005,Cargo Management,1,2,1
+C-999,T-006,Refueling,1,2,1
+C-1000,T-006,Refueling,1,2,1
+C-1001,T-007,Cleaning,1,2,1
+C-1002,T-007,Cleaning,1,2,1
+C-1003,T-008,De-icing,1,2,1
+C-1004,T-009,Water and Waste Services,1,2,1
+C-1005,T-009,Water and Waste Services,1,2,1
+C-1006,T-010,Aircraft Inspections,1,2,1
+C-1007,T-010,Aircraft Inspections,1,2,1
+C-1008,T-011,Ground Power Unit Operations,1,2,1
+C-1009,T-012,Safety Zone Maintenance,1,2,1
+C-1010,T-012,Safety Zone Maintenance,1,2,1
+C-1011,T-013,Pushback and Towing,1,2,1
+C-1012,T-013,Pushback and Towing,1,2,1
+C-1013,T-013,Pushback and Towing,1,2,1
+C-1014,T-014,Conveyor Belts and Baggage Carts,1,2,1
+C-1015,T-014,Conveyor Belts and Baggage Carts,1,2,1
+C-1016,T-014,Conveyor Belts and Baggage Carts,1,2,1
+C-1017,T-014,Conveyor Belts and Baggage Carts,1,2,1
+C-1018,T-015,Ramp Equipment Management,1,2,1
+C-1019,T-016,Liaison with ATC,1,2,1
+C-1020,T-017,Coordination with Airlines,1,2,1
+C-1021,T-017,Coordination with Airlines,1,2,1
+C-1022,T-018,Emergency Response,1,2,1
+C-1023,T-019,Weather Adaptations,1,2,1
+C-1024,T-001,Aircraft Marshalling,1,3,1
+C-1025,T-002,Passenger Assistance,1,3,1
+C-1026,T-002,Passenger Assistance,1,3,1
+C-1027,T-003,Loading and Unloading Baggage,1,3,1
+C-1028,T-003,Loading and Unloading Baggage,1,3,1
+C-1029,T-004,Baggage Sorting,1,3,1
+C-1030,T-004,Baggage Sorting,1,3,1
+C-1031,T-004,Baggage Sorting,1,3,1
+C-1032,T-005,Cargo Management,1,3,1
+C-1033,T-005,Cargo Management,1,3,1
+C-1034,T-006,Refueling,1,3,1
+C-1035,T-006,Refueling,1,3,1
+C-1036,T-007,Cleaning,1,3,1
+C-1037,T-007,Cleaning,1,3,1
+C-1038,T-008,De-icing,1,3,1
+C-1039,T-009,Water and Waste Services,1,3,1
+C-1040,T-009,Water and Waste Services,1,3,1
+C-1041,T-010,Aircraft Inspections,1,3,1
+C-1042,T-010,Aircraft Inspections,1,3,1
+C-1043,T-011,Ground Power Unit Operations,1,3,1
+C-1044,T-012,Safety Zone Maintenance,1,3,1
+C-1045,T-012,Safety Zone Maintenance,1,3,1
+C-1046,T-013,Pushback and Towing,1,3,1
+C-1047,T-013,Pushback and Towing,1,3,1
+C-1048,T-013,Pushback and Towing,1,3,1
+C-1049,T-014,Conveyor Belts and Baggage Carts,1,3,1
+C-1050,T-014,Conveyor Belts and Baggage Carts,1,3,1
+C-1051,T-014,Conveyor Belts and Baggage Carts,1,3,1
+C-1052,T-014,Conveyor Belts and Baggage Carts,1,3,1
+C-1053,T-015,Ramp Equipment Management,1,3,1
+C-1054,T-016,Liaison with ATC,1,3,1
+C-1055,T-017,Coordination with Airlines,1,3,1
+C-1056,T-017,Coordination with Airlines,1,3,1
+C-1057,T-018,Emergency Response,1,3,1
+C-1058,T-019,Weather Adaptations,1,3,1
+C-1059,T-001,Aircraft Marshalling,1,4,1
+C-1060,T-002,Passenger Assistance,1,4,1
+C-1061,T-002,Passenger Assistance,1,4,1
+C-1062,T-003,Loading and Unloading Baggage,1,4,1
+C-1063,T-003,Loading and Unloading Baggage,1,4,1
+C-1064,T-004,Baggage Sorting,1,4,1
+C-1065,T-004,Baggage Sorting,1,4,1
+C-1066,T-004,Baggage Sorting,1,4,1
+C-1067,T-005,Cargo Management,1,4,1
+C-1068,T-005,Cargo Management,1,4,1
+C-1069,T-006,Refueling,1,4,1
+C-1070,T-006,Refueling,1,4,1
+C-1071,T-007,Cleaning,1,4,1
+C-1072,T-007,Cleaning,1,4,1
+C-1073,T-008,De-icing,1,4,1
+C-1074,T-009,Water and Waste Services,1,4,1
+C-1075,T-009,Water and Waste Services,1,4,1
+C-1076,T-010,Aircraft Inspections,1,4,1
+C-1077,T-010,Aircraft Inspections,1,4,1
+C-1078,T-011,Ground Power Unit Operations,1,4,1
+C-1079,T-012,Safety Zone Maintenance,1,4,1
+C-1080,T-012,Safety Zone Maintenance,1,4,1
+C-1081,T-013,Pushback and Towing,1,4,1
+C-1082,T-013,Pushback and Towing,1,4,1
+C-1083,T-013,Pushback and Towing,1,4,1
+C-1084,T-014,Conveyor Belts and Baggage Carts,1,4,1
+C-1085,T-014,Conveyor Belts and Baggage Carts,1,4,1
+C-1086,T-014,Conveyor Belts and Baggage Carts,1,4,1
+C-1087,T-014,Conveyor Belts and Baggage Carts,1,4,1
+C-1088,T-015,Ramp Equipment Management,1,4,1
+C-1089,T-016,Liaison with ATC,1,4,1
+C-1090,T-017,Coordination with Airlines,1,4,1
+C-1091,T-017,Coordination with Airlines,1,4,1
+C-1092,T-018,Emergency Response,1,4,1
+C-1093,T-019,Weather Adaptations,1,4,1
+C-1094,T-001,Aircraft Marshalling,1,5,1
+C-1095,T-002,Passenger Assistance,1,5,1
+C-1096,T-002,Passenger Assistance,1,5,1
+C-1097,T-003,Loading and Unloading Baggage,1,5,1
+C-1098,T-003,Loading and Unloading Baggage,1,5,1
+C-1099,T-004,Baggage Sorting,1,5,1
+C-1100,T-004,Baggage Sorting,1,5,1
+C-1101,T-004,Baggage Sorting,1,5,1
+C-1102,T-005,Cargo Management,1,5,1
+C-1103,T-005,Cargo Management,1,5,1
+C-1104,T-006,Refueling,1,5,1
+C-1105,T-006,Refueling,1,5,1
+C-1106,T-007,Cleaning,1,5,1
+C-1107,T-007,Cleaning,1,5,1
+C-1108,T-008,De-icing,1,5,1
+C-1109,T-009,Water and Waste Services,1,5,1
+C-1110,T-009,Water and Waste Services,1,5,1
+C-1111,T-010,Aircraft Inspections,1,5,1
+C-1112,T-010,Aircraft Inspections,1,5,1
+C-1113,T-011,Ground Power Unit Operations,1,5,1
+C-1114,T-012,Safety Zone Maintenance,1,5,1
+C-1115,T-012,Safety Zone Maintenance,1,5,1
+C-1116,T-013,Pushback and Towing,1,5,1
+C-1117,T-013,Pushback and Towing,1,5,1
+C-1118,T-013,Pushback and Towing,1,5,1
+C-1119,T-014,Conveyor Belts and Baggage Carts,1,5,1
+C-1120,T-014,Conveyor Belts and Baggage Carts,1,5,1
+C-1121,T-014,Conveyor Belts and Baggage Carts,1,5,1
+C-1122,T-014,Conveyor Belts and Baggage Carts,1,5,1
+C-1123,T-015,Ramp Equipment Management,1,5,1
+C-1124,T-016,Liaison with ATC,1,5,1
+C-1125,T-017,Coordination with Airlines,1,5,1
+C-1126,T-017,Coordination with Airlines,1,5,1
+C-1127,T-018,Emergency Response,1,5,1
+C-1128,T-019,Weather Adaptations,1,5,1
+C-1129,T-001,Aircraft Marshalling,1,6,1
+C-1130,T-002,Passenger Assistance,1,6,1
+C-1131,T-002,Passenger Assistance,1,6,1
+C-1132,T-003,Loading and Unloading Baggage,1,6,1
+C-1133,T-003,Loading and Unloading Baggage,1,6,1
+C-1134,T-004,Baggage Sorting,1,6,1
+C-1135,T-004,Baggage Sorting,1,6,1
+C-1136,T-004,Baggage Sorting,1,6,1
+C-1137,T-005,Cargo Management,1,6,1
+C-1138,T-005,Cargo Management,1,6,1
+C-1139,T-006,Refueling,1,6,1
+C-1140,T-006,Refueling,1,6,1
+C-1141,T-007,Cleaning,1,6,1
+C-1142,T-007,Cleaning,1,6,1
+C-1143,T-008,De-icing,1,6,1
+C-1144,T-009,Water and Waste Services,1,6,1
+C-1145,T-009,Water and Waste Services,1,6,1
+C-1146,T-010,Aircraft Inspections,1,6,1
+C-1147,T-010,Aircraft Inspections,1,6,1
+C-1148,T-011,Ground Power Unit Operations,1,6,1
+C-1149,T-012,Safety Zone Maintenance,1,6,1
+C-1150,T-012,Safety Zone Maintenance,1,6,1
+C-1151,T-013,Pushback and Towing,1,6,1
+C-1152,T-013,Pushback and Towing,1,6,1
+C-1153,T-013,Pushback and Towing,1,6,1
+C-1154,T-014,Conveyor Belts and Baggage Carts,1,6,1
+C-1155,T-014,Conveyor Belts and Baggage Carts,1,6,1
+C-1156,T-014,Conveyor Belts and Baggage Carts,1,6,1
+C-1157,T-014,Conveyor Belts and Baggage Carts,1,6,1
+C-1158,T-015,Ramp Equipment Management,1,6,1
+C-1159,T-016,Liaison with ATC,1,6,1
+C-1160,T-017,Coordination with Airlines,1,6,1
+C-1161,T-017,Coordination with Airlines,1,6,1
+C-1162,T-018,Emergency Response,1,6,1
+C-1163,T-019,Weather Adaptations,1,6,1
+C-1164,T-001,Aircraft Marshalling,1,7,1
+C-1165,T-002,Passenger Assistance,1,7,1
+C-1166,T-002,Passenger Assistance,1,7,1
+C-1167,T-003,Loading and Unloading Baggage,1,7,1
+C-1168,T-003,Loading and Unloading Baggage,1,7,1
+C-1169,T-004,Baggage Sorting,1,7,1
+C-1170,T-004,Baggage Sorting,1,7,1
+C-1171,T-004,Baggage Sorting,1,7,1
+C-1172,T-005,Cargo Management,1,7,1
+C-1173,T-005,Cargo Management,1,7,1
+C-1174,T-006,Refueling,1,7,1
+C-1175,T-006,Refueling,1,7,1
+C-1176,T-007,Cleaning,1,7,1
+C-1177,T-007,Cleaning,1,7,1
+C-1178,T-008,De-icing,1,7,1
+C-1179,T-009,Water and Waste Services,1,7,1
+C-1180,T-009,Water and Waste Services,1,7,1
+C-1181,T-010,Aircraft Inspections,1,7,1
+C-1182,T-010,Aircraft Inspections,1,7,1
+C-1183,T-011,Ground Power Unit Operations,1,7,1
+C-1184,T-012,Safety Zone Maintenance,1,7,1
+C-1185,T-012,Safety Zone Maintenance,1,7,1
+C-1186,T-013,Pushback and Towing,1,7,1
+C-1187,T-013,Pushback and Towing,1,7,1
+C-1188,T-013,Pushback and Towing,1,7,1
+C-1189,T-014,Conveyor Belts and Baggage Carts,1,7,1
+C-1190,T-014,Conveyor Belts and Baggage Carts,1,7,1
+C-1191,T-014,Conveyor Belts and Baggage Carts,1,7,1
+C-1192,T-014,Conveyor Belts and Baggage Carts,1,7,1
+C-1193,T-015,Ramp Equipment Management,1,7,1
+C-1194,T-016,Liaison with ATC,1,7,1
+C-1195,T-017,Coordination with Airlines,1,7,1
+C-1196,T-017,Coordination with Airlines,1,7,1
+C-1197,T-018,Emergency Response,1,7,1
+C-1198,T-019,Weather Adaptations,1,7,1
+C-1199,T-001,Aircraft Marshalling,1,8,1
+C-1200,T-002,Passenger Assistance,1,8,1
+C-1201,T-002,Passenger Assistance,1,8,1
+C-1202,T-003,Loading and Unloading Baggage,1,8,1
+C-1203,T-003,Loading and Unloading Baggage,1,8,1
+C-1204,T-004,Baggage Sorting,1,8,1
+C-1205,T-004,Baggage Sorting,1,8,1
+C-1206,T-004,Baggage Sorting,1,8,1
+C-1207,T-005,Cargo Management,1,8,1
+C-1208,T-005,Cargo Management,1,8,1
+C-1209,T-006,Refueling,1,8,1
+C-1210,T-006,Refueling,1,8,1
+C-1211,T-007,Cleaning,1,8,1
+C-1212,T-007,Cleaning,1,8,1
+C-1213,T-008,De-icing,1,8,1
+C-1214,T-009,Water and Waste Services,1,8,1
+C-1215,T-009,Water and Waste Services,1,8,1
+C-1216,T-010,Aircraft Inspections,1,8,1
+C-1217,T-010,Aircraft Inspections,1,8,1
+C-1218,T-011,Ground Power Unit Operations,1,8,1
+C-1219,T-012,Safety Zone Maintenance,1,8,1
+C-1220,T-012,Safety Zone Maintenance,1,8,1
+C-1221,T-013,Pushback and Towing,1,8,1
+C-1222,T-013,Pushback and Towing,1,8,1
+C-1223,T-013,Pushback and Towing,1,8,1
+C-1224,T-014,Conveyor Belts and Baggage Carts,1,8,1
+C-1225,T-014,Conveyor Belts and Baggage Carts,1,8,1
+C-1226,T-014,Conveyor Belts and Baggage Carts,1,8,1
+C-1227,T-014,Conveyor Belts and Baggage Carts,1,8,1
+C-1228,T-015,Ramp Equipment Management,1,8,1
+C-1229,T-016,Liaison with ATC,1,8,1
+C-1230,T-017,Coordination with Airlines,1,8,1
+C-1231,T-017,Coordination with Airlines,1,8,1
+C-1232,T-018,Emergency Response,1,8,1
+C-1233,T-019,Weather Adaptations,1,8,1
+C-1234,T-001,Aircraft Marshalling,1,9,1
+C-1235,T-002,Passenger Assistance,1,9,1
+C-1236,T-002,Passenger Assistance,1,9,1
+C-1237,T-003,Loading and Unloading Baggage,1,9,1
+C-1238,T-003,Loading and Unloading Baggage,1,9,1
+C-1239,T-004,Baggage Sorting,1,9,1
+C-1240,T-004,Baggage Sorting,1,9,1
+C-1241,T-004,Baggage Sorting,1,9,1
+C-1242,T-005,Cargo Management,1,9,1
+C-1243,T-005,Cargo Management,1,9,1
+C-1244,T-006,Refueling,1,9,1
+C-1245,T-006,Refueling,1,9,1
+C-1246,T-007,Cleaning,1,9,1
+C-1247,T-007,Cleaning,1,9,1
+C-1248,T-008,De-icing,1,9,1
+C-1249,T-009,Water and Waste Services,1,9,1
+C-1250,T-009,Water and Waste Services,1,9,1
+C-1251,T-010,Aircraft Inspections,1,9,1
+C-1252,T-010,Aircraft Inspections,1,9,1
+C-1253,T-011,Ground Power Unit Operations,1,9,1
+C-1254,T-012,Safety Zone Maintenance,1,9,1
+C-1255,T-012,Safety Zone Maintenance,1,9,1
+C-1256,T-013,Pushback and Towing,1,9,1
+C-1257,T-013,Pushback and Towing,1,9,1
+C-1258,T-013,Pushback and Towing,1,9,1
+C-1259,T-014,Conveyor Belts and Baggage Carts,1,9,1
+C-1260,T-014,Conveyor Belts and Baggage Carts,1,9,1
+C-1261,T-014,Conveyor Belts and Baggage Carts,1,9,1
+C-1262,T-014,Conveyor Belts and Baggage Carts,1,9,1
+C-1263,T-015,Ramp Equipment Management,1,9,1
+C-1264,T-016,Liaison with ATC,1,9,1
+C-1265,T-017,Coordination with Airlines,1,9,1
+C-1266,T-017,Coordination with Airlines,1,9,1
+C-1267,T-018,Emergency Response,1,9,1
+C-1268,T-019,Weather Adaptations,1,9,1
+C-1269,T-001,Aircraft Marshalling,1,10,1
+C-1270,T-002,Passenger Assistance,1,10,1
+C-1271,T-002,Passenger Assistance,1,10,1
+C-1272,T-003,Loading and Unloading Baggage,1,10,1
+C-1273,T-003,Loading and Unloading Baggage,1,10,1
+C-1274,T-004,Baggage Sorting,1,10,1
+C-1275,T-004,Baggage Sorting,1,10,1
+C-1276,T-004,Baggage Sorting,1,10,1
+C-1277,T-005,Cargo Management,1,10,1
+C-1278,T-005,Cargo Management,1,10,1
+C-1279,T-006,Refueling,1,10,1
+C-1280,T-006,Refueling,1,10,1
+C-1281,T-007,Cleaning,1,10,1
+C-1282,T-007,Cleaning,1,10,1
+C-1283,T-008,De-icing,1,10,1
+C-1284,T-009,Water and Waste Services,1,10,1
+C-1285,T-009,Water and Waste Services,1,10,1
+C-1286,T-010,Aircraft Inspections,1,10,1
+C-1287,T-010,Aircraft Inspections,1,10,1
+C-1288,T-011,Ground Power Unit Operations,1,10,1
+C-1289,T-012,Safety Zone Maintenance,1,10,1
+C-1290,T-012,Safety Zone Maintenance,1,10,1
+C-1291,T-013,Pushback and Towing,1,10,1
+C-1292,T-013,Pushback and Towing,1,10,1
+C-1293,T-013,Pushback and Towing,1,10,1
+C-1294,T-014,Conveyor Belts and Baggage Carts,1,10,1
+C-1295,T-014,Conveyor Belts and Baggage Carts,1,10,1
+C-1296,T-014,Conveyor Belts and Baggage Carts,1,10,1
+C-1297,T-014,Conveyor Belts and Baggage Carts,1,10,1
+C-1298,T-015,Ramp Equipment Management,1,10,1
+C-1299,T-016,Liaison with ATC,1,10,1
+C-1300,T-017,Coordination with Airlines,1,10,1
+C-1301,T-017,Coordination with Airlines,1,10,1
+C-1302,T-018,Emergency Response,1,10,1
+C-1303,T-019,Weather Adaptations,1,10,1
+C-1304,T-001,Aircraft Marshalling,1,11,1
+C-1305,T-002,Passenger Assistance,1,11,1
+C-1306,T-002,Passenger Assistance,1,11,1
+C-1307,T-003,Loading and Unloading Baggage,1,11,1
+C-1308,T-003,Loading and Unloading Baggage,1,11,1
+C-1309,T-004,Baggage Sorting,1,11,1
+C-1310,T-004,Baggage Sorting,1,11,1
+C-1311,T-004,Baggage Sorting,1,11,1
+C-1312,T-005,Cargo Management,1,11,1
+C-1313,T-005,Cargo Management,1,11,1
+C-1314,T-006,Refueling,1,11,1
+C-1315,T-006,Refueling,1,11,1
+C-1316,T-007,Cleaning,1,11,1
+C-1317,T-007,Cleaning,1,11,1
+C-1318,T-008,De-icing,1,11,1
+C-1319,T-009,Water and Waste Services,1,11,1
+C-1320,T-009,Water and Waste Services,1,11,1
+C-1321,T-010,Aircraft Inspections,1,11,1
+C-1322,T-010,Aircraft Inspections,1,11,1
+C-1323,T-011,Ground Power Unit Operations,1,11,1
+C-1324,T-012,Safety Zone Maintenance,1,11,1
+C-1325,T-012,Safety Zone Maintenance,1,11,1
+C-1326,T-013,Pushback and Towing,1,11,1
+C-1327,T-013,Pushback and Towing,1,11,1
+C-1328,T-013,Pushback and Towing,1,11,1
+C-1329,T-014,Conveyor Belts and Baggage Carts,1,11,1
+C-1330,T-014,Conveyor Belts and Baggage Carts,1,11,1
+C-1331,T-014,Conveyor Belts and Baggage Carts,1,11,1
+C-1332,T-014,Conveyor Belts and Baggage Carts,1,11,1
+C-1333,T-015,Ramp Equipment Management,1,11,1
+C-1334,T-016,Liaison with ATC,1,11,1
+C-1335,T-017,Coordination with Airlines,1,11,1
+C-1336,T-017,Coordination with Airlines,1,11,1
+C-1337,T-018,Emergency Response,1,11,1
+C-1338,T-019,Weather Adaptations,1,11,1
+C-1339,T-001,Aircraft Marshalling,1,12,1
+C-1340,T-002,Passenger Assistance,1,12,1
+C-1341,T-002,Passenger Assistance,1,12,1
+C-1342,T-003,Loading and Unloading Baggage,1,12,1
+C-1343,T-003,Loading and Unloading Baggage,1,12,1
+C-1344,T-004,Baggage Sorting,1,12,1
+C-1345,T-004,Baggage Sorting,1,12,1
+C-1346,T-004,Baggage Sorting,1,12,1
+C-1347,T-005,Cargo Management,1,12,1
+C-1348,T-005,Cargo Management,1,12,1
+C-1349,T-006,Refueling,1,12,1
+C-1350,T-006,Refueling,1,12,1
+C-1351,T-007,Cleaning,1,12,1
+C-1352,T-007,Cleaning,1,12,1
+C-1353,T-008,De-icing,1,12,1
+C-1354,T-009,Water and Waste Services,1,12,1
+C-1355,T-009,Water and Waste Services,1,12,1
+C-1356,T-010,Aircraft Inspections,1,12,1
+C-1357,T-010,Aircraft Inspections,1,12,1
+C-1358,T-011,Ground Power Unit Operations,1,12,1
+C-1359,T-012,Safety Zone Maintenance,1,12,1
+C-1360,T-012,Safety Zone Maintenance,1,12,1
+C-1361,T-013,Pushback and Towing,1,12,1
+C-1362,T-013,Pushback and Towing,1,12,1
+C-1363,T-013,Pushback and Towing,1,12,1
+C-1364,T-014,Conveyor Belts and Baggage Carts,1,12,1
+C-1365,T-014,Conveyor Belts and Baggage Carts,1,12,1
+C-1366,T-014,Conveyor Belts and Baggage Carts,1,12,1
+C-1367,T-014,Conveyor Belts and Baggage Carts,1,12,1
+C-1368,T-015,Ramp Equipment Management,1,12,1
+C-1369,T-016,Liaison with ATC,1,12,1
+C-1370,T-017,Coordination with Airlines,1,12,1
+C-1371,T-017,Coordination with Airlines,1,12,1
+C-1372,T-018,Emergency Response,1,12,1
+C-1373,T-019,Weather Adaptations,1,12,1
+C-1374,T-001,Aircraft Marshalling,1,1,2
+C-1375,T-002,Passenger Assistance,1,1,2
+C-1376,T-002,Passenger Assistance,1,1,2
+C-1377,T-003,Loading and Unloading Baggage,1,1,2
+C-1378,T-003,Loading and Unloading Baggage,1,1,2
+C-1379,T-004,Baggage Sorting,1,1,2
+C-1380,T-004,Baggage Sorting,1,1,2
+C-1381,T-004,Baggage Sorting,1,1,2
+C-1382,T-005,Cargo Management,1,1,2
+C-1383,T-005,Cargo Management,1,1,2
+C-1384,T-006,Refueling,1,1,2
+C-1385,T-006,Refueling,1,1,2
+C-1386,T-007,Cleaning,1,1,2
+C-1387,T-007,Cleaning,1,1,2
+C-1388,T-008,De-icing,1,1,2
+C-1389,T-009,Water and Waste Services,1,1,2
+C-1390,T-009,Water and Waste Services,1,1,2
+C-1391,T-010,Aircraft Inspections,1,1,2
+C-1392,T-010,Aircraft Inspections,1,1,2
+C-1393,T-011,Ground Power Unit Operations,1,1,2
+C-1394,T-012,Safety Zone Maintenance,1,1,2
+C-1395,T-012,Safety Zone Maintenance,1,1,2
+C-1396,T-013,Pushback and Towing,1,1,2
+C-1397,T-013,Pushback and Towing,1,1,2
+C-1398,T-013,Pushback and Towing,1,1,2
+C-1399,T-014,Conveyor Belts and Baggage Carts,1,1,2
+C-1400,T-014,Conveyor Belts and Baggage Carts,1,1,2
+C-1401,T-014,Conveyor Belts and Baggage Carts,1,1,2
+C-1402,T-014,Conveyor Belts and Baggage Carts,1,1,2
+C-1403,T-015,Ramp Equipment Management,1,1,2
+C-1404,T-016,Liaison with ATC,1,1,2
+C-1405,T-017,Coordination with Airlines,1,1,2
+C-1406,T-017,Coordination with Airlines,1,1,2
+C-1407,T-018,Emergency Response,1,1,2
+C-1408,T-019,Weather Adaptations,1,1,2
+C-1409,T-001,Aircraft Marshalling,1,2,2
+C-1410,T-002,Passenger Assistance,1,2,2
+C-1411,T-002,Passenger Assistance,1,2,2
+C-1412,T-003,Loading and Unloading Baggage,1,2,2
+C-1413,T-003,Loading and Unloading Baggage,1,2,2
+C-1414,T-004,Baggage Sorting,1,2,2
+C-1415,T-004,Baggage Sorting,1,2,2
+C-1416,T-004,Baggage Sorting,1,2,2
+C-1417,T-005,Cargo Management,1,2,2
+C-1418,T-005,Cargo Management,1,2,2
+C-1419,T-006,Refueling,1,2,2
+C-1420,T-006,Refueling,1,2,2
+C-1421,T-007,Cleaning,1,2,2
+C-1422,T-007,Cleaning,1,2,2
+C-1423,T-008,De-icing,1,2,2
+C-1424,T-009,Water and Waste Services,1,2,2
+C-1425,T-009,Water and Waste Services,1,2,2
+C-1426,T-010,Aircraft Inspections,1,2,2
+C-1427,T-010,Aircraft Inspections,1,2,2
+C-1428,T-011,Ground Power Unit Operations,1,2,2
+C-1429,T-012,Safety Zone Maintenance,1,2,2
+C-1430,T-012,Safety Zone Maintenance,1,2,2
+C-1431,T-013,Pushback and Towing,1,2,2
+C-1432,T-013,Pushback and Towing,1,2,2
+C-1433,T-013,Pushback and Towing,1,2,2
+C-1434,T-014,Conveyor Belts and Baggage Carts,1,2,2
+C-1435,T-014,Conveyor Belts and Baggage Carts,1,2,2
+C-1436,T-014,Conveyor Belts and Baggage Carts,1,2,2
+C-1437,T-014,Conveyor Belts and Baggage Carts,1,2,2
+C-1438,T-015,Ramp Equipment Management,1,2,2
+C-1439,T-016,Liaison with ATC,1,2,2
+C-1440,T-017,Coordination with Airlines,1,2,2
+C-1441,T-017,Coordination with Airlines,1,2,2
+C-1442,T-018,Emergency Response,1,2,2
+C-1443,T-019,Weather Adaptations,1,2,2
+C-1444,T-001,Aircraft Marshalling,1,3,2
+C-1445,T-002,Passenger Assistance,1,3,2
+C-1446,T-002,Passenger Assistance,1,3,2
+C-1447,T-003,Loading and Unloading Baggage,1,3,2
+C-1448,T-003,Loading and Unloading Baggage,1,3,2
+C-1449,T-004,Baggage Sorting,1,3,2
+C-1450,T-004,Baggage Sorting,1,3,2
+C-1451,T-004,Baggage Sorting,1,3,2
+C-1452,T-005,Cargo Management,1,3,2
+C-1453,T-005,Cargo Management,1,3,2
+C-1454,T-006,Refueling,1,3,2
+C-1455,T-006,Refueling,1,3,2
+C-1456,T-007,Cleaning,1,3,2
+C-1457,T-007,Cleaning,1,3,2
+C-1458,T-008,De-icing,1,3,2
+C-1459,T-009,Water and Waste Services,1,3,2
+C-1460,T-009,Water and Waste Services,1,3,2
+C-1461,T-010,Aircraft Inspections,1,3,2
+C-1462,T-010,Aircraft Inspections,1,3,2
+C-1463,T-011,Ground Power Unit Operations,1,3,2
+C-1464,T-012,Safety Zone Maintenance,1,3,2
+C-1465,T-012,Safety Zone Maintenance,1,3,2
+C-1466,T-013,Pushback and Towing,1,3,2
+C-1467,T-013,Pushback and Towing,1,3,2
+C-1468,T-013,Pushback and Towing,1,3,2
+C-1469,T-014,Conveyor Belts and Baggage Carts,1,3,2
+C-1470,T-014,Conveyor Belts and Baggage Carts,1,3,2
+C-1471,T-014,Conveyor Belts and Baggage Carts,1,3,2
+C-1472,T-014,Conveyor Belts and Baggage Carts,1,3,2
+C-1473,T-015,Ramp Equipment Management,1,3,2
+C-1474,T-016,Liaison with ATC,1,3,2
+C-1475,T-017,Coordination with Airlines,1,3,2
+C-1476,T-017,Coordination with Airlines,1,3,2
+C-1477,T-018,Emergency Response,1,3,2
+C-1478,T-019,Weather Adaptations,1,3,2
+C-1479,T-001,Aircraft Marshalling,1,4,2
+C-1480,T-002,Passenger Assistance,1,4,2
+C-1481,T-002,Passenger Assistance,1,4,2
+C-1482,T-003,Loading and Unloading Baggage,1,4,2
+C-1483,T-003,Loading and Unloading Baggage,1,4,2
+C-1484,T-004,Baggage Sorting,1,4,2
+C-1485,T-004,Baggage Sorting,1,4,2
+C-1486,T-004,Baggage Sorting,1,4,2
+C-1487,T-005,Cargo Management,1,4,2
+C-1488,T-005,Cargo Management,1,4,2
+C-1489,T-006,Refueling,1,4,2
+C-1490,T-006,Refueling,1,4,2
+C-1491,T-007,Cleaning,1,4,2
+C-1492,T-007,Cleaning,1,4,2
+C-1493,T-008,De-icing,1,4,2
+C-1494,T-009,Water and Waste Services,1,4,2
+C-1495,T-009,Water and Waste Services,1,4,2
+C-1496,T-010,Aircraft Inspections,1,4,2
+C-1497,T-010,Aircraft Inspections,1,4,2
+C-1498,T-011,Ground Power Unit Operations,1,4,2
+C-1499,T-012,Safety Zone Maintenance,1,4,2
+C-1500,T-012,Safety Zone Maintenance,1,4,2
+C-1501,T-013,Pushback and Towing,1,4,2
+C-1502,T-013,Pushback and Towing,1,4,2
+C-1503,T-013,Pushback and Towing,1,4,2
+C-1504,T-014,Conveyor Belts and Baggage Carts,1,4,2
+C-1505,T-014,Conveyor Belts and Baggage Carts,1,4,2
+C-1506,T-014,Conveyor Belts and Baggage Carts,1,4,2
+C-1507,T-014,Conveyor Belts and Baggage Carts,1,4,2
+C-1508,T-015,Ramp Equipment Management,1,4,2
+C-1509,T-016,Liaison with ATC,1,4,2
+C-1510,T-017,Coordination with Airlines,1,4,2
+C-1511,T-017,Coordination with Airlines,1,4,2
+C-1512,T-018,Emergency Response,1,4,2
+C-1513,T-019,Weather Adaptations,1,4,2
+C-1514,T-001,Aircraft Marshalling,1,5,2
+C-1515,T-002,Passenger Assistance,1,5,2
+C-1516,T-002,Passenger Assistance,1,5,2
+C-1517,T-003,Loading and Unloading Baggage,1,5,2
+C-1518,T-003,Loading and Unloading Baggage,1,5,2
+C-1519,T-004,Baggage Sorting,1,5,2
+C-1520,T-004,Baggage Sorting,1,5,2
+C-1521,T-004,Baggage Sorting,1,5,2
+C-1522,T-005,Cargo Management,1,5,2
+C-1523,T-005,Cargo Management,1,5,2
+C-1524,T-006,Refueling,1,5,2
+C-1525,T-006,Refueling,1,5,2
+C-1526,T-007,Cleaning,1,5,2
+C-1527,T-007,Cleaning,1,5,2
+C-1528,T-008,De-icing,1,5,2
+C-1529,T-009,Water and Waste Services,1,5,2
+C-1530,T-009,Water and Waste Services,1,5,2
+C-1531,T-010,Aircraft Inspections,1,5,2
+C-1532,T-010,Aircraft Inspections,1,5,2
+C-1533,T-011,Ground Power Unit Operations,1,5,2
+C-1534,T-012,Safety Zone Maintenance,1,5,2
+C-1535,T-012,Safety Zone Maintenance,1,5,2
+C-1536,T-013,Pushback and Towing,1,5,2
+C-1537,T-013,Pushback and Towing,1,5,2
+C-1538,T-013,Pushback and Towing,1,5,2
+C-1539,T-014,Conveyor Belts and Baggage Carts,1,5,2
+C-1540,T-014,Conveyor Belts and Baggage Carts,1,5,2
+C-1541,T-014,Conveyor Belts and Baggage Carts,1,5,2
+C-1542,T-014,Conveyor Belts and Baggage Carts,1,5,2
+C-1543,T-015,Ramp Equipment Management,1,5,2
+C-1544,T-016,Liaison with ATC,1,5,2
+C-1545,T-017,Coordination with Airlines,1,5,2
+C-1546,T-017,Coordination with Airlines,1,5,2
+C-1547,T-018,Emergency Response,1,5,2
+C-1548,T-019,Weather Adaptations,1,5,2
+C-1549,T-001,Aircraft Marshalling,1,6,2
+C-1550,T-002,Passenger Assistance,1,6,2
+C-1551,T-002,Passenger Assistance,1,6,2
+C-1552,T-003,Loading and Unloading Baggage,1,6,2
+C-1553,T-003,Loading and Unloading Baggage,1,6,2
+C-1554,T-004,Baggage Sorting,1,6,2
+C-1555,T-004,Baggage Sorting,1,6,2
+C-1556,T-004,Baggage Sorting,1,6,2
+C-1557,T-005,Cargo Management,1,6,2
+C-1558,T-005,Cargo Management,1,6,2
+C-1559,T-006,Refueling,1,6,2
+C-1560,T-006,Refueling,1,6,2
+C-1561,T-007,Cleaning,1,6,2
+C-1562,T-007,Cleaning,1,6,2
+C-1563,T-008,De-icing,1,6,2
+C-1564,T-009,Water and Waste Services,1,6,2
+C-1565,T-009,Water and Waste Services,1,6,2
+C-1566,T-010,Aircraft Inspections,1,6,2
+C-1567,T-010,Aircraft Inspections,1,6,2
+C-1568,T-011,Ground Power Unit Operations,1,6,2
+C-1569,T-012,Safety Zone Maintenance,1,6,2
+C-1570,T-012,Safety Zone Maintenance,1,6,2
+C-1571,T-013,Pushback and Towing,1,6,2
+C-1572,T-013,Pushback and Towing,1,6,2
+C-1573,T-013,Pushback and Towing,1,6,2
+C-1574,T-014,Conveyor Belts and Baggage Carts,1,6,2
+C-1575,T-014,Conveyor Belts and Baggage Carts,1,6,2
+C-1576,T-014,Conveyor Belts and Baggage Carts,1,6,2
+C-1577,T-014,Conveyor Belts and Baggage Carts,1,6,2
+C-1578,T-015,Ramp Equipment Management,1,6,2
+C-1579,T-016,Liaison with ATC,1,6,2
+C-1580,T-017,Coordination with Airlines,1,6,2
+C-1581,T-017,Coordination with Airlines,1,6,2
+C-1582,T-018,Emergency Response,1,6,2
+C-1583,T-019,Weather Adaptations,1,6,2
+C-1584,T-001,Aircraft Marshalling,1,7,2
+C-1585,T-002,Passenger Assistance,1,7,2
+C-1586,T-002,Passenger Assistance,1,7,2
+C-1587,T-003,Loading and Unloading Baggage,1,7,2
+C-1588,T-003,Loading and Unloading Baggage,1,7,2
+C-1589,T-004,Baggage Sorting,1,7,2
+C-1590,T-004,Baggage Sorting,1,7,2
+C-1591,T-004,Baggage Sorting,1,7,2
+C-1592,T-005,Cargo Management,1,7,2
+C-1593,T-005,Cargo Management,1,7,2
+C-1594,T-006,Refueling,1,7,2
+C-1595,T-006,Refueling,1,7,2
+C-1596,T-007,Cleaning,1,7,2
+C-1597,T-007,Cleaning,1,7,2
+C-1598,T-008,De-icing,1,7,2
+C-1599,T-009,Water and Waste Services,1,7,2
+C-1600,T-009,Water and Waste Services,1,7,2
+C-1601,T-010,Aircraft Inspections,1,7,2
+C-1602,T-010,Aircraft Inspections,1,7,2
+C-1603,T-011,Ground Power Unit Operations,1,7,2
+C-1604,T-012,Safety Zone Maintenance,1,7,2
+C-1605,T-012,Safety Zone Maintenance,1,7,2
+C-1606,T-013,Pushback and Towing,1,7,2
+C-1607,T-013,Pushback and Towing,1,7,2
+C-1608,T-013,Pushback and Towing,1,7,2
+C-1609,T-014,Conveyor Belts and Baggage Carts,1,7,2
+C-1610,T-014,Conveyor Belts and Baggage Carts,1,7,2
+C-1611,T-014,Conveyor Belts and Baggage Carts,1,7,2
+C-1612,T-014,Conveyor Belts and Baggage Carts,1,7,2
+C-1613,T-015,Ramp Equipment Management,1,7,2
+C-1614,T-016,Liaison with ATC,1,7,2
+C-1615,T-017,Coordination with Airlines,1,7,2
+C-1616,T-017,Coordination with Airlines,1,7,2
+C-1617,T-018,Emergency Response,1,7,2
+C-1618,T-019,Weather Adaptations,1,7,2
+C-1619,T-001,Aircraft Marshalling,1,8,2
+C-1620,T-002,Passenger Assistance,1,8,2
+C-1621,T-002,Passenger Assistance,1,8,2
+C-1622,T-003,Loading and Unloading Baggage,1,8,2
+C-1623,T-003,Loading and Unloading Baggage,1,8,2
+C-1624,T-004,Baggage Sorting,1,8,2
+C-1625,T-004,Baggage Sorting,1,8,2
+C-1626,T-004,Baggage Sorting,1,8,2
+C-1627,T-005,Cargo Management,1,8,2
+C-1628,T-005,Cargo Management,1,8,2
+C-1629,T-006,Refueling,1,8,2
+C-1630,T-006,Refueling,1,8,2
+C-1631,T-007,Cleaning,1,8,2
+C-1632,T-007,Cleaning,1,8,2
+C-1633,T-008,De-icing,1,8,2
+C-1634,T-009,Water and Waste Services,1,8,2
+C-1635,T-009,Water and Waste Services,1,8,2
+C-1636,T-010,Aircraft Inspections,1,8,2
+C-1637,T-010,Aircraft Inspections,1,8,2
+C-1638,T-011,Ground Power Unit Operations,1,8,2
+C-1639,T-012,Safety Zone Maintenance,1,8,2
+C-1640,T-012,Safety Zone Maintenance,1,8,2
+C-1641,T-013,Pushback and Towing,1,8,2
+C-1642,T-013,Pushback and Towing,1,8,2
+C-1643,T-013,Pushback and Towing,1,8,2
+C-1644,T-014,Conveyor Belts and Baggage Carts,1,8,2
+C-1645,T-014,Conveyor Belts and Baggage Carts,1,8,2
+C-1646,T-014,Conveyor Belts and Baggage Carts,1,8,2
+C-1647,T-014,Conveyor Belts and Baggage Carts,1,8,2
+C-1648,T-015,Ramp Equipment Management,1,8,2
+C-1649,T-016,Liaison with ATC,1,8,2
+C-1650,T-017,Coordination with Airlines,1,8,2
+C-1651,T-017,Coordination with Airlines,1,8,2
+C-1652,T-018,Emergency Response,1,8,2
+C-1653,T-019,Weather Adaptations,1,8,2
+C-1654,T-001,Aircraft Marshalling,1,9,2
+C-1655,T-002,Passenger Assistance,1,9,2
+C-1656,T-002,Passenger Assistance,1,9,2
+C-1657,T-003,Loading and Unloading Baggage,1,9,2
+C-1658,T-003,Loading and Unloading Baggage,1,9,2
+C-1659,T-004,Baggage Sorting,1,9,2
+C-1660,T-004,Baggage Sorting,1,9,2
+C-1661,T-004,Baggage Sorting,1,9,2
+C-1662,T-005,Cargo Management,1,9,2
+C-1663,T-005,Cargo Management,1,9,2
+C-1664,T-006,Refueling,1,9,2
+C-1665,T-006,Refueling,1,9,2
+C-1666,T-007,Cleaning,1,9,2
+C-1667,T-007,Cleaning,1,9,2
+C-1668,T-008,De-icing,1,9,2
+C-1669,T-009,Water and Waste Services,1,9,2
+C-1670,T-009,Water and Waste Services,1,9,2
+C-1671,T-010,Aircraft Inspections,1,9,2
+C-1672,T-010,Aircraft Inspections,1,9,2
+C-1673,T-011,Ground Power Unit Operations,1,9,2
+C-1674,T-012,Safety Zone Maintenance,1,9,2
+C-1675,T-012,Safety Zone Maintenance,1,9,2
+C-1676,T-013,Pushback and Towing,1,9,2
+C-1677,T-013,Pushback and Towing,1,9,2
+C-1678,T-013,Pushback and Towing,1,9,2
+C-1679,T-014,Conveyor Belts and Baggage Carts,1,9,2
+C-1680,T-014,Conveyor Belts and Baggage Carts,1,9,2
+C-1681,T-014,Conveyor Belts and Baggage Carts,1,9,2
+C-1682,T-014,Conveyor Belts and Baggage Carts,1,9,2
+C-1683,T-015,Ramp Equipment Management,1,9,2
+C-1684,T-016,Liaison with ATC,1,9,2
+C-1685,T-017,Coordination with Airlines,1,9,2
+C-1686,T-017,Coordination with Airlines,1,9,2
+C-1687,T-018,Emergency Response,1,9,2
+C-1688,T-019,Weather Adaptations,1,9,2
+C-1689,T-001,Aircraft Marshalling,1,10,2
+C-1690,T-002,Passenger Assistance,1,10,2
+C-1691,T-002,Passenger Assistance,1,10,2
+C-1692,T-003,Loading and Unloading Baggage,1,10,2
+C-1693,T-003,Loading and Unloading Baggage,1,10,2
+C-1694,T-004,Baggage Sorting,1,10,2
+C-1695,T-004,Baggage Sorting,1,10,2
+C-1696,T-004,Baggage Sorting,1,10,2
+C-1697,T-005,Cargo Management,1,10,2
+C-1698,T-005,Cargo Management,1,10,2
+C-1699,T-006,Refueling,1,10,2
+C-1700,T-006,Refueling,1,10,2
+C-1701,T-007,Cleaning,1,10,2
+C-1702,T-007,Cleaning,1,10,2
+C-1703,T-008,De-icing,1,10,2
+C-1704,T-009,Water and Waste Services,1,10,2
+C-1705,T-009,Water and Waste Services,1,10,2
+C-1706,T-010,Aircraft Inspections,1,10,2
+C-1707,T-010,Aircraft Inspections,1,10,2
+C-1708,T-011,Ground Power Unit Operations,1,10,2
+C-1709,T-012,Safety Zone Maintenance,1,10,2
+C-1710,T-012,Safety Zone Maintenance,1,10,2
+C-1711,T-013,Pushback and Towing,1,10,2
+C-1712,T-013,Pushback and Towing,1,10,2
+C-1713,T-013,Pushback and Towing,1,10,2
+C-1714,T-014,Conveyor Belts and Baggage Carts,1,10,2
+C-1715,T-014,Conveyor Belts and Baggage Carts,1,10,2
+C-1716,T-014,Conveyor Belts and Baggage Carts,1,10,2
+C-1717,T-014,Conveyor Belts and Baggage Carts,1,10,2
+C-1718,T-015,Ramp Equipment Management,1,10,2
+C-1719,T-016,Liaison with ATC,1,10,2
+C-1720,T-017,Coordination with Airlines,1,10,2
+C-1721,T-017,Coordination with Airlines,1,10,2
+C-1722,T-018,Emergency Response,1,10,2
+C-1723,T-019,Weather Adaptations,1,10,2
+C-1724,T-001,Aircraft Marshalling,1,11,2
+C-1725,T-002,Passenger Assistance,1,11,2
+C-1726,T-002,Passenger Assistance,1,11,2
+C-1727,T-003,Loading and Unloading Baggage,1,11,2
+C-1728,T-003,Loading and Unloading Baggage,1,11,2
+C-1729,T-004,Baggage Sorting,1,11,2
+C-1730,T-004,Baggage Sorting,1,11,2
+C-1731,T-004,Baggage Sorting,1,11,2
+C-1732,T-005,Cargo Management,1,11,2
+C-1733,T-005,Cargo Management,1,11,2
+C-1734,T-006,Refueling,1,11,2
+C-1735,T-006,Refueling,1,11,2
+C-1736,T-007,Cleaning,1,11,2
+C-1737,T-007,Cleaning,1,11,2
+C-1738,T-008,De-icing,1,11,2
+C-1739,T-009,Water and Waste Services,1,11,2
+C-1740,T-009,Water and Waste Services,1,11,2
+C-1741,T-010,Aircraft Inspections,1,11,2
+C-1742,T-010,Aircraft Inspections,1,11,2
+C-1743,T-011,Ground Power Unit Operations,1,11,2
+C-1744,T-012,Safety Zone Maintenance,1,11,2
+C-1745,T-012,Safety Zone Maintenance,1,11,2
+C-1746,T-013,Pushback and Towing,1,11,2
+C-1747,T-013,Pushback and Towing,1,11,2
+C-1748,T-013,Pushback and Towing,1,11,2
+C-1749,T-014,Conveyor Belts and Baggage Carts,1,11,2
+C-1750,T-014,Conveyor Belts and Baggage Carts,1,11,2
+C-1751,T-014,Conveyor Belts and Baggage Carts,1,11,2
+C-1752,T-014,Conveyor Belts and Baggage Carts,1,11,2
+C-1753,T-015,Ramp Equipment Management,1,11,2
+C-1754,T-016,Liaison with ATC,1,11,2
+C-1755,T-017,Coordination with Airlines,1,11,2
+C-1756,T-017,Coordination with Airlines,1,11,2
+C-1757,T-018,Emergency Response,1,11,2
+C-1758,T-019,Weather Adaptations,1,11,2
+C-1759,T-001,Aircraft Marshalling,1,12,2
+C-1760,T-002,Passenger Assistance,1,12,2
+C-1761,T-002,Passenger Assistance,1,12,2
+C-1762,T-003,Loading and Unloading Baggage,1,12,2
+C-1763,T-003,Loading and Unloading Baggage,1,12,2
+C-1764,T-004,Baggage Sorting,1,12,2
+C-1765,T-004,Baggage Sorting,1,12,2
+C-1766,T-004,Baggage Sorting,1,12,2
+C-1767,T-005,Cargo Management,1,12,2
+C-1768,T-005,Cargo Management,1,12,2
+C-1769,T-006,Refueling,1,12,2
+C-1770,T-006,Refueling,1,12,2
+C-1771,T-007,Cleaning,1,12,2
+C-1772,T-007,Cleaning,1,12,2
+C-1773,T-008,De-icing,1,12,2
+C-1774,T-009,Water and Waste Services,1,12,2
+C-1775,T-009,Water and Waste Services,1,12,2
+C-1776,T-010,Aircraft Inspections,1,12,2
+C-1777,T-010,Aircraft Inspections,1,12,2
+C-1778,T-011,Ground Power Unit Operations,1,12,2
+C-1779,T-012,Safety Zone Maintenance,1,12,2
+C-1780,T-012,Safety Zone Maintenance,1,12,2
+C-1781,T-013,Pushback and Towing,1,12,2
+C-1782,T-013,Pushback and Towing,1,12,2
+C-1783,T-013,Pushback and Towing,1,12,2
+C-1784,T-014,Conveyor Belts and Baggage Carts,1,12,2
+C-1785,T-014,Conveyor Belts and Baggage Carts,1,12,2
+C-1786,T-014,Conveyor Belts and Baggage Carts,1,12,2
+C-1787,T-014,Conveyor Belts and Baggage Carts,1,12,2
+C-1788,T-015,Ramp Equipment Management,1,12,2
+C-1789,T-016,Liaison with ATC,1,12,2
+C-1790,T-017,Coordination with Airlines,1,12,2
+C-1791,T-017,Coordination with Airlines,1,12,2
+C-1792,T-018,Emergency Response,1,12,2
+C-1793,T-019,Weather Adaptations,1,12,2
+C-1794,T-001,Aircraft Marshalling,1,1,3
+C-1795,T-002,Passenger Assistance,1,1,3
+C-1796,T-002,Passenger Assistance,1,1,3
+C-1797,T-003,Loading and Unloading Baggage,1,1,3
+C-1798,T-003,Loading and Unloading Baggage,1,1,3
+C-1799,T-004,Baggage Sorting,1,1,3
+C-1800,T-004,Baggage Sorting,1,1,3
+C-1801,T-004,Baggage Sorting,1,1,3
+C-1802,T-005,Cargo Management,1,1,3
+C-1803,T-005,Cargo Management,1,1,3
+C-1804,T-006,Refueling,1,1,3
+C-1805,T-006,Refueling,1,1,3
+C-1806,T-007,Cleaning,1,1,3
+C-1807,T-007,Cleaning,1,1,3
+C-1808,T-008,De-icing,1,1,3
+C-1809,T-009,Water and Waste Services,1,1,3
+C-1810,T-009,Water and Waste Services,1,1,3
+C-1811,T-010,Aircraft Inspections,1,1,3
+C-1812,T-010,Aircraft Inspections,1,1,3
+C-1813,T-011,Ground Power Unit Operations,1,1,3
+C-1814,T-012,Safety Zone Maintenance,1,1,3
+C-1815,T-012,Safety Zone Maintenance,1,1,3
+C-1816,T-013,Pushback and Towing,1,1,3
+C-1817,T-013,Pushback and Towing,1,1,3
+C-1818,T-013,Pushback and Towing,1,1,3
+C-1819,T-014,Conveyor Belts and Baggage Carts,1,1,3
+C-1820,T-014,Conveyor Belts and Baggage Carts,1,1,3
+C-1821,T-014,Conveyor Belts and Baggage Carts,1,1,3
+C-1822,T-014,Conveyor Belts and Baggage Carts,1,1,3
+C-1823,T-015,Ramp Equipment Management,1,1,3
+C-1824,T-016,Liaison with ATC,1,1,3
+C-1825,T-017,Coordination with Airlines,1,1,3
+C-1826,T-017,Coordination with Airlines,1,1,3
+C-1827,T-018,Emergency Response,1,1,3
+C-1828,T-019,Weather Adaptations,1,1,3
+C-1829,T-001,Aircraft Marshalling,1,2,3
+C-1830,T-002,Passenger Assistance,1,2,3
+C-1831,T-002,Passenger Assistance,1,2,3
+C-1832,T-003,Loading and Unloading Baggage,1,2,3
+C-1833,T-003,Loading and Unloading Baggage,1,2,3
+C-1834,T-004,Baggage Sorting,1,2,3
+C-1835,T-004,Baggage Sorting,1,2,3
+C-1836,T-004,Baggage Sorting,1,2,3
+C-1837,T-005,Cargo Management,1,2,3
+C-1838,T-005,Cargo Management,1,2,3
+C-1839,T-006,Refueling,1,2,3
+C-1840,T-006,Refueling,1,2,3
+C-1841,T-007,Cleaning,1,2,3
+C-1842,T-007,Cleaning,1,2,3
+C-1843,T-008,De-icing,1,2,3
+C-1844,T-009,Water and Waste Services,1,2,3
+C-1845,T-009,Water and Waste Services,1,2,3
+C-1846,T-010,Aircraft Inspections,1,2,3
+C-1847,T-010,Aircraft Inspections,1,2,3
+C-1848,T-011,Ground Power Unit Operations,1,2,3
+C-1849,T-012,Safety Zone Maintenance,1,2,3
+C-1850,T-012,Safety Zone Maintenance,1,2,3
+C-1851,T-013,Pushback and Towing,1,2,3
+C-1852,T-013,Pushback and Towing,1,2,3
+C-1853,T-013,Pushback and Towing,1,2,3
+C-1854,T-014,Conveyor Belts and Baggage Carts,1,2,3
+C-1855,T-014,Conveyor Belts and Baggage Carts,1,2,3
+C-1856,T-014,Conveyor Belts and Baggage Carts,1,2,3
+C-1857,T-014,Conveyor Belts and Baggage Carts,1,2,3
+C-1858,T-015,Ramp Equipment Management,1,2,3
+C-1859,T-016,Liaison with ATC,1,2,3
+C-1860,T-017,Coordination with Airlines,1,2,3
+C-1861,T-017,Coordination with Airlines,1,2,3
+C-1862,T-018,Emergency Response,1,2,3
+C-1863,T-019,Weather Adaptations,1,2,3
+C-1864,T-001,Aircraft Marshalling,1,3,3
+C-1865,T-002,Passenger Assistance,1,3,3
+C-1866,T-002,Passenger Assistance,1,3,3
+C-1867,T-003,Loading and Unloading Baggage,1,3,3
+C-1868,T-003,Loading and Unloading Baggage,1,3,3
+C-1869,T-004,Baggage Sorting,1,3,3
+C-1870,T-004,Baggage Sorting,1,3,3
+C-1871,T-004,Baggage Sorting,1,3,3
+C-1872,T-005,Cargo Management,1,3,3
+C-1873,T-005,Cargo Management,1,3,3
+C-1874,T-006,Refueling,1,3,3
+C-1875,T-006,Refueling,1,3,3
+C-1876,T-007,Cleaning,1,3,3
+C-1877,T-007,Cleaning,1,3,3
+C-1878,T-008,De-icing,1,3,3
+C-1879,T-009,Water and Waste Services,1,3,3
+C-1880,T-009,Water and Waste Services,1,3,3
+C-1881,T-010,Aircraft Inspections,1,3,3
+C-1882,T-010,Aircraft Inspections,1,3,3
+C-1883,T-011,Ground Power Unit Operations,1,3,3
+C-1884,T-012,Safety Zone Maintenance,1,3,3
+C-1885,T-012,Safety Zone Maintenance,1,3,3
+C-1886,T-013,Pushback and Towing,1,3,3
+C-1887,T-013,Pushback and Towing,1,3,3
+C-1888,T-013,Pushback and Towing,1,3,3
+C-1889,T-014,Conveyor Belts and Baggage Carts,1,3,3
+C-1890,T-014,Conveyor Belts and Baggage Carts,1,3,3
+C-1891,T-014,Conveyor Belts and Baggage Carts,1,3,3
+C-1892,T-014,Conveyor Belts and Baggage Carts,1,3,3
+C-1893,T-015,Ramp Equipment Management,1,3,3
+C-1894,T-016,Liaison with ATC,1,3,3
+C-1895,T-017,Coordination with Airlines,1,3,3
+C-1896,T-017,Coordination with Airlines,1,3,3
+C-1897,T-018,Emergency Response,1,3,3
+C-1898,T-019,Weather Adaptations,1,3,3
+C-1899,T-001,Aircraft Marshalling,1,4,3
+C-1900,T-002,Passenger Assistance,1,4,3
+C-1901,T-002,Passenger Assistance,1,4,3
+C-1902,T-003,Loading and Unloading Baggage,1,4,3
+C-1903,T-003,Loading and Unloading Baggage,1,4,3
+C-1904,T-004,Baggage Sorting,1,4,3
+C-1905,T-004,Baggage Sorting,1,4,3
+C-1906,T-004,Baggage Sorting,1,4,3
+C-1907,T-005,Cargo Management,1,4,3
+C-1908,T-005,Cargo Management,1,4,3
+C-1909,T-006,Refueling,1,4,3
+C-1910,T-006,Refueling,1,4,3
+C-1911,T-007,Cleaning,1,4,3
+C-1912,T-007,Cleaning,1,4,3
+C-1913,T-008,De-icing,1,4,3
+C-1914,T-009,Water and Waste Services,1,4,3
+C-1915,T-009,Water and Waste Services,1,4,3
+C-1916,T-010,Aircraft Inspections,1,4,3
+C-1917,T-010,Aircraft Inspections,1,4,3
+C-1918,T-011,Ground Power Unit Operations,1,4,3
+C-1919,T-012,Safety Zone Maintenance,1,4,3
+C-1920,T-012,Safety Zone Maintenance,1,4,3
+C-1921,T-013,Pushback and Towing,1,4,3
+C-1922,T-013,Pushback and Towing,1,4,3
+C-1923,T-013,Pushback and Towing,1,4,3
+C-1924,T-014,Conveyor Belts and Baggage Carts,1,4,3
+C-1925,T-014,Conveyor Belts and Baggage Carts,1,4,3
+C-1926,T-014,Conveyor Belts and Baggage Carts,1,4,3
+C-1927,T-014,Conveyor Belts and Baggage Carts,1,4,3
+C-1928,T-015,Ramp Equipment Management,1,4,3
+C-1929,T-016,Liaison with ATC,1,4,3
+C-1930,T-017,Coordination with Airlines,1,4,3
+C-1931,T-017,Coordination with Airlines,1,4,3
+C-1932,T-018,Emergency Response,1,4,3
+C-1933,T-019,Weather Adaptations,1,4,3
+C-1934,T-001,Aircraft Marshalling,1,5,3
+C-1935,T-002,Passenger Assistance,1,5,3
+C-1936,T-002,Passenger Assistance,1,5,3
+C-1937,T-003,Loading and Unloading Baggage,1,5,3
+C-1938,T-003,Loading and Unloading Baggage,1,5,3
+C-1939,T-004,Baggage Sorting,1,5,3
+C-1940,T-004,Baggage Sorting,1,5,3
+C-1941,T-004,Baggage Sorting,1,5,3
+C-1942,T-005,Cargo Management,1,5,3
+C-1943,T-005,Cargo Management,1,5,3
+C-1944,T-006,Refueling,1,5,3
+C-1945,T-006,Refueling,1,5,3
+C-1946,T-007,Cleaning,1,5,3
+C-1947,T-007,Cleaning,1,5,3
+C-1948,T-008,De-icing,1,5,3
+C-1949,T-009,Water and Waste Services,1,5,3
+C-1950,T-009,Water and Waste Services,1,5,3
+C-1951,T-010,Aircraft Inspections,1,5,3
+C-1952,T-010,Aircraft Inspections,1,5,3
+C-1953,T-011,Ground Power Unit Operations,1,5,3
+C-1954,T-012,Safety Zone Maintenance,1,5,3
+C-1955,T-012,Safety Zone Maintenance,1,5,3
+C-1956,T-013,Pushback and Towing,1,5,3
+C-1957,T-013,Pushback and Towing,1,5,3
+C-1958,T-013,Pushback and Towing,1,5,3
+C-1959,T-014,Conveyor Belts and Baggage Carts,1,5,3
+C-1960,T-014,Conveyor Belts and Baggage Carts,1,5,3
+C-1961,T-014,Conveyor Belts and Baggage Carts,1,5,3
+C-1962,T-014,Conveyor Belts and Baggage Carts,1,5,3
+C-1963,T-015,Ramp Equipment Management,1,5,3
+C-1964,T-016,Liaison with ATC,1,5,3
+C-1965,T-017,Coordination with Airlines,1,5,3
+C-1966,T-017,Coordination with Airlines,1,5,3
+C-1967,T-018,Emergency Response,1,5,3
+C-1968,T-019,Weather Adaptations,1,5,3
+C-1969,T-001,Aircraft Marshalling,1,6,3
+C-1970,T-002,Passenger Assistance,1,6,3
+C-1971,T-002,Passenger Assistance,1,6,3
+C-1972,T-003,Loading and Unloading Baggage,1,6,3
+C-1973,T-003,Loading and Unloading Baggage,1,6,3
+C-1974,T-004,Baggage Sorting,1,6,3
+C-1975,T-004,Baggage Sorting,1,6,3
+C-1976,T-004,Baggage Sorting,1,6,3
+C-1977,T-005,Cargo Management,1,6,3
+C-1978,T-005,Cargo Management,1,6,3
+C-1979,T-006,Refueling,1,6,3
+C-1980,T-006,Refueling,1,6,3
+C-1981,T-007,Cleaning,1,6,3
+C-1982,T-007,Cleaning,1,6,3
+C-1983,T-008,De-icing,1,6,3
+C-1984,T-009,Water and Waste Services,1,6,3
+C-1985,T-009,Water and Waste Services,1,6,3
+C-1986,T-010,Aircraft Inspections,1,6,3
+C-1987,T-010,Aircraft Inspections,1,6,3
+C-1988,T-011,Ground Power Unit Operations,1,6,3
+C-1989,T-012,Safety Zone Maintenance,1,6,3
+C-1990,T-012,Safety Zone Maintenance,1,6,3
+C-1991,T-013,Pushback and Towing,1,6,3
+C-1992,T-013,Pushback and Towing,1,6,3
+C-1993,T-013,Pushback and Towing,1,6,3
+C-1994,T-014,Conveyor Belts and Baggage Carts,1,6,3
+C-1995,T-014,Conveyor Belts and Baggage Carts,1,6,3
+C-1996,T-014,Conveyor Belts and Baggage Carts,1,6,3
+C-1997,T-014,Conveyor Belts and Baggage Carts,1,6,3
+C-1998,T-015,Ramp Equipment Management,1,6,3
+C-1999,T-016,Liaison with ATC,1,6,3
+C-2000,T-017,Coordination with Airlines,1,6,3
+C-2001,T-017,Coordination with Airlines,1,6,3
+C-2002,T-018,Emergency Response,1,6,3
+C-2003,T-019,Weather Adaptations,1,6,3
+C-2004,T-001,Aircraft Marshalling,1,7,3
+C-2005,T-002,Passenger Assistance,1,7,3
+C-2006,T-002,Passenger Assistance,1,7,3
+C-2007,T-003,Loading and Unloading Baggage,1,7,3
+C-2008,T-003,Loading and Unloading Baggage,1,7,3
+C-2009,T-004,Baggage Sorting,1,7,3
+C-2010,T-004,Baggage Sorting,1,7,3
+C-2011,T-004,Baggage Sorting,1,7,3
+C-2012,T-005,Cargo Management,1,7,3
+C-2013,T-005,Cargo Management,1,7,3
+C-2014,T-006,Refueling,1,7,3
+C-2015,T-006,Refueling,1,7,3
+C-2016,T-007,Cleaning,1,7,3
+C-2017,T-007,Cleaning,1,7,3
+C-2018,T-008,De-icing,1,7,3
+C-2019,T-009,Water and Waste Services,1,7,3
+C-2020,T-009,Water and Waste Services,1,7,3
+C-2021,T-010,Aircraft Inspections,1,7,3
+C-2022,T-010,Aircraft Inspections,1,7,3
+C-2023,T-011,Ground Power Unit Operations,1,7,3
+C-2024,T-012,Safety Zone Maintenance,1,7,3
+C-2025,T-012,Safety Zone Maintenance,1,7,3
+C-2026,T-013,Pushback and Towing,1,7,3
+C-2027,T-013,Pushback and Towing,1,7,3
+C-2028,T-013,Pushback and Towing,1,7,3
+C-2029,T-014,Conveyor Belts and Baggage Carts,1,7,3
+C-2030,T-014,Conveyor Belts and Baggage Carts,1,7,3
+C-2031,T-014,Conveyor Belts and Baggage Carts,1,7,3
+C-2032,T-014,Conveyor Belts and Baggage Carts,1,7,3
+C-2033,T-015,Ramp Equipment Management,1,7,3
+C-2034,T-016,Liaison with ATC,1,7,3
+C-2035,T-017,Coordination with Airlines,1,7,3
+C-2036,T-017,Coordination with Airlines,1,7,3
+C-2037,T-018,Emergency Response,1,7,3
+C-2038,T-019,Weather Adaptations,1,7,3
+C-2039,T-001,Aircraft Marshalling,1,8,3
+C-2040,T-002,Passenger Assistance,1,8,3
+C-2041,T-002,Passenger Assistance,1,8,3
+C-2042,T-003,Loading and Unloading Baggage,1,8,3
+C-2043,T-003,Loading and Unloading Baggage,1,8,3
+C-2044,T-004,Baggage Sorting,1,8,3
+C-2045,T-004,Baggage Sorting,1,8,3
+C-2046,T-004,Baggage Sorting,1,8,3
+C-2047,T-005,Cargo Management,1,8,3
+C-2048,T-005,Cargo Management,1,8,3
+C-2049,T-006,Refueling,1,8,3
+C-2050,T-006,Refueling,1,8,3
+C-2051,T-007,Cleaning,1,8,3
+C-2052,T-007,Cleaning,1,8,3
+C-2053,T-008,De-icing,1,8,3
+C-2054,T-009,Water and Waste Services,1,8,3
+C-2055,T-009,Water and Waste Services,1,8,3
+C-2056,T-010,Aircraft Inspections,1,8,3
+C-2057,T-010,Aircraft Inspections,1,8,3
+C-2058,T-011,Ground Power Unit Operations,1,8,3
+C-2059,T-012,Safety Zone Maintenance,1,8,3
+C-2060,T-012,Safety Zone Maintenance,1,8,3
+C-2061,T-013,Pushback and Towing,1,8,3
+C-2062,T-013,Pushback and Towing,1,8,3
+C-2063,T-013,Pushback and Towing,1,8,3
+C-2064,T-014,Conveyor Belts and Baggage Carts,1,8,3
+C-2065,T-014,Conveyor Belts and Baggage Carts,1,8,3
+C-2066,T-014,Conveyor Belts and Baggage Carts,1,8,3
+C-2067,T-014,Conveyor Belts and Baggage Carts,1,8,3
+C-2068,T-015,Ramp Equipment Management,1,8,3
+C-2069,T-016,Liaison with ATC,1,8,3
+C-2070,T-017,Coordination with Airlines,1,8,3
+C-2071,T-017,Coordination with Airlines,1,8,3
+C-2072,T-018,Emergency Response,1,8,3
+C-2073,T-019,Weather Adaptations,1,8,3
+C-2074,T-001,Aircraft Marshalling,1,9,3
+C-2075,T-002,Passenger Assistance,1,9,3
+C-2076,T-002,Passenger Assistance,1,9,3
+C-2077,T-003,Loading and Unloading Baggage,1,9,3
+C-2078,T-003,Loading and Unloading Baggage,1,9,3
+C-2079,T-004,Baggage Sorting,1,9,3
+C-2080,T-004,Baggage Sorting,1,9,3
+C-2081,T-004,Baggage Sorting,1,9,3
+C-2082,T-005,Cargo Management,1,9,3
+C-2083,T-005,Cargo Management,1,9,3
+C-2084,T-006,Refueling,1,9,3
+C-2085,T-006,Refueling,1,9,3
+C-2086,T-007,Cleaning,1,9,3
+C-2087,T-007,Cleaning,1,9,3
+C-2088,T-008,De-icing,1,9,3
+C-2089,T-009,Water and Waste Services,1,9,3
+C-2090,T-009,Water and Waste Services,1,9,3
+C-2091,T-010,Aircraft Inspections,1,9,3
+C-2092,T-010,Aircraft Inspections,1,9,3
+C-2093,T-011,Ground Power Unit Operations,1,9,3
+C-2094,T-012,Safety Zone Maintenance,1,9,3
+C-2095,T-012,Safety Zone Maintenance,1,9,3
+C-2096,T-013,Pushback and Towing,1,9,3
+C-2097,T-013,Pushback and Towing,1,9,3
+C-2098,T-013,Pushback and Towing,1,9,3
+C-2099,T-014,Conveyor Belts and Baggage Carts,1,9,3
+C-2100,T-014,Conveyor Belts and Baggage Carts,1,9,3
+C-2101,T-014,Conveyor Belts and Baggage Carts,1,9,3
+C-2102,T-014,Conveyor Belts and Baggage Carts,1,9,3
+C-2103,T-015,Ramp Equipment Management,1,9,3
+C-2104,T-016,Liaison with ATC,1,9,3
+C-2105,T-017,Coordination with Airlines,1,9,3
+C-2106,T-017,Coordination with Airlines,1,9,3
+C-2107,T-018,Emergency Response,1,9,3
+C-2108,T-019,Weather Adaptations,1,9,3
+C-2109,T-001,Aircraft Marshalling,1,10,3
+C-2110,T-002,Passenger Assistance,1,10,3
+C-2111,T-002,Passenger Assistance,1,10,3
+C-2112,T-003,Loading and Unloading Baggage,1,10,3
+C-2113,T-003,Loading and Unloading Baggage,1,10,3
+C-2114,T-004,Baggage Sorting,1,10,3
+C-2115,T-004,Baggage Sorting,1,10,3
+C-2116,T-004,Baggage Sorting,1,10,3
+C-2117,T-005,Cargo Management,1,10,3
+C-2118,T-005,Cargo Management,1,10,3
+C-2119,T-006,Refueling,1,10,3
+C-2120,T-006,Refueling,1,10,3
+C-2121,T-007,Cleaning,1,10,3
+C-2122,T-007,Cleaning,1,10,3
+C-2123,T-008,De-icing,1,10,3
+C-2124,T-009,Water and Waste Services,1,10,3
+C-2125,T-009,Water and Waste Services,1,10,3
+C-2126,T-010,Aircraft Inspections,1,10,3
+C-2127,T-010,Aircraft Inspections,1,10,3
+C-2128,T-011,Ground Power Unit Operations,1,10,3
+C-2129,T-012,Safety Zone Maintenance,1,10,3
+C-2130,T-012,Safety Zone Maintenance,1,10,3
+C-2131,T-013,Pushback and Towing,1,10,3
+C-2132,T-013,Pushback and Towing,1,10,3
+C-2133,T-013,Pushback and Towing,1,10,3
+C-2134,T-014,Conveyor Belts and Baggage Carts,1,10,3
+C-2135,T-014,Conveyor Belts and Baggage Carts,1,10,3
+C-2136,T-014,Conveyor Belts and Baggage Carts,1,10,3
+C-2137,T-014,Conveyor Belts and Baggage Carts,1,10,3
+C-2138,T-015,Ramp Equipment Management,1,10,3
+C-2139,T-016,Liaison with ATC,1,10,3
+C-2140,T-017,Coordination with Airlines,1,10,3
+C-2141,T-017,Coordination with Airlines,1,10,3
+C-2142,T-018,Emergency Response,1,10,3
+C-2143,T-019,Weather Adaptations,1,10,3
+C-2144,T-001,Aircraft Marshalling,1,11,3
+C-2145,T-002,Passenger Assistance,1,11,3
+C-2146,T-002,Passenger Assistance,1,11,3
+C-2147,T-003,Loading and Unloading Baggage,1,11,3
+C-2148,T-003,Loading and Unloading Baggage,1,11,3
+C-2149,T-004,Baggage Sorting,1,11,3
+C-2150,T-004,Baggage Sorting,1,11,3
+C-2151,T-004,Baggage Sorting,1,11,3
+C-2152,T-005,Cargo Management,1,11,3
+C-2153,T-005,Cargo Management,1,11,3
+C-2154,T-006,Refueling,1,11,3
+C-2155,T-006,Refueling,1,11,3
+C-2156,T-007,Cleaning,1,11,3
+C-2157,T-007,Cleaning,1,11,3
+C-2158,T-008,De-icing,1,11,3
+C-2159,T-009,Water and Waste Services,1,11,3
+C-2160,T-009,Water and Waste Services,1,11,3
+C-2161,T-010,Aircraft Inspections,1,11,3
+C-2162,T-010,Aircraft Inspections,1,11,3
+C-2163,T-011,Ground Power Unit Operations,1,11,3
+C-2164,T-012,Safety Zone Maintenance,1,11,3
+C-2165,T-012,Safety Zone Maintenance,1,11,3
+C-2166,T-013,Pushback and Towing,1,11,3
+C-2167,T-013,Pushback and Towing,1,11,3
+C-2168,T-013,Pushback and Towing,1,11,3
+C-2169,T-014,Conveyor Belts and Baggage Carts,1,11,3
+C-2170,T-014,Conveyor Belts and Baggage Carts,1,11,3
+C-2171,T-014,Conveyor Belts and Baggage Carts,1,11,3
+C-2172,T-014,Conveyor Belts and Baggage Carts,1,11,3
+C-2173,T-015,Ramp Equipment Management,1,11,3
+C-2174,T-016,Liaison with ATC,1,11,3
+C-2175,T-017,Coordination with Airlines,1,11,3
+C-2176,T-017,Coordination with Airlines,1,11,3
+C-2177,T-018,Emergency Response,1,11,3
+C-2178,T-019,Weather Adaptations,1,11,3
+C-2179,T-001,Aircraft Marshalling,1,12,3
+C-2180,T-002,Passenger Assistance,1,12,3
+C-2181,T-002,Passenger Assistance,1,12,3
+C-2182,T-003,Loading and Unloading Baggage,1,12,3
+C-2183,T-003,Loading and Unloading Baggage,1,12,3
+C-2184,T-004,Baggage Sorting,1,12,3
+C-2185,T-004,Baggage Sorting,1,12,3
+C-2186,T-004,Baggage Sorting,1,12,3
+C-2187,T-005,Cargo Management,1,12,3
+C-2188,T-005,Cargo Management,1,12,3
+C-2189,T-006,Refueling,1,12,3
+C-2190,T-006,Refueling,1,12,3
+C-2191,T-007,Cleaning,1,12,3
+C-2192,T-007,Cleaning,1,12,3
+C-2193,T-008,De-icing,1,12,3
+C-2194,T-009,Water and Waste Services,1,12,3
+C-2195,T-009,Water and Waste Services,1,12,3
+C-2196,T-010,Aircraft Inspections,1,12,3
+C-2197,T-010,Aircraft Inspections,1,12,3
+C-2198,T-011,Ground Power Unit Operations,1,12,3
+C-2199,T-012,Safety Zone Maintenance,1,12,3
+C-2200,T-012,Safety Zone Maintenance,1,12,3
+C-2201,T-013,Pushback and Towing,1,12,3
+C-2202,T-013,Pushback and Towing,1,12,3
+C-2203,T-013,Pushback and Towing,1,12,3
+C-2204,T-014,Conveyor Belts and Baggage Carts,1,12,3
+C-2205,T-014,Conveyor Belts and Baggage Carts,1,12,3
+C-2206,T-014,Conveyor Belts and Baggage Carts,1,12,3
+C-2207,T-014,Conveyor Belts and Baggage Carts,1,12,3
+C-2208,T-015,Ramp Equipment Management,1,12,3
+C-2209,T-016,Liaison with ATC,1,12,3
+C-2210,T-017,Coordination with Airlines,1,12,3
+C-2211,T-017,Coordination with Airlines,1,12,3
+C-2212,T-018,Emergency Response,1,12,3
+C-2213,T-019,Weather Adaptations,1,12,3
+C-2214,T-001,Aircraft Marshalling,1,1,4
+C-2215,T-002,Passenger Assistance,1,1,4
+C-2216,T-002,Passenger Assistance,1,1,4
+C-2217,T-003,Loading and Unloading Baggage,1,1,4
+C-2218,T-003,Loading and Unloading Baggage,1,1,4
+C-2219,T-004,Baggage Sorting,1,1,4
+C-2220,T-004,Baggage Sorting,1,1,4
+C-2221,T-004,Baggage Sorting,1,1,4
+C-2222,T-005,Cargo Management,1,1,4
+C-2223,T-005,Cargo Management,1,1,4
+C-2224,T-006,Refueling,1,1,4
+C-2225,T-006,Refueling,1,1,4
+C-2226,T-007,Cleaning,1,1,4
+C-2227,T-007,Cleaning,1,1,4
+C-2228,T-008,De-icing,1,1,4
+C-2229,T-009,Water and Waste Services,1,1,4
+C-2230,T-009,Water and Waste Services,1,1,4
+C-2231,T-010,Aircraft Inspections,1,1,4
+C-2232,T-010,Aircraft Inspections,1,1,4
+C-2233,T-011,Ground Power Unit Operations,1,1,4
+C-2234,T-012,Safety Zone Maintenance,1,1,4
+C-2235,T-012,Safety Zone Maintenance,1,1,4
+C-2236,T-013,Pushback and Towing,1,1,4
+C-2237,T-013,Pushback and Towing,1,1,4
+C-2238,T-013,Pushback and Towing,1,1,4
+C-2239,T-014,Conveyor Belts and Baggage Carts,1,1,4
+C-2240,T-014,Conveyor Belts and Baggage Carts,1,1,4
+C-2241,T-014,Conveyor Belts and Baggage Carts,1,1,4
+C-2242,T-014,Conveyor Belts and Baggage Carts,1,1,4
+C-2243,T-015,Ramp Equipment Management,1,1,4
+C-2244,T-016,Liaison with ATC,1,1,4
+C-2245,T-017,Coordination with Airlines,1,1,4
+C-2246,T-017,Coordination with Airlines,1,1,4
+C-2247,T-018,Emergency Response,1,1,4
+C-2248,T-019,Weather Adaptations,1,1,4
+C-2249,T-001,Aircraft Marshalling,1,2,4
+C-2250,T-002,Passenger Assistance,1,2,4
+C-2251,T-002,Passenger Assistance,1,2,4
+C-2252,T-003,Loading and Unloading Baggage,1,2,4
+C-2253,T-003,Loading and Unloading Baggage,1,2,4
+C-2254,T-004,Baggage Sorting,1,2,4
+C-2255,T-004,Baggage Sorting,1,2,4
+C-2256,T-004,Baggage Sorting,1,2,4
+C-2257,T-005,Cargo Management,1,2,4
+C-2258,T-005,Cargo Management,1,2,4
+C-2259,T-006,Refueling,1,2,4
+C-2260,T-006,Refueling,1,2,4
+C-2261,T-007,Cleaning,1,2,4
+C-2262,T-007,Cleaning,1,2,4
+C-2263,T-008,De-icing,1,2,4
+C-2264,T-009,Water and Waste Services,1,2,4
+C-2265,T-009,Water and Waste Services,1,2,4
+C-2266,T-010,Aircraft Inspections,1,2,4
+C-2267,T-010,Aircraft Inspections,1,2,4
+C-2268,T-011,Ground Power Unit Operations,1,2,4
+C-2269,T-012,Safety Zone Maintenance,1,2,4
+C-2270,T-012,Safety Zone Maintenance,1,2,4
+C-2271,T-013,Pushback and Towing,1,2,4
+C-2272,T-013,Pushback and Towing,1,2,4
+C-2273,T-013,Pushback and Towing,1,2,4
+C-2274,T-014,Conveyor Belts and Baggage Carts,1,2,4
+C-2275,T-014,Conveyor Belts and Baggage Carts,1,2,4
+C-2276,T-014,Conveyor Belts and Baggage Carts,1,2,4
+C-2277,T-014,Conveyor Belts and Baggage Carts,1,2,4
+C-2278,T-015,Ramp Equipment Management,1,2,4
+C-2279,T-016,Liaison with ATC,1,2,4
+C-2280,T-017,Coordination with Airlines,1,2,4
+C-2281,T-017,Coordination with Airlines,1,2,4
+C-2282,T-018,Emergency Response,1,2,4
+C-2283,T-019,Weather Adaptations,1,2,4
+C-2284,T-001,Aircraft Marshalling,1,3,4
+C-2285,T-002,Passenger Assistance,1,3,4
+C-2286,T-002,Passenger Assistance,1,3,4
+C-2287,T-003,Loading and Unloading Baggage,1,3,4
+C-2288,T-003,Loading and Unloading Baggage,1,3,4
+C-2289,T-004,Baggage Sorting,1,3,4
+C-2290,T-004,Baggage Sorting,1,3,4
+C-2291,T-004,Baggage Sorting,1,3,4
+C-2292,T-005,Cargo Management,1,3,4
+C-2293,T-005,Cargo Management,1,3,4
+C-2294,T-006,Refueling,1,3,4
+C-2295,T-006,Refueling,1,3,4
+C-2296,T-007,Cleaning,1,3,4
+C-2297,T-007,Cleaning,1,3,4
+C-2298,T-008,De-icing,1,3,4
+C-2299,T-009,Water and Waste Services,1,3,4
+C-2300,T-009,Water and Waste Services,1,3,4
+C-2301,T-010,Aircraft Inspections,1,3,4
+C-2302,T-010,Aircraft Inspections,1,3,4
+C-2303,T-011,Ground Power Unit Operations,1,3,4
+C-2304,T-012,Safety Zone Maintenance,1,3,4
+C-2305,T-012,Safety Zone Maintenance,1,3,4
+C-2306,T-013,Pushback and Towing,1,3,4
+C-2307,T-013,Pushback and Towing,1,3,4
+C-2308,T-013,Pushback and Towing,1,3,4
+C-2309,T-014,Conveyor Belts and Baggage Carts,1,3,4
+C-2310,T-014,Conveyor Belts and Baggage Carts,1,3,4
+C-2311,T-014,Conveyor Belts and Baggage Carts,1,3,4
+C-2312,T-014,Conveyor Belts and Baggage Carts,1,3,4
+C-2313,T-015,Ramp Equipment Management,1,3,4
+C-2314,T-016,Liaison with ATC,1,3,4
+C-2315,T-017,Coordination with Airlines,1,3,4
+C-2316,T-017,Coordination with Airlines,1,3,4
+C-2317,T-018,Emergency Response,1,3,4
+C-2318,T-019,Weather Adaptations,1,3,4
+C-2319,T-001,Aircraft Marshalling,1,4,4
+C-2320,T-002,Passenger Assistance,1,4,4
+C-2321,T-002,Passenger Assistance,1,4,4
+C-2322,T-003,Loading and Unloading Baggage,1,4,4
+C-2323,T-003,Loading and Unloading Baggage,1,4,4
+C-2324,T-004,Baggage Sorting,1,4,4
+C-2325,T-004,Baggage Sorting,1,4,4
+C-2326,T-004,Baggage Sorting,1,4,4
+C-2327,T-005,Cargo Management,1,4,4
+C-2328,T-005,Cargo Management,1,4,4
+C-2329,T-006,Refueling,1,4,4
+C-2330,T-006,Refueling,1,4,4
+C-2331,T-007,Cleaning,1,4,4
+C-2332,T-007,Cleaning,1,4,4
+C-2333,T-008,De-icing,1,4,4
+C-2334,T-009,Water and Waste Services,1,4,4
+C-2335,T-009,Water and Waste Services,1,4,4
+C-2336,T-010,Aircraft Inspections,1,4,4
+C-2337,T-010,Aircraft Inspections,1,4,4
+C-2338,T-011,Ground Power Unit Operations,1,4,4
+C-2339,T-012,Safety Zone Maintenance,1,4,4
+C-2340,T-012,Safety Zone Maintenance,1,4,4
+C-2341,T-013,Pushback and Towing,1,4,4
+C-2342,T-013,Pushback and Towing,1,4,4
+C-2343,T-013,Pushback and Towing,1,4,4
+C-2344,T-014,Conveyor Belts and Baggage Carts,1,4,4
+C-2345,T-014,Conveyor Belts and Baggage Carts,1,4,4
+C-2346,T-014,Conveyor Belts and Baggage Carts,1,4,4
+C-2347,T-014,Conveyor Belts and Baggage Carts,1,4,4
+C-2348,T-015,Ramp Equipment Management,1,4,4
+C-2349,T-016,Liaison with ATC,1,4,4
+C-2350,T-017,Coordination with Airlines,1,4,4
+C-2351,T-017,Coordination with Airlines,1,4,4
+C-2352,T-018,Emergency Response,1,4,4
+C-2353,T-019,Weather Adaptations,1,4,4
+C-2354,T-001,Aircraft Marshalling,1,5,4
+C-2355,T-002,Passenger Assistance,1,5,4
+C-2356,T-002,Passenger Assistance,1,5,4
+C-2357,T-003,Loading and Unloading Baggage,1,5,4
+C-2358,T-003,Loading and Unloading Baggage,1,5,4
+C-2359,T-004,Baggage Sorting,1,5,4
+C-2360,T-004,Baggage Sorting,1,5,4
+C-2361,T-004,Baggage Sorting,1,5,4
+C-2362,T-005,Cargo Management,1,5,4
+C-2363,T-005,Cargo Management,1,5,4
+C-2364,T-006,Refueling,1,5,4
+C-2365,T-006,Refueling,1,5,4
+C-2366,T-007,Cleaning,1,5,4
+C-2367,T-007,Cleaning,1,5,4
+C-2368,T-008,De-icing,1,5,4
+C-2369,T-009,Water and Waste Services,1,5,4
+C-2370,T-009,Water and Waste Services,1,5,4
+C-2371,T-010,Aircraft Inspections,1,5,4
+C-2372,T-010,Aircraft Inspections,1,5,4
+C-2373,T-011,Ground Power Unit Operations,1,5,4
+C-2374,T-012,Safety Zone Maintenance,1,5,4
+C-2375,T-012,Safety Zone Maintenance,1,5,4
+C-2376,T-013,Pushback and Towing,1,5,4
+C-2377,T-013,Pushback and Towing,1,5,4
+C-2378,T-013,Pushback and Towing,1,5,4
+C-2379,T-014,Conveyor Belts and Baggage Carts,1,5,4
+C-2380,T-014,Conveyor Belts and Baggage Carts,1,5,4
+C-2381,T-014,Conveyor Belts and Baggage Carts,1,5,4
+C-2382,T-014,Conveyor Belts and Baggage Carts,1,5,4
+C-2383,T-015,Ramp Equipment Management,1,5,4
+C-2384,T-016,Liaison with ATC,1,5,4
+C-2385,T-017,Coordination with Airlines,1,5,4
+C-2386,T-017,Coordination with Airlines,1,5,4
+C-2387,T-018,Emergency Response,1,5,4
+C-2388,T-019,Weather Adaptations,1,5,4
+C-2389,T-001,Aircraft Marshalling,1,6,4
+C-2390,T-002,Passenger Assistance,1,6,4
+C-2391,T-002,Passenger Assistance,1,6,4
+C-2392,T-003,Loading and Unloading Baggage,1,6,4
+C-2393,T-003,Loading and Unloading Baggage,1,6,4
+C-2394,T-004,Baggage Sorting,1,6,4
+C-2395,T-004,Baggage Sorting,1,6,4
+C-2396,T-004,Baggage Sorting,1,6,4
+C-2397,T-005,Cargo Management,1,6,4
+C-2398,T-005,Cargo Management,1,6,4
+C-2399,T-006,Refueling,1,6,4
+C-2400,T-006,Refueling,1,6,4
+C-2401,T-007,Cleaning,1,6,4
+C-2402,T-007,Cleaning,1,6,4
+C-2403,T-008,De-icing,1,6,4
+C-2404,T-009,Water and Waste Services,1,6,4
+C-2405,T-009,Water and Waste Services,1,6,4
+C-2406,T-010,Aircraft Inspections,1,6,4
+C-2407,T-010,Aircraft Inspections,1,6,4
+C-2408,T-011,Ground Power Unit Operations,1,6,4
+C-2409,T-012,Safety Zone Maintenance,1,6,4
+C-2410,T-012,Safety Zone Maintenance,1,6,4
+C-2411,T-013,Pushback and Towing,1,6,4
+C-2412,T-013,Pushback and Towing,1,6,4
+C-2413,T-013,Pushback and Towing,1,6,4
+C-2414,T-014,Conveyor Belts and Baggage Carts,1,6,4
+C-2415,T-014,Conveyor Belts and Baggage Carts,1,6,4
+C-2416,T-014,Conveyor Belts and Baggage Carts,1,6,4
+C-2417,T-014,Conveyor Belts and Baggage Carts,1,6,4
+C-2418,T-015,Ramp Equipment Management,1,6,4
+C-2419,T-016,Liaison with ATC,1,6,4
+C-2420,T-017,Coordination with Airlines,1,6,4
+C-2421,T-017,Coordination with Airlines,1,6,4
+C-2422,T-018,Emergency Response,1,6,4
+C-2423,T-019,Weather Adaptations,1,6,4
+C-2424,T-001,Aircraft Marshalling,1,7,4
+C-2425,T-002,Passenger Assistance,1,7,4
+C-2426,T-002,Passenger Assistance,1,7,4
+C-2427,T-003,Loading and Unloading Baggage,1,7,4
+C-2428,T-003,Loading and Unloading Baggage,1,7,4
+C-2429,T-004,Baggage Sorting,1,7,4
+C-2430,T-004,Baggage Sorting,1,7,4
+C-2431,T-004,Baggage Sorting,1,7,4
+C-2432,T-005,Cargo Management,1,7,4
+C-2433,T-005,Cargo Management,1,7,4
+C-2434,T-006,Refueling,1,7,4
+C-2435,T-006,Refueling,1,7,4
+C-2436,T-007,Cleaning,1,7,4
+C-2437,T-007,Cleaning,1,7,4
+C-2438,T-008,De-icing,1,7,4
+C-2439,T-009,Water and Waste Services,1,7,4
+C-2440,T-009,Water and Waste Services,1,7,4
+C-2441,T-010,Aircraft Inspections,1,7,4
+C-2442,T-010,Aircraft Inspections,1,7,4
+C-2443,T-011,Ground Power Unit Operations,1,7,4
+C-2444,T-012,Safety Zone Maintenance,1,7,4
+C-2445,T-012,Safety Zone Maintenance,1,7,4
+C-2446,T-013,Pushback and Towing,1,7,4
+C-2447,T-013,Pushback and Towing,1,7,4
+C-2448,T-013,Pushback and Towing,1,7,4
+C-2449,T-014,Conveyor Belts and Baggage Carts,1,7,4
+C-2450,T-014,Conveyor Belts and Baggage Carts,1,7,4
+C-2451,T-014,Conveyor Belts and Baggage Carts,1,7,4
+C-2452,T-014,Conveyor Belts and Baggage Carts,1,7,4
+C-2453,T-015,Ramp Equipment Management,1,7,4
+C-2454,T-016,Liaison with ATC,1,7,4
+C-2455,T-017,Coordination with Airlines,1,7,4
+C-2456,T-017,Coordination with Airlines,1,7,4
+C-2457,T-018,Emergency Response,1,7,4
+C-2458,T-019,Weather Adaptations,1,7,4
+C-2459,T-001,Aircraft Marshalling,1,8,4
+C-2460,T-002,Passenger Assistance,1,8,4
+C-2461,T-002,Passenger Assistance,1,8,4
+C-2462,T-003,Loading and Unloading Baggage,1,8,4
+C-2463,T-003,Loading and Unloading Baggage,1,8,4
+C-2464,T-004,Baggage Sorting,1,8,4
+C-2465,T-004,Baggage Sorting,1,8,4
+C-2466,T-004,Baggage Sorting,1,8,4
+C-2467,T-005,Cargo Management,1,8,4
+C-2468,T-005,Cargo Management,1,8,4
+C-2469,T-006,Refueling,1,8,4
+C-2470,T-006,Refueling,1,8,4
+C-2471,T-007,Cleaning,1,8,4
+C-2472,T-007,Cleaning,1,8,4
+C-2473,T-008,De-icing,1,8,4
+C-2474,T-009,Water and Waste Services,1,8,4
+C-2475,T-009,Water and Waste Services,1,8,4
+C-2476,T-010,Aircraft Inspections,1,8,4
+C-2477,T-010,Aircraft Inspections,1,8,4
+C-2478,T-011,Ground Power Unit Operations,1,8,4
+C-2479,T-012,Safety Zone Maintenance,1,8,4
+C-2480,T-012,Safety Zone Maintenance,1,8,4
+C-2481,T-013,Pushback and Towing,1,8,4
+C-2482,T-013,Pushback and Towing,1,8,4
+C-2483,T-013,Pushback and Towing,1,8,4
+C-2484,T-014,Conveyor Belts and Baggage Carts,1,8,4
+C-2485,T-014,Conveyor Belts and Baggage Carts,1,8,4
+C-2486,T-014,Conveyor Belts and Baggage Carts,1,8,4
+C-2487,T-014,Conveyor Belts and Baggage Carts,1,8,4
+C-2488,T-015,Ramp Equipment Management,1,8,4
+C-2489,T-016,Liaison with ATC,1,8,4
+C-2490,T-017,Coordination with Airlines,1,8,4
+C-2491,T-017,Coordination with Airlines,1,8,4
+C-2492,T-018,Emergency Response,1,8,4
+C-2493,T-019,Weather Adaptations,1,8,4
+C-2494,T-001,Aircraft Marshalling,1,9,4
+C-2495,T-002,Passenger Assistance,1,9,4
+C-2496,T-002,Passenger Assistance,1,9,4
+C-2497,T-003,Loading and Unloading Baggage,1,9,4
+C-2498,T-003,Loading and Unloading Baggage,1,9,4
+C-2499,T-004,Baggage Sorting,1,9,4
+C-2500,T-004,Baggage Sorting,1,9,4
+C-2501,T-004,Baggage Sorting,1,9,4
+C-2502,T-005,Cargo Management,1,9,4
+C-2503,T-005,Cargo Management,1,9,4
+C-2504,T-006,Refueling,1,9,4
+C-2505,T-006,Refueling,1,9,4
+C-2506,T-007,Cleaning,1,9,4
+C-2507,T-007,Cleaning,1,9,4
+C-2508,T-008,De-icing,1,9,4
+C-2509,T-009,Water and Waste Services,1,9,4
+C-2510,T-009,Water and Waste Services,1,9,4
+C-2511,T-010,Aircraft Inspections,1,9,4
+C-2512,T-010,Aircraft Inspections,1,9,4
+C-2513,T-011,Ground Power Unit Operations,1,9,4
+C-2514,T-012,Safety Zone Maintenance,1,9,4
+C-2515,T-012,Safety Zone Maintenance,1,9,4
+C-2516,T-013,Pushback and Towing,1,9,4
+C-2517,T-013,Pushback and Towing,1,9,4
+C-2518,T-013,Pushback and Towing,1,9,4
+C-2519,T-014,Conveyor Belts and Baggage Carts,1,9,4
+C-2520,T-014,Conveyor Belts and Baggage Carts,1,9,4
+C-2521,T-014,Conveyor Belts and Baggage Carts,1,9,4
+C-2522,T-014,Conveyor Belts and Baggage Carts,1,9,4
+C-2523,T-015,Ramp Equipment Management,1,9,4
+C-2524,T-016,Liaison with ATC,1,9,4
+C-2525,T-017,Coordination with Airlines,1,9,4
+C-2526,T-017,Coordination with Airlines,1,9,4
+C-2527,T-018,Emergency Response,1,9,4
+C-2528,T-019,Weather Adaptations,1,9,4
+C-2529,T-001,Aircraft Marshalling,1,10,4
+C-2530,T-002,Passenger Assistance,1,10,4
+C-2531,T-002,Passenger Assistance,1,10,4
+C-2532,T-003,Loading and Unloading Baggage,1,10,4
+C-2533,T-003,Loading and Unloading Baggage,1,10,4
+C-2534,T-004,Baggage Sorting,1,10,4
+C-2535,T-004,Baggage Sorting,1,10,4
+C-2536,T-004,Baggage Sorting,1,10,4
+C-2537,T-005,Cargo Management,1,10,4
+C-2538,T-005,Cargo Management,1,10,4
+C-2539,T-006,Refueling,1,10,4
+C-2540,T-006,Refueling,1,10,4
+C-2541,T-007,Cleaning,1,10,4
+C-2542,T-007,Cleaning,1,10,4
+C-2543,T-008,De-icing,1,10,4
+C-2544,T-009,Water and Waste Services,1,10,4
+C-2545,T-009,Water and Waste Services,1,10,4
+C-2546,T-010,Aircraft Inspections,1,10,4
+C-2547,T-010,Aircraft Inspections,1,10,4
+C-2548,T-011,Ground Power Unit Operations,1,10,4
+C-2549,T-012,Safety Zone Maintenance,1,10,4
+C-2550,T-012,Safety Zone Maintenance,1,10,4
+C-2551,T-013,Pushback and Towing,1,10,4
+C-2552,T-013,Pushback and Towing,1,10,4
+C-2553,T-013,Pushback and Towing,1,10,4
+C-2554,T-014,Conveyor Belts and Baggage Carts,1,10,4
+C-2555,T-014,Conveyor Belts and Baggage Carts,1,10,4
+C-2556,T-014,Conveyor Belts and Baggage Carts,1,10,4
+C-2557,T-014,Conveyor Belts and Baggage Carts,1,10,4
+C-2558,T-015,Ramp Equipment Management,1,10,4
+C-2559,T-016,Liaison with ATC,1,10,4
+C-2560,T-017,Coordination with Airlines,1,10,4
+C-2561,T-017,Coordination with Airlines,1,10,4
+C-2562,T-018,Emergency Response,1,10,4
+C-2563,T-019,Weather Adaptations,1,10,4
+C-2564,T-001,Aircraft Marshalling,1,11,4
+C-2565,T-002,Passenger Assistance,1,11,4
+C-2566,T-002,Passenger Assistance,1,11,4
+C-2567,T-003,Loading and Unloading Baggage,1,11,4
+C-2568,T-003,Loading and Unloading Baggage,1,11,4
+C-2569,T-004,Baggage Sorting,1,11,4
+C-2570,T-004,Baggage Sorting,1,11,4
+C-2571,T-004,Baggage Sorting,1,11,4
+C-2572,T-005,Cargo Management,1,11,4
+C-2573,T-005,Cargo Management,1,11,4
+C-2574,T-006,Refueling,1,11,4
+C-2575,T-006,Refueling,1,11,4
+C-2576,T-007,Cleaning,1,11,4
+C-2577,T-007,Cleaning,1,11,4
+C-2578,T-008,De-icing,1,11,4
+C-2579,T-009,Water and Waste Services,1,11,4
+C-2580,T-009,Water and Waste Services,1,11,4
+C-2581,T-010,Aircraft Inspections,1,11,4
+C-2582,T-010,Aircraft Inspections,1,11,4
+C-2583,T-011,Ground Power Unit Operations,1,11,4
+C-2584,T-012,Safety Zone Maintenance,1,11,4
+C-2585,T-012,Safety Zone Maintenance,1,11,4
+C-2586,T-013,Pushback and Towing,1,11,4
+C-2587,T-013,Pushback and Towing,1,11,4
+C-2588,T-013,Pushback and Towing,1,11,4
+C-2589,T-014,Conveyor Belts and Baggage Carts,1,11,4
+C-2590,T-014,Conveyor Belts and Baggage Carts,1,11,4
+C-2591,T-014,Conveyor Belts and Baggage Carts,1,11,4
+C-2592,T-014,Conveyor Belts and Baggage Carts,1,11,4
+C-2593,T-015,Ramp Equipment Management,1,11,4
+C-2594,T-016,Liaison with ATC,1,11,4
+C-2595,T-017,Coordination with Airlines,1,11,4
+C-2596,T-017,Coordination with Airlines,1,11,4
+C-2597,T-018,Emergency Response,1,11,4
+C-2598,T-019,Weather Adaptations,1,11,4
+C-2599,T-001,Aircraft Marshalling,1,12,4
+C-2600,T-002,Passenger Assistance,1,12,4
+C-2601,T-002,Passenger Assistance,1,12,4
+C-2602,T-003,Loading and Unloading Baggage,1,12,4
+C-2603,T-003,Loading and Unloading Baggage,1,12,4
+C-2604,T-004,Baggage Sorting,1,12,4
+C-2605,T-004,Baggage Sorting,1,12,4
+C-2606,T-004,Baggage Sorting,1,12,4
+C-2607,T-005,Cargo Management,1,12,4
+C-2608,T-005,Cargo Management,1,12,4
+C-2609,T-006,Refueling,1,12,4
+C-2610,T-006,Refueling,1,12,4
+C-2611,T-007,Cleaning,1,12,4
+C-2612,T-007,Cleaning,1,12,4
+C-2613,T-008,De-icing,1,12,4
+C-2614,T-009,Water and Waste Services,1,12,4
+C-2615,T-009,Water and Waste Services,1,12,4
+C-2616,T-010,Aircraft Inspections,1,12,4
+C-2617,T-010,Aircraft Inspections,1,12,4
+C-2618,T-011,Ground Power Unit Operations,1,12,4
+C-2619,T-012,Safety Zone Maintenance,1,12,4
+C-2620,T-012,Safety Zone Maintenance,1,12,4
+C-2621,T-013,Pushback and Towing,1,12,4
+C-2622,T-013,Pushback and Towing,1,12,4
+C-2623,T-013,Pushback and Towing,1,12,4
+C-2624,T-014,Conveyor Belts and Baggage Carts,1,12,4
+C-2625,T-014,Conveyor Belts and Baggage Carts,1,12,4
+C-2626,T-014,Conveyor Belts and Baggage Carts,1,12,4
+C-2627,T-014,Conveyor Belts and Baggage Carts,1,12,4
+C-2628,T-015,Ramp Equipment Management,1,12,4
+C-2629,T-016,Liaison with ATC,1,12,4
+C-2630,T-017,Coordination with Airlines,1,12,4
+C-2631,T-017,Coordination with Airlines,1,12,4
+C-2632,T-018,Emergency Response,1,12,4
+C-2633,T-019,Weather Adaptations,1,12,4

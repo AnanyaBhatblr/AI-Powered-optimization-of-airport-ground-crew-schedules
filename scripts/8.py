@@ -43,10 +43,10 @@ def add_crew_demand_combined_patterns(input_csv, output_csv):
 
 
 # Example usage:
-input_csv = "output.csv"  # Replace with your input CSV file path
-output_csv = "output_with_combined_patterns.csv"
+input_csv = "../dataset/HT1/outputHT1.csv"  # Replace with your input CSV file path
+output_csv = "../dataset/HT1/output2HT1.csv"
 
-# Create a sample input CSV if it doesn't exist
+# Create a sample input CSV if it doesn't exist2
 try:
     test_df = pd.read_csv(input_csv)
 except FileNotFoundError:

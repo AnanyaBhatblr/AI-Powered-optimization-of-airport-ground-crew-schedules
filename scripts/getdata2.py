@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-input_file = "../data/crew_data.csv"
+input_file = "../dataset/HT1/crew_dataHT1.csv"
 data = pd.read_csv(input_file)
 
 # Define criticality levels based on task_ID
@@ -42,7 +42,7 @@ summary = (
 )
 
 # Save the aggregated data to a new CSV
-output_file = "../data/task_personnel_summary.csv"
+output_file = "../dataset/HT1/task_personnel_summaryHT1.csv"
 summary.to_csv(output_file, index=False)
 
 print(f"Aggregated dataset with numeric criticality saved to {output_file}")
