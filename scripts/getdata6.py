@@ -18,9 +18,9 @@ def add_personnel_to_dataset(dataset1_csv, dataset2_csv, output_csv):
     merged_df.to_csv(output_csv, index=False)
 
 # Specify file paths
-dataset1_csv = "../dataset/HT1/task_personnel_summaryHT1.csv"  # Replace with the path to Dataset 1
-dataset2_csv = "../dataset/HT1/output_with_datesHT1.csv"  # Replace with the path to Dataset 2
-output_csv = "../dataset/HT1/outputHT1.csv"  # Output file path
+dataset1_csv = "../dataset/BT1/task_personnel_summaryBT1.csv"  # Replace with the path to Dataset 1
+dataset2_csv = "../dataset/BT1/output_with_datesBT1.csv"  # Replace with the path to Dataset 2
+output_csv = "../dataset/BT1/outputBT1.csv"  # Output file path
 
 # Add Number_of_Personnel to Dataset 2 and save
 add_personnel_to_dataset(dataset1_csv, dataset2_csv, output_csv)

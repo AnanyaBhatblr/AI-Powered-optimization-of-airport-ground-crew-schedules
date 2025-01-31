@@ -15,8 +15,8 @@ def add_crew_demand(input_csv, output_csv):
     df.to_csv(output_csv, index=False)
 
 # Specify file paths
-input_csv = "../dataset/HT1/outputHT1.csv"  # Replace with your input CSV file path
-output_csv = "../dataset/HT1/outputfinalHT1.csv"  # Output file path
+input_csv = "../dataset/BT1/outputBT1.csv"  # Replace with your input CSV file path
+output_csv = "../dataset/BT1/outputfinalBT1.csv"  # Output file path
 
 # Add the crew demand column and save the updated CSV
 add_crew_demand(input_csv, output_csv)

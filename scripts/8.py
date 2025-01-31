@@ -43,8 +43,8 @@ def add_crew_demand_combined_patterns(input_csv, output_csv):
 
 
 # Example usage:
-input_csv = "../dataset/HT1/outputHT1.csv"  # Replace with your input CSV file path
-output_csv = "../dataset/HT1/output2HT1.csv"
+input_csv = "../dataset/BT1/outputBT1.csv"  # Replace with your input CSV file path
+output_csv = "../dataset/BT1/output2BT1.csv"
 
 # Create a sample input CSV if it doesn't exist2
 try:
