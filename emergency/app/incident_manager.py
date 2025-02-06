@@ -2,6 +2,9 @@ import pandas as pd
 from transformers import BertTokenizer, BertModel
 import torch
 from datetime import datetime
+import os
+import random
+import time
 
 
 class IncidentManager:
@@ -18,7 +21,15 @@ class IncidentManager:
             4: "Critical"
         }
 
-        self.incidents = pd.DataFrame()
+        # Initialize incidents DataFrame from file if it exists
+        self.incidents_file = 'emergency/data/incidents.csv'
+        if os.path.exists(self.incidents_file):
+            self.incidents = pd.read_csv(self.incidents_file)
+        else:
+            self.incidents = pd.DataFrame()  # Remove the 'ß' character here
+
+        self.resolved_incidents = pd.DataFrame()
+
         self.process_analyzer = None  # Will be set from app.py
 
     def set_process_analyzer(self, analyzer):
@@ -33,17 +44,74 @@ class IncidentManager:
         if 'Timestamp' not in incident_data:
             incident_data['Timestamp'] = pd.Timestamp.now()
 
-        # Add to incidents DataFrame
-        self.incidents = pd.concat(
-            [self.incidents, pd.DataFrame([incident_data])], ignore_index=True)
+        # Load existing incidents first
+        if os.path.exists(self.incidents_file):
+            existing_incidents = pd.read_csv(self.incidents_file)
+            self.incidents = pd.concat(
+                [existing_incidents, pd.DataFrame([incident_data])], ignore_index=True)
+        else:
+            self.incidents = pd.concat(
+                [self.incidents, pd.DataFrame([incident_data])], ignore_index=True)
 
         # Update process analyzer
         if self.process_analyzer:
             self.process_analyzer.add_incident(incident_data)
 
+        # Persist the incidents data to the CSV file
+        self.incidents.to_csv(self.incidents_file, index=False)
+
     def get_active_incidents(self):
         """Get all unresolved incidents"""
         return self.incidents[self.incidents['Status'] == 'Active']
+
+    def resolve_incident(self, incident_id, resolution_time=None):
+        """Mark an incident as resolved and calculate resolution time"""
+        try:
+            # Validate resolution time
+            if resolution_time is None or resolution_time < 0:
+                print(f"Invalid resolution time: {resolution_time}")
+                return False
+
+            # Load latest incident data
+            if os.path.exists(self.incidents_file):
+                self.incidents = pd.read_csv(self.incidents_file)
+            else:
+                print(f"Incidents file not found: {self.incidents_file}")
+                return False
+
+            if incident_id in self.incidents['Incident_ID'].values:
+                # Update incident status
+                mask = self.incidents['Incident_ID'] == incident_id
+
+                # Verify incident is active
+                if self.incidents.loc[mask, 'Status'].iloc[0] != 'Active':
+                    print(f"Incident {incident_id} is not active")
+                    return False
+
+                # Update the incident
+                self.incidents.loc[mask, 'Status'] = 'Resolved'
+                self.incidents.loc[mask, 'Resolution_Time'] = resolution_time
+
+                # Save changes immediately
+                self.incidents.to_csv(self.incidents_file, index=False)
+                print(f"Successfully resolved incident {incident_id}")
+
+                # Update process analyzer
+                if self.process_analyzer:
+                    self.process_analyzer.load_incident_history(
+                        self.incidents_file)
+                    if not self.process_analyzer.update_response_metrics(incident_id, resolution_time):
+                        print("Warning: Failed to update process analyzer metrics")
+                return True
+
+            print(f"Incident {incident_id} not found")
+            return False
+
+        except Exception as e:
+            print(f"Error in resolve_incident: {str(e)}")
+            import traceback
+            print(traceback.format_exc())
+            return False
 
     def analyze_incident_report(self, report_text):
         """Enhanced incident analysis"""
@@ -112,19 +180,24 @@ class IncidentManager:
         return found_keywords
 
     def _estimate_duration(self, text):
-        """
-        Estimate incident resolution duration in minutes based on description
-        """
-        # Default duration for different severity levels
-        duration_by_severity = {
-            4: 120,  # Critical: 2 hours
-            3: 90,   # High: 1.5 hours
-            2: 60,   # Medium: 1 hour
-            1: 30    # Low: 30 minutes
-        }
-
+        """Estimate incident resolution duration based on severity"""
         severity = self._classify_severity(text)
-        return duration_by_severity[severity]
+        base_times = {
+            4: random.randint(20, 45),  # Critical: 20-45 min
+            3: random.randint(30, 90),  # High: 30-90 min
+            2: random.randint(60, 180),  # Medium: 1-3 hours
+            1: random.randint(120, 360)  # Low: 2-6 hours
+        }
+        return base_times[severity]
+
+    def assign_crew(self, incident_id, crew_id):
+        """Assign a crew to an incident"""
+        if incident_id in self.incidents['Incident_ID'].values:
+            self.incidents.loc[self.incidents['Incident_ID']
+                               == incident_id, 'Crew_Assigned'] = crew_id
+            self.incidents.to_csv(self.incidents_file, index=False)
+            return True
+        return False
 
     def _determine_required_skills(self, text):
         """

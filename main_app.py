@@ -1,7 +1,11 @@
 import streamlit as st
 import sys
 import os
-
+st.set_page_config(
+    page_title="Airport Operations Management System",
+    page_icon="✈️",
+    layout="wide"
+)
 # Add the module paths
 sys.path.append(os.path.join(os.path.dirname(__file__), 'finaloperations'))
 sys.path.append(os.path.join(os.path.dirname(__file__), 'Productivity'))
@@ -16,15 +20,11 @@ from Airport_Skill.main import main as skill_analysis  # Updated import
 from emergency.app.app import main as emergency_main
 
 # Configure the page
-st.set_page_config(
-    page_title="Airport Operations Management System",
-    page_icon="✈️",
-    layout="wide"
-)
+
 
 # Create the navigation
 def home_page():
-    st.title("✈️ Welcome to Airport Operations Management System")
+    st.title("✈️ Welcome to Airport Ground Operations Management System")
     st.markdown("""
     ### An Integrated Solution for Airport Ground Operations
     
@@ -67,7 +67,7 @@ elif page == "Dynamic Crew Reallocation":
     lstmapp.main()
 elif page == "Crew Skill Analysis":
     skill_analysis()  # Updated function call
-else:
+elif page=="Emergency Response":
     emergency_main()
 
 # Footer

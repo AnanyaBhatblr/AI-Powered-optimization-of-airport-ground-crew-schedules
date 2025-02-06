@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import time  # Add this import at the top
 from emergency.app.incident_router import IncidentRouter
 from emergency.app.incident_manager import IncidentManager
 from emergency.app.process_analyzer import ProcessAnalyzer
@@ -7,7 +8,7 @@ from emergency.app.crew_coordinator import CrewCoordinator
 from emergency.app.airport_configs import AIRPORTS
 
 def main():
-    # Airport Selection in Sidebar
+# Airport Selection in Sidebar
     st.sidebar.title("Airport Configuration")
     selected_airport = st.sidebar.selectbox(
         "Select Airport",
@@ -146,7 +147,10 @@ def main():
                 # Analyze incident
                 analysis = incident_manager.analyze_incident_report(incident_text)
                 severity_level = analysis.get('severity', 1)
-                severity_text = SEVERITY_LEVELS.get(severity_level, "Unknown")
+                estimated_time = analysis.get('estimated_duration', 60)
+
+                # Get random crew member
+                nearest_crew = crew_coordinator.get_random_crew()
 
                 # Create incident data
                 incident_data = {
@@ -156,64 +160,115 @@ def main():
                     'Severity': severity_level,
                     'Status': 'Active',
                     'Timestamp': pd.Timestamp.now(),
-                    'Crew_Assigned': None,
-                    'Resolution_Time': None
+                    'Crew_Assigned': nearest_crew,
+                    'Resolution_Time': None,
+                    'Estimated_Resolution_Time': estimated_time
                 }
 
                 # Add incident
                 incident_manager.add_incident(incident_data)
 
-                st.success(f"Incident reported with severity: {severity_text}")
-
-                # Find and assign crew
-                nearest_crew = crew_coordinator.find_nearest_crew(
-                    incident_location, "Skilled")
-                if nearest_crew is not None:
-                    incident_data['Crew_Assigned'] = nearest_crew['Crew_ID']
-                    st.success(f"Assigned crew member: {nearest_crew['Crew_ID']}")
-                else:
-                    st.warning("No available crew members found")
-            else:
-                st.error("Please provide incident description and location")
+                st.success(f"""
+                Incident reported:
+                - Severity: {SEVERITY_LEVELS[severity_level]}
+                - Assigned Crew: {nearest_crew}
+                - Estimated Resolution Time: {estimated_time} minutes
+                """)
 
     # Incident Analytics
     st.header("Incident Analytics")
-    col1, col2 = st.columns(2)
+    tab1, tab2 = st.tabs(["Resolution Time Analysis", "Location Heatmap"])
 
-    with col1:
+    with tab1:
+        if st.button("Show Resolution Time Analysis"):
+            analysis = process_analyzer.analyze_resolution_times()
+
+            for severity, data in analysis.items():
+                st.subheader(severity)
+                col1, col2 = st.columns(2)
+
+                with col1:
+                    st.metric("Average Resolution Time", f"{
+                            data['avg_resolution_time']} min")
+                    st.metric("Total Incidents", data['incident_count'])
+
+                with col2:
+                    st.write("Resolution Times by Location:")
+                    for loc, time in data['by_location'].items():
+                        st.text(f"{loc}: {round(time, 2)} min")
+
+    with tab2:
         if st.button("Show Incident Heatmap"):
-            incidents_by_location = process_analyzer.incident_history.groupby(
-                'Location').size()
-            st.bar_chart(incidents_by_location)
-
-    with col2:
-        if st.button("Analyze Response Times"):
-            bottlenecks = process_analyzer.analyze_bottlenecks()
-            st.write("Response Time Analysis:", bottlenecks)
+            incidents_by_location = process_analyzer.get_incidents_by_location()
+            if not incidents_by_location.empty:
+                st.bar_chart(incidents_by_location)
+                st.caption("Number of Incidents by Location")
+            else:
+                st.info("No incident data available for heatmap")
 
     # Incident Management
     st.header("Incident Management")
     with st.expander("Incident Dashboard"):
-        # Filters
-        col1, col2 = st.columns(2)
-        with col1:
-            severity_filter = st.multiselect(
-                "Filter by Severity",
-                options=list(incident_manager.severity_levels.values())
-            )
-        with col2:
-            location_filter = st.multiselect(
-                "Filter by Location",
-                options=location_options
-            )
-
         # Display active incidents
         st.subheader("Active Incidents")
-        active_incidents = process_analyzer.get_active_incidents()
+        active_incidents = incident_manager.get_active_incidents()
+
         if not active_incidents.empty:
             st.dataframe(active_incidents)
+
+            incident_to_resolve = st.selectbox(
+                "Select incident to mark as resolved",
+                options=active_incidents['Incident_ID'].tolist(),
+                key="resolve_incident_select"
+            )
+
+            if st.button("Mark as Resolved"):
+                try:
+                    incident_mask = active_incidents['Incident_ID'] == incident_to_resolve
+                    incident_start = pd.to_datetime(
+                        active_incidents.loc[incident_mask, 'Timestamp'].iloc[0])
+                    resolution_time = (pd.Timestamp.now() -
+                                    incident_start).total_seconds() / 60
+
+                    if incident_manager.resolve_incident(incident_to_resolve, resolution_time):
+                        # Reload data
+                        process_analyzer.load_incident_history(
+                            'emergency/data/incidents.csv')
+                        incident_manager.incidents = pd.read_csv(
+                            'emergency/data/incidents.csv')
+
+                        st.success(f"Incident {incident_to_resolve} marked as resolved after {resolution_time:.2f} minutes")
+                        import time  # Move import here to ensure it's available
+                        time.sleep(1)  # Brief pause to ensure file updates are complete
+                        st.rerun()
+                    else:
+                        st.error("Failed to resolve incident. Check logs for details.")
+
+                except Exception as e:
+                    st.error(f"Error resolving incident: {str(e)}")
+
         else:
             st.info("No active incidents")
+
+
+def add_incident(self, incident_data):
+    """Add new incident and update tracking"""
+    if 'Status' not in incident_data:
+        incident_data['Status'] = 'Active'
+    if 'Timestamp' not in incident_data:
+        incident_data['Timestamp'] = pd.Timestamp.now()
+
+    # Add to incidents DataFrame
+    self.incidents = pd.concat(
+        [self.incidents, pd.DataFrame([incident_data])], ignore_index=True)
+
+    # Update process analyzer
+    if self.process_analyzer:
+        self.process_analyzer.add_incident(incident_data)
+
+    # Persist the incidents data to the CSV file
+    self.incidents.to_csv('emergency/data/incidents.csv', index=False)
+
 
 if __name__ == "__main__":
     main()
