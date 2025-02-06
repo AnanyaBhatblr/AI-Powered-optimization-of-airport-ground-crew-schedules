@@ -1,0 +1,56 @@
+
+    if selected_location=="Bengaluru Terminal 1":
+            # Load the dataset
+            crew_df = pd.read_csv("BT1/crew_data.csv")
+            training_df = pd.read_csv('BT1/training_history.csv')
+            feedback_df = pd.read_csv('BT1/performance_feedback.csv')    
+            performance_df = pd.read_csv("BT1/crew_performance_BT1.csv")
+
+    if selected_location=="Bengaluru Terminal 2":
+            # Load the dataset
+            crew_df = pd.read_csv("BT2/crew_data.csv")
+            training_df = pd.read_csv('BT2/training_history.csv')
+            feedback_df = pd.read_csv('BT2/performance_feedback.csv')    
+            performance_df = pd.read_csv("BT2/crew_performance_BT2.csv")
+
+    if selected_location=="Delhi Terminal 1":
+            # Load the dataset
+            crew_df = pd.read_csv("DT1/crew_data.csv")
+            training_df = pd.read_csv('DT1/training_history.csv')
+            feedback_df = pd.read_csv('DT1/performance_feedback.csv')    
+            performance_df = pd.read_csv("DT1/crew_performance_DT1.csv")
+
+    if selected_location=="Delhi Terminal 2":
+            # Load the dataset
+            crew_df = pd.read_csv("DT2/crew_data.csv")
+            training_df = pd.read_csv('DT2/training_history.csv')
+            feedback_df = pd.read_csv('DT2/performance_feedback.csv')    
+            performance_df = pd.read_csv("DT2/crew_performance_DT2.csv")
+
+    if selected_location=="Delhi Terminal 3":
+            # Load the dataset
+            crew_df = pd.read_csv("DT3/crew_data.csv")
+            training_df = pd.read_csv('DT3/training_history.csv')
+            feedback_df = pd.read_csv('DT3/performance_feedback.csv')    
+            performance_df = pd.read_csv("DT3/crew_performance_DT3.csv")
+
+    if selected_location=="Hyderabad Terminal 1":
+            # Load the dataset
+            crew_df = pd.read_csv("HT1/crew_data.csv")
+            training_df = pd.read_csv('HT1/training_history.csv')
+            feedback_df = pd.read_csv('HT1/performance_feedback.csv')    
+            performance_df = pd.read_csv("HT1/crew_performance_HT1.csv")
+
+    if selected_location=="Mumbai Terminal 1":
+            # Load the dataset
+            crew_df = pd.read_csv("MT1/crew_data.csv")
+            training_df = pd.read_csv('MT1/training_history.csv')
+            feedback_df = pd.read_csv('MT1/performance_feedback.csv')    
+            performance_df = pd.read_csv("MT1/crew_performance_MT1.csv")
+
+    if selected_location=="Mumbai Terminal 2":
+            # Load the dataset
+            crew_df = pd.read_csv("MT2/crew_data.csv")
+            training_df = pd.read_csv('MT2/training_history.csv')
+            feedback_df = pd.read_csv('MT2/performance_feedback.csv')    
+            performance_df = pd.read_csv("MT2/crew_performance_MT2.csv")

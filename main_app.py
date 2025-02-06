@@ -7,12 +7,13 @@ sys.path.append(os.path.join(os.path.dirname(__file__), 'finaloperations'))
 sys.path.append(os.path.join(os.path.dirname(__file__), 'Productivity'))
 sys.path.append(os.path.join(os.path.dirname(__file__), 'Airport_final'))
 sys.path.append(os.path.join(os.path.dirname(__file__), 'emergency'))
+sys.path.append(os.path.join(os.path.dirname(__file__), 'Airport_Skill'))  # Add new path
 
 # Import the modules
 from finaloperations import lstmapp
 from Productivity import final_productivity
-from Airport_final import final_skill
-from emergency.app.app import main as emergency_main  # Updated import
+from Airport_Skill.main import main as skill_analysis  # Updated import
+from emergency.app.app import main as emergency_main
 
 # Configure the page
 st.set_page_config(
@@ -54,20 +55,20 @@ def home_page():
 st.sidebar.title("Navigation")
 page = st.sidebar.radio(
     "Select a Page",
-    ["Home", "Crew Demand Prediction", "Crew Performance Analysis", "Crew Skill Analysis", "Emergency Response"]
+    ["Home", "Crew Productivity Monitoring", "Dynamic Crew Reallocation", "Crew Skill Analysis", "Emergency Response"]
 )
 
 # Display the selected page
 if page == "Home":
     home_page()
-elif page == "Crew Demand Prediction":
-    lstmapp.main()
-elif page == "Crew Performance Analysis":
+elif page == "Crew Productivity Monitoring":
     final_productivity.main()
+elif page == "Dynamic Crew Reallocation":
+    lstmapp.main()
 elif page == "Crew Skill Analysis":
-    final_skill.run_skill_analysis()
+    skill_analysis()  # Updated function call
 else:
-    emergency_main()  # Updated function call
+    emergency_main()
 
 # Footer
 st.sidebar.markdown("---")
