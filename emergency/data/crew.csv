@@ -1,0 +1,6 @@
+Crew_ID,Skill_Type,Current_Location,Availability,Clearance_Level
+C001,Skilled,Terminal 1,True,ALL
+C002,Skilled,Terminal 2,True,ALL
+C003,Skilled,Ground Services Hub,True,ALL
+C004,Emergency,Fire Station Main,True,ALL
+C005,Technical,MRO Facility,True,ALL

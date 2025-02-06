@@ -325,26 +325,25 @@ def main():
         "Mumbai Terminal 2", "Hyderabad Terminal 1"
     ])
     
-    # Update paths to use absolute paths from project root
     paths = {
-        "Mumbai Terminal 1": "dataset/MT1/predMT1.csv",
-        "Mumbai Terminal 2": "dataset/MT2/predMT2.csv",
-        "Bengaluru Terminal 1": "dataset/BT1/predBT1.csv",
-        "Bengaluru Terminal 2": "dataset/BT2/predBT2.csv",
-        "Delhi Terminal 2": "dataset/DT2/predDT2.csv",
-        "Delhi Terminal 1": "dataset/DT1/predDT1.csv",
-        "Delhi Terminal 3": "dataset/DT3/predDT3.csv",
-        "Hyderabad Terminal 1": "dataset/HT1/predHT1.csv",
+        "Mumbai Terminal 1": "../dataset/MT1/predMT1.csv",
+        "Mumbai Terminal 2": "../dataset/MT2/predMT2.csv",
+        "Bengaluru Terminal 1": "../dataset/BT1/predBT1.csv",
+        "Bengaluru Terminal 2": "../dataset/BT2/predBT2.csv",
+        "Delhi Terminal 2": "../dataset/DT2/predDT2.csv",
+        "Delhi Terminal 1": "../dataset/DT1/predDT1.csv",
+        "Delhi Terminal 3": "../dataset/DT3/predDT3.csv",
+        "Hyderabad Terminal 1": "../dataset/HT1/predHT1.csv",
     }
     paths2 = {
-        "Mumbai Terminal 1": "dataset/MT1/crew_dataMT1.csv",
-        "Mumbai Terminal 2": "dataset/MT2/crew_dataMT2.csv",
-        "Bengaluru Terminal 1": "dataset/BT1/crew_dataBT1.csv",
-        "Bengaluru Terminal 2": "dataset/BT2/crew_dataBT2.csv",
-        "Delhi Terminal 2": "dataset/DT2/crew_dataDT2.csv",
-        "Delhi Terminal 1": "dataset/DT1/crew_dataDT1.csv",
-        "Delhi Terminal 3": "dataset/DT3/crew_dataDT3.csv",
-        "Hyderabad Terminal 1": "dataset/HT1/crew_dataHT1.csv",
+        "Mumbai Terminal 1": "../dataset/MT1/crew_dataMT1.csv",
+        "Mumbai Terminal 2": "../dataset/MT2/crew_dataMT2.csv",
+        "Bengaluru Terminal 1": "../dataset/BT1/crew_dataBT1.csv",
+        "Bengaluru Terminal 2": "../dataset/BT2/crew_dataBT2.csv",
+        "Delhi Terminal 2": "../dataset/DT2/crew_dataDT2.csv",
+        "Delhi Terminal 1": "../dataset/DT1/crew_dataDT1.csv",
+        "Delhi Terminal 3": "../dataset/DT3/crew_dataDT3.csv",
+        "Hyderabad Terminal 1": "../dataset/HT1/crew_dataHT1.csv",
     }
     st.subheader("Or upload your custom data")
     uploaded_file = st.file_uploader("Upload your dataset (CSV)", type=["csv"])
@@ -384,9 +383,8 @@ def main():
         st.session_state.df_predictions = None
     
     if st.button("Show Predictions"):
-        file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), paths.get(option))
-        crew_file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), paths2.get(option))
-        
+        file_path = paths.get(option)
+        crew_file_path = paths2.get(option)
         if file_path and os.path.exists(file_path):
             df_predictions = pd.read_csv(file_path)
             df_predictions = df_predictions.drop(columns=["Actual"], errors='ignore')

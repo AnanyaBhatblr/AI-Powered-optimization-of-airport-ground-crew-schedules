@@ -1,0 +1,3 @@
+Incident_ID,Report_Text,Timestamp,Location,Severity,Status,Crew_Assigned,Resolution_Time
+INC0001,Equipment failure at Terminal A,2024-01-08 10:15:00,Terminal A,2,Resolved,CRW0123,45
+INC0002,Weather delay affecting operations,2024-01-08 11:30:00,Runway B,1,Pending,CRW0456,0

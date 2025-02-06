@@ -1,0 +1,240 @@
+crew_id,training_module,completion_date,score,feedback
+C-001,Team Building,2023-04-10,79,Demonstrates great potential for advancement
+C-001,Quality Management Systems,2023-11-07,94,Strong theoretical knowledge but requires practice
+C-001,Advanced Technical Operations,2023-02-19,86,Demonstrates great potential for advancement
+C-001,Communication Workshop,2024-03-26,88,Outstanding performance and engagement
+C-001,Advanced Technical Operations,2023-04-30,73,Excellent understanding of concepts
+C-001,Leadership Development,2023-05-06,83,Needs improvement in practical application
+C-001,Advanced Technical Operations,2023-05-12,92,Good progress but needs more confidence
+C-001,Quality Management Systems,2024-02-04,99,Good progress but needs more confidence
+C-002,Quality Management Systems,2023-08-11,75,Outstanding performance and engagement
+C-002,Equipment Handling,2023-07-30,75,Demonstrates great potential for advancement
+C-002,Communication Workshop,2023-05-25,98,Good progress but needs more confidence
+C-003,Advanced Technical Operations,2024-02-07,100,Strong theoretical knowledge but requires practice
+C-003,Basic Safety Training,2024-03-06,79,Good progress but needs more confidence
+C-004,Emergency Response Protocol,2024-01-26,99,Strong theoretical knowledge but requires practice
+C-004,Basic Safety Training,2023-06-03,73,Needs improvement in practical application
+C-004,Communication Workshop,2023-05-18,91,Needs improvement in practical application
+C-004,Emergency Response Protocol,2023-08-26,72,Needs improvement in practical application
+C-004,Advanced Technical Operations,2023-05-17,93,Outstanding performance and engagement
+C-004,Emergency Response Protocol,2023-03-01,83,Outstanding performance and engagement
+C-004,Communication Workshop,2023-08-17,79,Needs improvement in practical application
+C-004,Basic Safety Training,2023-09-17,85,Excellent understanding of concepts
+C-005,Equipment Handling,2023-09-26,91,Excellent understanding of concepts
+C-005,Team Building,2023-10-30,79,Outstanding performance and engagement
+C-005,Quality Management Systems,2024-02-15,96,Outstanding performance and engagement
+C-006,Advanced Technical Operations,2023-10-03,78,Demonstrates great potential for advancement
+C-006,Team Building,2023-07-01,100,Good progress but needs more confidence
+C-006,Emergency Response Protocol,2023-06-13,91,Demonstrates great potential for advancement
+C-006,Communication Workshop,2023-11-15,97,Strong theoretical knowledge but requires practice
+C-006,Advanced Technical Operations,2023-10-18,97,Strong theoretical knowledge but requires practice
+C-006,Communication Workshop,2023-02-10,90,Good progress but needs more confidence
+C-006,Communication Workshop,2023-12-15,79,Excellent understanding of concepts
+C-006,Basic Safety Training,2023-03-10,89,Strong theoretical knowledge but requires practice
+C-007,Risk Assessment,2023-08-25,97,Strong theoretical knowledge but requires practice
+C-007,Emergency Response Protocol,2023-06-09,76,Excellent understanding of concepts
+C-008,Risk Assessment,2023-05-20,72,Strong theoretical knowledge but requires practice
+C-008,Risk Assessment,2023-05-10,90,Strong theoretical knowledge but requires practice
+C-008,Communication Workshop,2024-01-28,78,Needs improvement in practical application
+C-008,Advanced Technical Operations,2023-07-31,77,Demonstrates great potential for advancement
+C-009,Leadership Development,2023-02-07,100,Good progress but needs more confidence
+C-009,Communication Workshop,2023-04-03,90,Needs improvement in practical application
+C-010,Communication Workshop,2023-08-15,77,Outstanding performance and engagement
+C-010,Equipment Handling,2023-12-26,80,Strong theoretical knowledge but requires practice
+C-011,Communication Workshop,2023-06-11,95,Outstanding performance and engagement
+C-011,Communication Workshop,2023-06-05,88,Needs improvement in practical application
+C-011,Risk Assessment,2024-03-08,95,Strong theoretical knowledge but requires practice
+C-011,Advanced Technical Operations,2023-05-11,73,Needs improvement in practical application
+C-011,Basic Safety Training,2023-05-29,82,Demonstrates great potential for advancement
+C-012,Equipment Handling,2023-10-22,84,Needs improvement in practical application
+C-012,Team Building,2023-04-07,72,Excellent understanding of concepts
+C-012,Risk Assessment,2023-01-24,84,Strong theoretical knowledge but requires practice
+C-012,Quality Management Systems,2023-11-07,93,Needs improvement in practical application
+C-013,Quality Management Systems,2023-05-04,93,Outstanding performance and engagement
+C-013,Communication Workshop,2023-01-19,79,Excellent understanding of concepts
+C-013,Risk Assessment,2023-02-21,80,Good progress but needs more confidence
+C-013,Quality Management Systems,2023-07-05,99,Demonstrates great potential for advancement
+C-014,Team Building,2023-10-17,92,Good progress but needs more confidence
+C-014,Communication Workshop,2023-08-01,91,Strong theoretical knowledge but requires practice
+C-014,Team Building,2023-09-13,72,Demonstrates great potential for advancement
+C-015,Advanced Technical Operations,2024-01-30,78,Outstanding performance and engagement
+C-015,Leadership Development,2024-02-06,73,Demonstrates great potential for advancement
+C-015,Risk Assessment,2023-01-08,92,Demonstrates great potential for advancement
+C-015,Team Building,2023-04-01,79,Needs improvement in practical application
+C-015,Risk Assessment,2023-07-14,90,Good progress but needs more confidence
+C-016,Team Building,2024-01-03,76,Outstanding performance and engagement
+C-016,Advanced Technical Operations,2023-04-27,75,Excellent understanding of concepts
+C-016,Basic Safety Training,2023-04-27,78,Needs improvement in practical application
+C-016,Communication Workshop,2023-09-21,100,Demonstrates great potential for advancement
+C-016,Advanced Technical Operations,2023-08-12,77,Good progress but needs more confidence
+C-016,Leadership Development,2024-03-11,95,Strong theoretical knowledge but requires practice
+C-016,Risk Assessment,2023-12-25,88,Excellent understanding of concepts
+C-017,Risk Assessment,2023-11-28,98,Outstanding performance and engagement
+C-017,Basic Safety Training,2023-02-28,95,Outstanding performance and engagement
+C-017,Quality Management Systems,2023-05-21,100,Demonstrates great potential for advancement
+C-017,Team Building,2023-11-24,94,Strong theoretical knowledge but requires practice
+C-017,Communication Workshop,2023-07-22,92,Good progress but needs more confidence
+C-017,Quality Management Systems,2023-11-01,70,Good progress but needs more confidence
+C-017,Communication Workshop,2023-07-19,97,Excellent understanding of concepts
+C-017,Communication Workshop,2023-09-24,97,Outstanding performance and engagement
+C-018,Emergency Response Protocol,2024-01-02,92,Strong theoretical knowledge but requires practice
+C-018,Basic Safety Training,2024-02-13,73,Excellent understanding of concepts
+C-018,Quality Management Systems,2024-01-04,78,Strong theoretical knowledge but requires practice
+C-018,Basic Safety Training,2023-03-02,78,Needs improvement in practical application
+C-019,Advanced Technical Operations,2024-01-16,80,Good progress but needs more confidence
+C-019,Basic Safety Training,2024-03-21,93,Demonstrates great potential for advancement
+C-020,Basic Safety Training,2023-08-10,97,Excellent understanding of concepts
+C-020,Basic Safety Training,2023-09-27,97,Good progress but needs more confidence
+C-021,Communication Workshop,2023-09-05,73,Needs improvement in practical application
+C-021,Quality Management Systems,2023-02-21,83,Good progress but needs more confidence
+C-021,Emergency Response Protocol,2023-03-12,93,Outstanding performance and engagement
+C-022,Team Building,2023-04-13,91,Excellent understanding of concepts
+C-022,Equipment Handling,2024-03-02,74,Needs improvement in practical application
+C-022,Advanced Technical Operations,2023-09-14,72,Outstanding performance and engagement
+C-022,Emergency Response Protocol,2023-08-04,82,Excellent understanding of concepts
+C-022,Emergency Response Protocol,2023-11-17,70,Needs improvement in practical application
+C-022,Risk Assessment,2024-01-04,99,Demonstrates great potential for advancement
+C-022,Equipment Handling,2023-10-01,87,Excellent understanding of concepts
+C-023,Quality Management Systems,2023-04-22,87,Strong theoretical knowledge but requires practice
+C-023,Advanced Technical Operations,2024-01-21,95,Excellent understanding of concepts
+C-023,Quality Management Systems,2024-01-18,70,Strong theoretical knowledge but requires practice
+C-023,Equipment Handling,2023-07-25,74,Good progress but needs more confidence
+C-023,Leadership Development,2023-12-10,72,Excellent understanding of concepts
+C-023,Quality Management Systems,2024-02-17,72,Excellent understanding of concepts
+C-024,Basic Safety Training,2024-02-03,89,Excellent understanding of concepts
+C-024,Leadership Development,2023-01-13,99,Good progress but needs more confidence
+C-024,Team Building,2023-02-21,98,Outstanding performance and engagement
+C-024,Advanced Technical Operations,2023-03-15,95,Good progress but needs more confidence
+C-024,Communication Workshop,2023-10-06,70,Needs improvement in practical application
+C-024,Basic Safety Training,2023-11-06,73,Needs improvement in practical application
+C-025,Quality Management Systems,2023-10-02,72,Strong theoretical knowledge but requires practice
+C-025,Basic Safety Training,2023-12-24,70,Excellent understanding of concepts
+C-025,Risk Assessment,2023-02-12,98,Excellent understanding of concepts
+C-025,Emergency Response Protocol,2023-03-10,87,Good progress but needs more confidence
+C-025,Communication Workshop,2023-04-30,80,Strong theoretical knowledge but requires practice
+C-025,Equipment Handling,2024-01-06,98,Needs improvement in practical application
+C-025,Risk Assessment,2023-07-29,89,Strong theoretical knowledge but requires practice
+C-025,Team Building,2023-08-24,94,Demonstrates great potential for advancement
+C-026,Quality Management Systems,2023-06-09,75,Good progress but needs more confidence
+C-026,Risk Assessment,2024-01-04,78,Needs improvement in practical application
+C-026,Communication Workshop,2023-10-17,86,Good progress but needs more confidence
+C-026,Quality Management Systems,2023-11-12,92,Good progress but needs more confidence
+C-027,Basic Safety Training,2023-02-18,70,Demonstrates great potential for advancement
+C-027,Advanced Technical Operations,2023-09-10,81,Excellent understanding of concepts
+C-027,Equipment Handling,2023-03-22,78,Demonstrates great potential for advancement
+C-027,Risk Assessment,2023-02-04,70,Good progress but needs more confidence
+C-027,Communication Workshop,2023-05-28,95,Excellent understanding of concepts
+C-027,Risk Assessment,2023-02-06,96,Outstanding performance and engagement
+C-028,Basic Safety Training,2023-04-04,89,Strong theoretical knowledge but requires practice
+C-028,Emergency Response Protocol,2023-07-20,91,Excellent understanding of concepts
+C-028,Leadership Development,2023-09-26,96,Demonstrates great potential for advancement
+C-028,Leadership Development,2023-03-20,86,Excellent understanding of concepts
+C-029,Equipment Handling,2023-08-06,91,Demonstrates great potential for advancement
+C-029,Advanced Technical Operations,2023-03-21,93,Strong theoretical knowledge but requires practice
+C-030,Leadership Development,2023-10-25,100,Excellent understanding of concepts
+C-030,Emergency Response Protocol,2023-09-30,73,Outstanding performance and engagement
+C-030,Quality Management Systems,2024-02-08,88,Demonstrates great potential for advancement
+C-031,Basic Safety Training,2024-01-19,91,Demonstrates great potential for advancement
+C-031,Equipment Handling,2023-06-12,80,Demonstrates great potential for advancement
+C-031,Advanced Technical Operations,2023-07-13,90,Outstanding performance and engagement
+C-031,Team Building,2023-11-28,99,Good progress but needs more confidence
+C-031,Leadership Development,2023-04-29,82,Strong theoretical knowledge but requires practice
+C-032,Communication Workshop,2023-11-25,99,Excellent understanding of concepts
+C-032,Quality Management Systems,2023-08-29,78,Outstanding performance and engagement
+C-032,Equipment Handling,2024-03-16,73,Needs improvement in practical application
+C-033,Basic Safety Training,2023-03-01,93,Outstanding performance and engagement
+C-033,Quality Management Systems,2024-01-25,83,Outstanding performance and engagement
+C-033,Risk Assessment,2023-08-27,95,Strong theoretical knowledge but requires practice
+C-033,Advanced Technical Operations,2023-10-28,77,Needs improvement in practical application
+C-033,Equipment Handling,2023-08-17,97,Excellent understanding of concepts
+C-033,Emergency Response Protocol,2023-12-31,80,Outstanding performance and engagement
+C-033,Risk Assessment,2024-03-01,79,Strong theoretical knowledge but requires practice
+C-033,Communication Workshop,2023-03-10,94,Outstanding performance and engagement
+C-034,Basic Safety Training,2023-08-17,77,Good progress but needs more confidence
+C-034,Leadership Development,2023-02-08,73,Excellent understanding of concepts
+C-034,Emergency Response Protocol,2023-03-31,100,Excellent understanding of concepts
+C-034,Advanced Technical Operations,2023-09-30,86,Strong theoretical knowledge but requires practice
+C-034,Basic Safety Training,2023-03-16,83,Outstanding performance and engagement
+C-035,Risk Assessment,2023-02-27,75,Needs improvement in practical application
+C-035,Quality Management Systems,2023-05-14,90,Good progress but needs more confidence
+C-035,Risk Assessment,2023-06-09,76,Demonstrates great potential for advancement
+C-035,Risk Assessment,2023-02-14,86,Excellent understanding of concepts
+C-035,Leadership Development,2023-07-03,78,Needs improvement in practical application
+C-036,Quality Management Systems,2023-09-18,82,Strong theoretical knowledge but requires practice
+C-036,Communication Workshop,2024-03-16,75,Strong theoretical knowledge but requires practice
+C-036,Quality Management Systems,2023-09-27,70,Strong theoretical knowledge but requires practice
+C-036,Equipment Handling,2023-06-09,83,Demonstrates great potential for advancement
+C-036,Team Building,2023-10-16,99,Demonstrates great potential for advancement
+C-036,Communication Workshop,2024-03-17,97,Demonstrates great potential for advancement
+C-036,Equipment Handling,2023-04-08,75,Outstanding performance and engagement
+C-037,Equipment Handling,2024-02-03,81,Demonstrates great potential for advancement
+C-037,Advanced Technical Operations,2023-07-04,70,Excellent understanding of concepts
+C-037,Communication Workshop,2023-07-24,79,Excellent understanding of concepts
+C-037,Communication Workshop,2024-02-20,83,Strong theoretical knowledge but requires practice
+C-037,Leadership Development,2023-01-14,89,Outstanding performance and engagement
+C-037,Advanced Technical Operations,2023-03-04,70,Good progress but needs more confidence
+C-037,Basic Safety Training,2023-05-09,84,Outstanding performance and engagement
+C-037,Leadership Development,2023-08-15,88,Good progress but needs more confidence
+C-038,Risk Assessment,2023-06-11,88,Demonstrates great potential for advancement
+C-038,Advanced Technical Operations,2023-03-19,80,Strong theoretical knowledge but requires practice
+C-038,Risk Assessment,2023-09-30,98,Strong theoretical knowledge but requires practice
+C-039,Communication Workshop,2024-03-04,81,Outstanding performance and engagement
+C-039,Advanced Technical Operations,2024-01-13,73,Excellent understanding of concepts
+C-040,Equipment Handling,2023-11-18,77,Demonstrates great potential for advancement
+C-040,Advanced Technical Operations,2023-01-02,85,Excellent understanding of concepts
+C-040,Basic Safety Training,2023-02-11,78,Outstanding performance and engagement
+C-040,Equipment Handling,2023-01-24,90,Excellent understanding of concepts
+C-040,Advanced Technical Operations,2023-06-18,80,Demonstrates great potential for advancement
+C-040,Quality Management Systems,2023-10-16,92,Good progress but needs more confidence
+C-040,Emergency Response Protocol,2023-09-21,86,Good progress but needs more confidence
+C-040,Emergency Response Protocol,2023-10-21,74,Needs improvement in practical application
+C-041,Communication Workshop,2023-02-24,87,Good progress but needs more confidence
+C-041,Leadership Development,2024-02-14,79,Good progress but needs more confidence
+C-042,Quality Management Systems,2023-11-25,91,Strong theoretical knowledge but requires practice
+C-042,Basic Safety Training,2024-01-27,96,Demonstrates great potential for advancement
+C-042,Advanced Technical Operations,2024-02-29,97,Needs improvement in practical application
+C-042,Equipment Handling,2023-04-05,88,Good progress but needs more confidence
+C-042,Communication Workshop,2023-09-17,75,Demonstrates great potential for advancement
+C-043,Risk Assessment,2023-02-02,86,Excellent understanding of concepts
+C-043,Emergency Response Protocol,2023-03-07,99,Demonstrates great potential for advancement
+C-043,Team Building,2023-10-12,96,Excellent understanding of concepts
+C-043,Equipment Handling,2023-09-24,95,Outstanding performance and engagement
+C-043,Team Building,2023-10-04,83,Good progress but needs more confidence
+C-043,Equipment Handling,2023-11-30,77,Needs improvement in practical application
+C-043,Advanced Technical Operations,2023-04-14,97,Strong theoretical knowledge but requires practice
+C-043,Quality Management Systems,2023-12-23,86,Needs improvement in practical application
+C-044,Advanced Technical Operations,2024-01-03,77,Good progress but needs more confidence
+C-044,Emergency Response Protocol,2023-06-04,94,Excellent understanding of concepts
+C-044,Communication Workshop,2023-03-29,97,Demonstrates great potential for advancement
+C-044,Basic Safety Training,2023-02-12,71,Outstanding performance and engagement
+C-045,Risk Assessment,2023-01-03,78,Needs improvement in practical application
+C-045,Advanced Technical Operations,2023-10-06,94,Outstanding performance and engagement
+C-045,Communication Workshop,2023-07-31,100,Needs improvement in practical application
+C-045,Leadership Development,2023-12-24,72,Outstanding performance and engagement
+C-045,Quality Management Systems,2023-08-06,81,Demonstrates great potential for advancement
+C-046,Leadership Development,2023-02-12,81,Good progress but needs more confidence
+C-046,Communication Workshop,2023-08-01,92,Strong theoretical knowledge but requires practice
+C-047,Advanced Technical Operations,2023-04-26,88,Demonstrates great potential for advancement
+C-047,Advanced Technical Operations,2023-03-02,73,Good progress but needs more confidence
+C-047,Equipment Handling,2023-04-24,86,Outstanding performance and engagement
+C-047,Equipment Handling,2023-12-10,87,Excellent understanding of concepts
+C-047,Risk Assessment,2023-03-11,71,Outstanding performance and engagement
+C-047,Leadership Development,2023-07-11,96,Strong theoretical knowledge but requires practice
+C-047,Emergency Response Protocol,2023-04-16,85,Strong theoretical knowledge but requires practice
+C-048,Communication Workshop,2023-10-31,89,Outstanding performance and engagement
+C-048,Communication Workshop,2023-12-11,75,Excellent understanding of concepts
+C-048,Quality Management Systems,2023-09-15,94,Good progress but needs more confidence
+C-049,Team Building,2023-01-08,92,Excellent understanding of concepts
+C-049,Equipment Handling,2024-03-16,95,Strong theoretical knowledge but requires practice
+C-049,Equipment Handling,2023-03-27,75,Good progress but needs more confidence
+C-049,Quality Management Systems,2023-04-29,85,Excellent understanding of concepts
+C-049,Advanced Technical Operations,2023-09-05,79,Good progress but needs more confidence
+C-049,Communication Workshop,2023-08-06,84,Strong theoretical knowledge but requires practice
+C-049,Advanced Technical Operations,2023-07-26,81,Outstanding performance and engagement
+C-050,Communication Workshop,2023-01-20,90,Outstanding performance and engagement
+C-050,Advanced Technical Operations,2024-02-06,91,Strong theoretical knowledge but requires practice
+C-050,Advanced Technical Operations,2023-01-27,74,Strong theoretical knowledge but requires practice
+C-050,Advanced Technical Operations,2023-05-22,86,Needs improvement in practical application
+C-050,Equipment Handling,2023-11-25,77,Demonstrates great potential for advancement
+C-050,Emergency Response Protocol,2023-04-04,84,Outstanding performance and engagement
+C-050,Leadership Development,2023-03-09,79,Outstanding performance and engagement
